@@ -1,6 +1,6 @@
-# How to learn ML for humans & :alien:
+# How to learn ML
 
-Learning path for AI/ML that worked for me :sparkles:
+Learning path for AI/ML :sparkles:
 
 ## Programming Knowledge 
 
