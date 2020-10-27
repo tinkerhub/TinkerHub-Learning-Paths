@@ -10,7 +10,7 @@ Things you need and need not.
 
 1. A :computer: with any OS :white_check_mark:
 2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) :white_check_mark:
-3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/),[Edge](https://www.microsoft.com/en-us/edge) :white_check_mark:
+3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge) :white_check_mark:
 4. Using super light Notepad Text Editor :x:
 5. High designing skills :x:
 6. Basic programming knowledge :white_check_mark:
