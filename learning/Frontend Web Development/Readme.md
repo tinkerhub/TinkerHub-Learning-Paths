@@ -10,7 +10,7 @@ Things you need and need not.
 
 1. A :computer: with any OS :white_check_mark:
 2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) :white_check_mark:
-3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/),[Edge](https://www.microsoft.com/en-us/edge)
+3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/),[Edge](https://www.microsoft.com/en-us/edge) :white_check_mark:
 4. Using super light Notepad Text Editor :x:
 5. High designing skills :x:
 6. Basic programming knowledge :white_check_mark:
@@ -30,7 +30,8 @@ Fundamental building blocks of web development is
 3. Then learn basic JavaScript and its use cases.
 4. Learn web development basics from [MDN](https://developer.mozilla.org/en-US/docs/Learn)
 5. If you want to learn like challenge-based, use [FreeCodeCamp](https://www.freecodecamp.org/)
-6. Built some small projects like tick-tac-toe, drum kit simulator
+6. Check out [JS in 14-min](https://jgthms.com/javascript-in14-minutes/) by [@jgthms](https://github.com/jgthms)
+7. Built some small projects like tick-tac-toe, drum kit simulator
 
 ## CSS-Frameworks, SASS & API Handling :star2:
 
