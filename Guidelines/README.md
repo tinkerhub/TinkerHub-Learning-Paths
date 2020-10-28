@@ -1,10 +1,15 @@
 > Template for creating learning paths!
 
-# How to learn X 
+# How to learn X
+
+## Why learn X :question:
+Applications of {X}.
+Future scope and emerging technologies with {X}, if any.
+Recent Advancements in {X}, (recent releases etc.)
 
 A learning path for learning {insert-tech} curated by {insert-curator-github-username}
 
-## Install and setup stuffs :construction: 
+## Install and setup stuffs :construction:
 For learning {insert-technology} you need to first setup the following things
 
 :white_check_mark: Tools and devices must have for learning this technology (like a computer and internet)
