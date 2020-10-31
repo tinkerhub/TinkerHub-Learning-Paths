@@ -2,12 +2,14 @@
 
 # How to learn X
 
+A learning path for learning {insert-tech} curated by {insert-curator-github-username}
+
 ## Why learn X :question:
 Applications of {X}.
-Future scope and emerging technologies with {X}, if any.
-Recent Advancements in {X}, (recent releases etc.)
 
-A learning path for learning {insert-tech} curated by {insert-curator-github-username}
+Future scope and emerging technologies with {X}, if any.
+
+Recent Advancements in {X}, (recent releases etc.)
 
 ## Install and setup stuffs :construction:
 For learning {insert-technology} you need to first setup the following things
