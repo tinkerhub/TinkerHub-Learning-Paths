@@ -75,7 +75,7 @@ Resources
 
 At this point, you have completed the basic concepts of HTML &  CSS. Congratulations on spending some of your days in learning the basics of HTML and CSS. I will leave you with a [this](https://github.com/bendc/frontend-guidelines) which talks about some guidelines and best practises to keep in mind when creating layouts with HTML and CSS and some more stuff that will be usefull for you.
 
-But as I mentioned in the begining of this path, Layout is just a part of the equation. To be able to make a usefull web app, you'll need to know a lot of javascript as well. Fell free to take a look at [Front End Web Development] path now that you have a good understanding of HTML and CSS.
+But as I mentioned in the begining of this path, Layout is just a part of the equation. To be able to make a usefull web app, you'll need to know a lot of javascript as well. Fell free to take a look at [Front End Web Development](https://github.com/aka8921/TinkerHub-Learning-Paths/blob/main/learning/Frontend%20Web%20Development/Readme.md) path now that you have a good understanding of HTML and CSS.
 
 :heart_eyes: All the best :smile:
 
