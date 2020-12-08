@@ -51,4 +51,14 @@ Tryhackme: https://tryhackme.com/
 Portswigger academy: https://portswigger.net/web-security
 Vulnhub: https://www.vulnhub.com/
 ```
-
+5. Tools needed
+```
+* Burpsuite
+* nmap
+* dirbuster/gobuster
+* sublist3r
+* Netcat
+* Owasp ZAP
+* Sqlmap
+```
+6. Bug bounty platforms
