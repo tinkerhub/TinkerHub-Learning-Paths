@@ -1,6 +1,6 @@
-# How to learn Hacking
+# How to learn Hacking and bug bounty
 
-by [Fasal](https://github.com/fasalmbt/):bowtie:
+by [Fasal](https://github.com/fasalmbt/) :sunglasses:
 
 ## Programming Knowledge 
 
@@ -30,8 +30,20 @@ Things you need and need not.
 
 ### Next steps (recommended)
 Do the following to take learning to the next level
-1. Learn tools. (Burp suite,Nmap and etc)
+1. Learn to code your own tools.
+```
+Programming your own tools is best step to become leet from noob. 
+You will learn a lot in this process about security related concepts.
+```
 2. Read Books. :book:
+```
+* Web app hackers handbook
+* Web hacking 101
+* Mastering modern web pen testing
+* Bug Bounty Playbook
+* Real World Bug Hunting
+* OWASP Testing Guide.
+```
 3. Watch youtube channels related to this field.
 ```
 Live Overflow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
@@ -62,3 +74,27 @@ Vulnhub: https://www.vulnhub.com/
 * Sqlmap
 ```
 6. Bug bounty platforms
+```
+* Open For Signup
+* Hackerone
+* Bugcrowd
+* hackenproof
+* Bugbountyjp
+* Intigriti
+* Open Bug Bounty
+* Yogosha
+```
+7. Final notes :memo:
+```
+* PATIENCE IS THE KEY, takes years to master, don’t fall for overnight success
+* Do not expect someone will spoon feed you everything.
+* Confidence
+* Not always for bounty
+* Learn a lot.
+* Won’t find at the beginning, don’t lose hope
+* Stay focused
+* Depend on yourself
+* Stay updated with InfoSec world
+```
+
+Thanks :rocket:
