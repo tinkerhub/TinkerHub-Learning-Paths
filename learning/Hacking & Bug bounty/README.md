@@ -33,7 +33,7 @@ Do the following to take learning to the next level
 1. Learn tools. (Burp suite,Nmap and etc)
 2. Read Books. :book:
 3. Watch youtube channels related to this field.
----
+```
 Live Overflow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 Hackersploit: https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos
 Bugcrowd: https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
@@ -43,12 +43,12 @@ Stok: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
 nahamsec: https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 CyberMentor: https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw
 John Hammond: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
----
+```
 4. Time for some CTF. To gain experience from what you have learned you need a platform, CTF platforms will do that work.
----
+```
 Hackthebox: https://www.hackthebox.eu/
 Tryhackme: https://tryhackme.com/
 Portswigger academy: https://portswigger.net/web-security
 Vulnhub: https://www.vulnhub.com/
----
+```
 
