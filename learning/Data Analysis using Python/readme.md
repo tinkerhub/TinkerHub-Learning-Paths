@@ -1,1 +1,3 @@
-## Data Analysis using python :graph: :snake:
+## Data Analysis using python :snake:
+
+Hey folks :shake-hand:
