@@ -27,10 +27,15 @@ A learning path for learning data analysis using python curated by ![shaji-stark
 # Install and setup (Optional) :construction:
 
 For running the tools for data analysis you have two options:
-## 1. **Anaconda and Jupyter Notebooks**
-## 2. **Google Collaboratory**
-
-
+## :one: **Anaconda and Jupyter Notebooks**
+## :two: **Google Collaboratory**
+## We've given the instructions for :one: below, because there's no setting up to do for :two:!!
+## 1. Install Anaconda
+    Anaconda puts nearly all of the tools that we're going to need into a neat little package: the Python core language, an improved REPL environment called **Jupyter**, numeric computing libraries **(NumPy, pandas)**, plotting libraries **(seaborn, matplotlib)**, and statistics and machine learning libraries **(SciPy, scikit-learn, statsmodels)**. We'll use Anaconda's installer to handle setting up the environment that we'll work in.
+    In order to keep the size of the download small, we actually use a minimum set of packages called Miniconda.
+### Miniconda installer packages:
+### * [Windows](https://repo.continuum.io/miniconda/Miniconda2-latest-Windows-x86_64.exe)
+### * [Mac OSX](https://repo.continuum.io/miniconda/Miniconda2-latest-MacOSX-x86_64.sh)
 
 :white_check_mark: Tools and devices must have for learning this technology (like a computer and internet)
 
