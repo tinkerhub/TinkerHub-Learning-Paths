@@ -78,13 +78,8 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 ## 5. Leave the tutorial environment 
 
 * Windows: `deactivate tutorial`
-* osx: `source deactivate tutorial
-`
-:white_check_mark: Tools and devices must have for learning this technology (like a computer and internet)
+* osx: `source deactivate tutorial`
 
-:x: Things that people say or think needed for learning this tech, but actually not, atleast for getting started (like GPU for getting started with ML)
-
-> In the case of app dev, add the IDE that need to be set up.
 
 ## Let's start with numpy <img src="https://numpy.org/images/logos/numpy.svg" width=50>
 
