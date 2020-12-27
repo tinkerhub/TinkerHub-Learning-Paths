@@ -68,7 +68,7 @@ In your command prompt with the tutorial environment activated (Note: you'll be 
 Type the following command: 
 `jupyter notebook` 
 A browser window will open, showing the Jupyer environment. By default, you will be in a file browser view. 
-In the file browser, find where you have a Jupyter notebook. **Check out the materials we've attached by the end of this documantation**, if you wanna see it run! 
+In the file browser, find where you have a Jupyter notebook. **Check out the materials we've attached by the end of each curriculum documantation**, if you wanna see it run! 
 ### Click on one of the notebook (*.ipynb) files to get started!
 
 ## 4. Stop the notebook
@@ -83,11 +83,11 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 
 ## Let's start with numpy <img src="https://numpy.org/images/logos/numpy.svg" width=50>
 
-A brief description of the first thing to learn for learning {insert-technology}
+So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
 
-1. Numbered list of things you need to learn here.
+1. **You'll learn numerical computing using numpy here!**
 
-:bulb: Link couple of resources to learn
+### :bulb: []()
 
 ## Second thing to learn (Put suitable emoji)
 
@@ -95,11 +95,7 @@ A brief description of the second thing to learn in the learning path
 
 1. Numbered list of things you need to learn here.
 
-:bulb: Link couple of resources to learn
-
-```
-...
-```
+## :bulb: Here are a couple of resources you'd find useful! Happy learning ;)
 
 ## Nth thing to learn (Put suitable emoji)
 
