@@ -41,17 +41,20 @@ In order to keep the size of the download small, we actually use a minimum set o
 Once this downloads, you can follow the instructions for installing on your operating system [at this link](http://conda.pydata.org/docs/install/quick.html).
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
 
+## 2. Set up your environment
 
+Check out the environment files for windows and osx that we've given in this sub-repo `win-environment.yml` and `osx-environment.yml`. Copy it to your device and save it in a location, preferrably as `environment.yml`.
+#### Once that's done, open the command line by doing the following:
 
-
-#### Once the download finishes, open the command line by doing the following:
-
- Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
+Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
 OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the terminal.
 
 #### Run the following commands, which will install the package and put you in the tutorial environment.
 
-`conda env create -f <PATH_TO_ENVIRONMENT.YML>` - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded. For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. You'll have to replace <USERNAME> with your username on your machine.
+`conda env create -f <PATH_TO_ENVIRONMENT.YML>` 
+        - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded. 
+        For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. 
+        For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. You'll have to replace <USERNAME> with your username on your machine.
 
 
 
