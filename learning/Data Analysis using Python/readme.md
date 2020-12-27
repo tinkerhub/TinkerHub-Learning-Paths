@@ -44,14 +44,14 @@ Note: It's easiest just to use Anaconda's defaults in the installer. You don't h
 
 
 
-Once the download finishes, open the command line by doing the following:
+#### Once the download finishes, open the command line by doing the following:
 
-    Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
-    OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the terminal.
+ Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
+OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the terminal.
 
-Run the following commands, which will install the package and put you in the tutorial environment.
+#### Run the following commands, which will install the package and put you in the tutorial environment.
 
-    `conda env create -f <PATH_TO_ENVIRONMENT.YML>` - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded. For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. You'll have to replace <USERNAME> with your username on your machine.
+`conda env create -f <PATH_TO_ENVIRONMENT.YML>` - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded. For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. You'll have to replace <USERNAME> with your username on your machine.
 
 
 
