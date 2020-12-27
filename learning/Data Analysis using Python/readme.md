@@ -38,6 +38,23 @@ In order to keep the size of the download small, we actually use a minimum set o
 * ### [Windows](https://repo.continuum.io/miniconda/Miniconda2-latest-Windows-x86_64.exe)
 * ### [Mac OSX](https://repo.continuum.io/miniconda/Miniconda2-latest-MacOSX-x86_64.sh)
 
+Once this downloads, you can follow the instructions for installing on your operating system [at this link](http://conda.pydata.org/docs/install/quick.html).
+Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
+
+
+
+
+Once the download finishes, open the command line by doing the following:
+
+    Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
+    OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the terminal.
+
+Run the following commands, which will install the package and put you in the tutorial environment.
+
+    `conda env create -f <PATH_TO_ENVIRONMENT.YML>` - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded. For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. You'll have to replace <USERNAME> with your username on your machine.
+
+
+
 :white_check_mark: Tools and devices must have for learning this technology (like a computer and internet)
 
 :x: Things that people say or think needed for learning this tech, but actually not, atleast for getting started (like GPU for getting started with ML)
