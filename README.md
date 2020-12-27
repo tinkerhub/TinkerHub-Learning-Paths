@@ -2,8 +2,9 @@
 
 A learning path for learning data analysis using python curated by ![shaji-stark](https://github.com/shaji-stark)
 
-## Why learn X :question:
-Applications of {X}.
+## Why is python an excellent option for data analysis :question: :thinking:
+1. **Easy to learn**
+... Python is focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously. Thus, newbies can easily utilize its pretty simple syntax to build effective solutions even for complex scenarios.
 
 Future scope and emerging technologies with {X}, if any.
 
