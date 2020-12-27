@@ -33,7 +33,8 @@ For learning {insert-technology} you need to first setup the following things
 
 > In the case of app dev, add the IDE that need to be set up.
 
-## Let's start with numpy ![logo](src="https://numpy.org/images/logos/numpy.svg" width="50")
+## Let's start with numpy
+<img src="https://numpy.org/images/logos/numpy.svg" width=50>
 
 A brief description of the first thing to learn for learning {insert-technology}
 
