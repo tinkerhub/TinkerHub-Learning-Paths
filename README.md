@@ -1,8 +1,6 @@
-> Template for creating learning paths!
+### Data Analysis :chart: using Python :snake:
 
-# How to learn X
-
-A learning path for learning {insert-tech} curated by {insert-curator-github-username}
+A learning path for learning data analysis using python curated by ![shaji-stark](https://github.com/shaji-stark)
 
 ## Why learn X :question:
 Applications of {X}.
