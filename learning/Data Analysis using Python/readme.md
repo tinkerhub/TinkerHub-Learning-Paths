@@ -87,7 +87,7 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 
 1. **You'll learn numerical computing using numpy here!**
 
-### :bulb: []()
+### :bulb: [Resource]()
 
 ## Second thing to learn (Put suitable emoji)
 
