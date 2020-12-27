@@ -21,9 +21,8 @@ A learning path for learning data analysis using python curated by ![shaji-stark
 
 ## Future and scope of the field
 
+    As companies are becoming more tech-driven and fast-paced now,   data analysis professional are already playing an increasingly crucial role in businesses. Both startups and tech giants in India are adding data analysts to their workforce who are able of recording, analyzing and dissecting data to drive efficient decision-making.
 
-
-Recent Advancements in {X}, (recent releases etc.)
 
 ## Install and setup stuffs :construction:
 For learning {insert-technology} you need to first setup the following things
@@ -34,7 +33,7 @@ For learning {insert-technology} you need to first setup the following things
 
 > In the case of app dev, add the IDE that need to be set up.
 
-## First thing to learn (Put suitable emoji)
+## Let's start with numpy ![logo](https://numpy.org/images/logos/numpy.svg)
 
 A brief description of the first thing to learn for learning {insert-technology}
 
