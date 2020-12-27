@@ -87,7 +87,8 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 
 1. **You'll learn numerical computing using numpy here!**
 
-### :bulb: [Resource]()
+### :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
+### [Resource]()
 
 ## Second thing to learn (Put suitable emoji)
 
