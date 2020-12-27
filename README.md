@@ -5,19 +5,19 @@ A learning path for learning data analysis using python curated by ![shaji-stark
 ## Why is python an excellent option for data analysis :question: :thinking:
 1. **Easy to learn**
 
-Python is focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously. Thus, newbies can easily utilize its pretty simple syntax to build effective solutions even for complex scenarios.
+    Python is focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously. Thus, newbies can easily utilize its pretty simple syntax to build effective solutions even for complex scenarios.
 
 2. **Well-supported**
 
-Being in widespread use in industrial alongside academic areas, Python has a broad array of helpful libraries with tons of helpful and support materials. The great benefit is that all the libraries are available at no cost.
+    Being in widespread use in industrial alongside academic areas, Python has a broad array of helpful libraries with tons of helpful and support materials. The great benefit is that all the libraries are available at no cost.
 
 3. **Graphics and Visualization Tools**
 
-You can make the data more accessible and easier-to-use by means of creating various charts and graphics, as well as web-ready interactive plots. Yes, Python provides you with the capability to get a good sense of data.
+    You can make the data more accessible and easier-to-use by means of creating various charts and graphics, as well as web-ready interactive plots. Yes, Python provides you with the capability to get a good sense of data.
 
 4. **Extended packs of analytics tools available**
 
-Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
+    Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
 
 ## Future and scope of the field
 
