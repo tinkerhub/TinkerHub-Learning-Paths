@@ -81,7 +81,8 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 * osx: `source deactivate tutorial`
 
 
-## Let's start with numpy <img src="https://numpy.org/images/logos/numpy.svg" width=50>
+# 1. Let's start with numpy :hash: 
+<img src="https://numpy.org/images/logos/numpy.svg" width=100>
 
 So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
 
@@ -90,34 +91,42 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 ### :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
 ### [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
 
-## Pandas :panda:
+# 2. Pandas :panda_face:
+<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
+
+Pandas is another useful python module in reading and handling data
+Things you'll learn here are:
+1. **Creating Data Frames using Pandas module**
+2. **Handling Tabular data**
+3. **Reading different file formats such as CSV, JSON, HTML and Excel files**      
+4. **Data Cleaning and Preprocessing**
+5. **Handling missing data**
+6. **Normalization technique**
+7. **Filling Missing values**
+8. **Dealing with outliers**
 
 
+## :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
 
-A brief description of the second thing to learn in the learning path
+## 3. Matplotlib and Seaborn
 
-1. Numbered list of things you need to learn here.
+We'll get introduced to two efficient modules for data visualization, **Matplotlib and Seaborn**
+Things you'll learn here are:
+1. **Data visualization with Matplotlib & Seaborn modules**
+2. **Creating Scatter plot, Box plot, Histogram & Pie chart with Matplotlib module**
+3. **Distribution plots and Categorical Plots with Seaborn Module**
 
-## :bulb: Here are a couple of resources you'd find useful! Happy learning ;)
+## :bulb:
 
-## Nth thing to learn (Put suitable emoji)
+## 4. More on data analysis
 
-> Learning never ends. Nth thing is the knowledge that helps you to finally get started with building awesome projects using {insert technology}
-
-A brief description of the nth thing to learn in the learning path
-
-1. Numbered list of things you need to learn here.
-
-:bulb: Link couple of resources in this part
+Finally we'll be going through some types of data analysis. Here you'll be learning:
+1. **Univariate,Bivariate and MultiVariate Analysis**
+2. **Exploratory Data Analysis ( EDA ) on a Dataset covering all the previously taught topics**
 
 ## Handling errors & finding solutions :detective:
 
-- Describe how to read or understand errors in this language/technology.
-- Link couple of places to look on hitting errors or issues, like stackoverflow.
+- Finding bugs may be considered as comparatively easier since execution stops right when an error is encountered.
+- As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!
 
-## Steps for doing projects :woman_technologist:
-
-1. Describe steps for doing projects in {insert-technology}
-2. How to deploy/launch what you built
-
-
+## Happy learning ;)
