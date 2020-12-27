@@ -56,6 +56,26 @@ OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the ter
         For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. 
         For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. You'll have to replace <USERNAME> with your username on your machine.
 
+That will download all the set of packages that are commonly used for data science in Python. When it finishes, you can activate the environment with the following command:
+
+Windows - `activate tutorial`
+OSX - `source activate tutorial`
+
+## 3. Run the jupyter notebook!
+
+In this step, we'll make sure everything is working by running the Jupyter Notebook. Jupyter Notebook is a tool for doing interactive data science work in your browser. 
+In your command prompt with the tutorial environment activated (Note: you'll be able to tell because your command prompt will say (tutorial) at the start of it.)
+Type the following command: 
+`jupyter notebook` 
+A browser window will open, showing the Jupyer environment. By default, you will be in a file browser view. 
+In the file browser, find where you have a Jupyter notebook. **Check out the materials we've attached by the end of this documantation**, if you wanna see it run! 
+### Click on one of the notebook (*.ipynb) files to get started!
+
+## 4. Stop the notebook
+
+Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make sure to use `Ctrl+s` in the notebook to save it first!)
+
+## 5. Leave the tutorial environment 
 
 
 :white_check_mark: Tools and devices must have for learning this technology (like a computer and internet)
