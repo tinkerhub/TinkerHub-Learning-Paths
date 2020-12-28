@@ -117,6 +117,7 @@ Things you'll learn here are:
 ## 3. Matplotlib 🗺 and Seaborn 🌊
 
 We'll get introduced to two efficient modules for data visualization, **Matplotlib and Seaborn** 📊📈
+
 Things you'll learn here are:
 1. **Data visualization with Matplotlib & Seaborn modules**
 2. **Creating Scatter plot, Box plot, Histogram & Pie chart with Matplotlib module**
