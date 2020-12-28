@@ -3,6 +3,7 @@
 A learning path for learning data analysis using python curated by [shaji-stark](https://github.com/shaji-stark)
 
 
+
 # Why is python an excellent option for data analysis :question: :thinking:
 ## 1. **Easy to learn** 🤩
 
@@ -19,6 +20,8 @@ You can make the data more accessible and easier-to-use by means of creating var
 ## 4. **Extended packs of analytics tools available** 🔧🔨
 
 Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
+
+
 
 # Future and scope of the field 🔮
 
