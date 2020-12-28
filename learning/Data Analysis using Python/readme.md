@@ -20,7 +20,7 @@ You can make the data more accessible and easier-to-use by means of creating var
 
 Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
 
-## Future and scope of the field 🔮
+# Future and scope of the field 🔮
 
 As companies are becoming more tech-driven and fast-paced now,   data analysis professional are already playing an increasingly crucial role in businesses. Both startups and tech giants in India are adding data analysts to their workforce who are able of recording, analyzing and dissecting data to drive efficient decision-making.
 
