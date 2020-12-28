@@ -1,6 +1,6 @@
 # Data Analysis :chart: using Python :snake:
 
-A learning path for learning data analysis using python curated by ![shaji-stark](https://github.com/shaji-stark)
+A learning path for learning data analysis using python curated by [shaji-stark](https://github.com/shaji-stark)
 
 ## Why is python an excellent option for data analysis :question: :thinking:
 1. **Easy to learn**
