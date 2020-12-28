@@ -36,33 +36,33 @@ Programming your own tools is best step to become leet from noob.
 You will learn a lot in this process about security related concepts.
 ```
 2. Read Books. :book:
-```
-* Web app hackers handbook
-* Web hacking 101
-* Mastering modern web pen testing
-* Bug Bounty Playbook
-* Real World Bug Hunting
-* OWASP Testing Guide.
-```
+
+* [Web application hackers handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+* [Web hacking 101](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
+* [Mastering modern web pen testing](https://www.amazon.in/Mastering-Modern-Web-Penetration-Testing/dp/1785284584)
+* [Bug Bounty Playbook](https://payhip.com/b/wAoh)
+* [Real World Bug Hunting](https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
+* [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+
 3. Watch youtube channels related to this field.
-```
-Live Overflow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
-Hackersploit: https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos
-Bugcrowd: https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
-Open Security Training: https://www.youtube.com/user/OpenSecurityTraining
-Hackerone: https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw
-Stok: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
-nahamsec: https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
-CyberMentor: https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw
-John Hammond: https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
-```
+
+* <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">Live overflow</a>
+* <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos">Hackersploit</a>
+* <a href="https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww">Bug crowd</a>
+* <a href="https://www.youtube.com/user/OpenSecurityTraining">Open security training</a>
+* <a href="https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">Hackerone</a>
+* <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg">Stok</a>
+* <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">Nahamsec</a>
+* <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cybermentor</a>
+* <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw">John Hammond</a>
+
 4. Time for some CTF. To gain experience from what you have learned you need a platform, CTF platforms will do that work.
-```
-Hackthebox: https://www.hackthebox.eu/
-Tryhackme: https://tryhackme.com/
-Portswigger academy: https://portswigger.net/web-security
-Vulnhub: https://www.vulnhub.com/
-```
+
+* [Hackthebox](https://www.hackthebox.eu/)
+* [Tryhackme](https://tryhackme.com/)
+* [Portswigger academy](https://portswigger.net/web-security)
+* [Vulnhub](https://www.vulnhub.com/)
+
 5. Tools needed
 ```
 * Burpsuite
@@ -89,8 +89,8 @@ Vulnhub: https://www.vulnhub.com/
 * PATIENCE IS THE KEY, takes years to master, don’t fall for overnight success
 * Do not expect someone will spoon feed you everything.
 * Confidence
-* Not always for bounty
-* Learn a lot.
+* Not always for bounty, money isn't everything :peace:
+* Learn a lot :book:
 * Won’t find at the beginning, don’t lose hope
 * Stay focused
 * Depend on yourself
