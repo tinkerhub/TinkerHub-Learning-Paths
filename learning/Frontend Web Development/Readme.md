@@ -63,7 +63,7 @@ This is where frontend frameworks come into the picture. Learn one framework wel
 ## ES6 Javascript
 
 ECMAScript is a standard for javascript that enables additional capabilities and much better functionality.
-It gives JS superpower.
+It gives JS superpowers.
 Learn ES6.
 
 1. [ES6 Syntax](https://www.javascripttutorial.net/es6/)
@@ -79,7 +79,7 @@ Package managers are used to managing libraries in a project. It helps us to org
 
 Bundlers are used to transpile your JS code into a native JS code. It helps us to use ES standard JS in projects.
 . You don't need to have a really deep knowledge of bundlers.
-But knowing some of their basic commands and its working will be useful.
+But knowing some of their basic commands and their working will be useful.
 
 1. [Webpack](https://webpack.js.org/)
 2. [Rollup](https://rollupjs.org/guide/en/)
