@@ -129,7 +129,6 @@ Things you'll learn here are:
 2. **Creating Scatter plot, Box plot, Histogram & Pie chart with Matplotlib module**
 3. **Distribution plots and Categorical Plots with Seaborn Module**
 
-## :bulb:
 
 # 4. More on data analysis 👨‍🔬
 
