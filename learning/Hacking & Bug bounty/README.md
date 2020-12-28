@@ -63,34 +63,32 @@ You will learn a lot in this process about security related concepts.
 * [Portswigger academy](https://portswigger.net/web-security)
 * [Vulnhub](https://www.vulnhub.com/)
 
-5. Tools needed
-```
-* Burpsuite
-* nmap
+5. Tools needed :hammer_and_wrench:
+
+* [Burpsuite](https://portswigger.net/burp)
+* [nmap](https://nmap.org/)
 * dirbuster/gobuster
-* sublist3r
+* [sublist3r](https://github.com/aboul3la/Sublist3r)
 * Netcat
-* Owasp ZAP
-* Sqlmap
-```
+* [OWASP ZAP](https://owasp.org/www-project-zap/)
+* [Sqlmap](https://github.com/sqlmapproject/sqlmap)
+
 6. Bug bounty platforms
-```
-* Open For Signup
-* Hackerone
-* Bugcrowd
-* hackenproof
-* Bugbountyjp
-* Intigriti
-* Open Bug Bounty
-* Yogosha
-```
+
+* [Hackerone](https://www.hackerone.com/)
+* [Bugcrowd](https://www.bugcrowd.com/)
+* [hackenproof](https://hackenproof.com/)
+* [Bugbountyjp](https://bugbounty.jp/)
+* [Intigriti](https://www.intigriti.com/)
+* [Yogosha](https://yogosha.com/)
+
 7. Final notes :memo:
 ```
 * PATIENCE IS THE KEY, takes years to master, don’t fall for overnight success
 * Do not expect someone will spoon feed you everything.
 * Confidence
-* Not always for bounty, money isn't everything :peace:
-* Learn a lot :book:
+* Not always for bounty, money isn't everything
+* Learn a lot
 * Won’t find at the beginning, don’t lose hope
 * Stay focused
 * Depend on yourself
