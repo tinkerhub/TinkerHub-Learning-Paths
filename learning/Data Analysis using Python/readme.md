@@ -35,10 +35,10 @@ For running the tools for data analysis you have two options:
 Anaconda puts nearly all of the tools that we're going to need into a neat little package: the Python core language, an improved REPL environment called **Jupyter**, numeric computing libraries **(NumPy, pandas)**, plotting libraries **(seaborn, matplotlib)**, and statistics and machine learning libraries **(SciPy, scikit-learn, statsmodels)**. We'll use Anaconda's installer to handle setting up the environment that we'll work in.
 In order to keep the size of the download small, we actually use a minimum set of packages called Miniconda.
 ### Miniconda installer packages:
-* ### [Windows](https://repo.continuum.io/miniconda/Miniconda2-latest-Windows-x86_64.exe)
-* ### [Mac OSX](https://repo.continuum.io/miniconda/Miniconda2-latest-MacOSX-x86_64.sh)
+* ### [Windows 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+* ### [Mac OSX 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh)
 
-Once this downloads, you can follow the instructions for installing on your operating system [at this link](https://docs.conda.io/en/latest/miniconda.html).
+Not on the system with that variant or needed another version? Check out the conda documantation [at this link](https://docs.conda.io/en/latest/miniconda.html).
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
 
 ## 2. Set up your environment
