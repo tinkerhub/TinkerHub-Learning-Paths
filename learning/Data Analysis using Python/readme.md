@@ -53,7 +53,7 @@ OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the ter
 
 `conda env create -f <PATH_TO_ENVIRONMENT.YML>` 
         - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded.
-        
+
 For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`.
 For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`.
 You'll have to replace <USERNAME> with your username on your machine. 
@@ -91,7 +91,7 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 1. **You'll learn numerical computing using numpy here!**
 
 ### :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
-### [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
+### :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
 
 # 2. Pandas :panda_face:
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
