@@ -105,6 +105,7 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
 
 Pandas is another useful python module in reading and handling data 💻
+
 Things you'll learn here are:
 1. **Creating Data Frames using Pandas module**
 2. **Handling Tabular data**
