@@ -1,3 +1,4 @@
+
 # How to learn ML
 
 Learning path for AI/ML :sparkles:
@@ -8,10 +9,10 @@ Programming knowledge is a must obviously.
 
 ### Learn Python :snake:
 
-1. Python basics : variables, conditions, loops..etc..etc..etc
+1. Python basics: variables, conditions, loops..etc..etc..etc
 2. But most importantly installing packages, importing, using.
 3. Writing methods and using decorators.
-4. Object oriented python: class, inheritance.
+4. Object-oriented Python: class, inheritance.
 
 :bulb: The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
 
@@ -23,9 +24,9 @@ Programming knowledge is a must obviously.
 Things you need and need not.
 
 1. A :computer: running any OS :white_check_mark:
-2. A high end GPU :x:
+2. A high-end GPU :x:
 3. Python installed [directly](https://www.python.org) or using [anaconda](https://www.anaconda.com)/[miniconda](https://docs.conda.io/en/latest/miniconda.html#) :white_check_mark:
-4. A heavy IDE like pycharm or spyder :interrobang:
+4. A heavy IDE like [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org/) :interrobang:
 5. Use light weight IDEs like [VScode](https://code.visualstudio.com) :white_check_mark:
 
 
@@ -46,10 +47,10 @@ You need basic knowledge in the following mathematics areas for ML
 2. Probability
 3. Differentiation
 
-:bulb: Use your school/college text books to brush up maths skills.
+:bulb: Use your school/college textbooks to brush up on maths skills.
 
 ### Learning algorithms
-Use various resources in the internet to understand the concepts of following machine learning algorithms
+Use various resources on the internet to understand the concepts of following machine learning algorithms
 
 1. Linear regression
 2. Logistic regression.
@@ -57,13 +58,13 @@ Use various resources in the internet to understand the concepts of following ma
 3. Neural networks.
 4. Deep neural networks.
 
-And the lists goes on...
+And the list goes on...
 
 :bulb: Check out this [awesome machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) repo.
 
 :crystal_ball: Checkout [d2l](http://d2l.ai/) for learning algorithm implementation
 
-#### Pro tip : Learn the maths on the go. Means check out the maths part when you get stuck instead of going through maths first.
+#### Pro tip : Learn maths on the go. This means check out the maths part when you get stuck instead of going through maths first.
 
 ## Implementing the algorithms :woman_technologist:
 
@@ -82,9 +83,9 @@ Now you can learn an ML library and start doing projects in ML.
 
 1. [Sklearn](https://scikit-learn.org/stable/tutorial/index.html) : ML library with classic machine learning algorithms
 2. [Tensorflow](https://www.tensorflow.org/tutorials) & [keras](https://keras.io/getting_started/intro_to_keras_for_engineers/) : DL libary with keras as high level API
-3. [Pytorch](https://pytorch.org/tutorials/) : DL library built built focusing for research.
+3. [Pytorch](https://pytorch.org/tutorials/) : DL library built focusing on research.
 
 and the list goes on...
 
-:bulb: You can start with any of the libraries. I would recommend to use offical docs and tutorials to learn!
+:bulb: You can start with any of the libraries. I would recommend using official docs and tutorials to learn!
 
