@@ -88,6 +88,7 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 
 
 # Now let's see the curriculum!
+Let's check out what you're gonna learn throughout this path 🧘‍♀️🧘‍♂️
 
 
 # 1. Let's start with numpy :hash: 
