@@ -53,10 +53,10 @@ OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the ter
 
 `conda env create -f <PATH_TO_ENVIRONMENT.YML>` 
         - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded.
-
-        For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. <br>
-        For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. <br>
-        You'll have to replace <USERNAME> with your username on your machine. 
+        
+For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`.
+For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`.
+You'll have to replace <USERNAME> with your username on your machine. 
 
 That will download all the set of packages that are commonly used for data science in Python. When it finishes, you can activate the environment with the following command:
 
