@@ -87,6 +87,9 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 * osx: `source deactivate tutorial`
 
 
+# Now let's see the curriculum!
+
+
 # 1. Let's start with numpy :hash: 
 <img src="https://numpy.org/images/logos/numpy.svg" width=100>
 
