@@ -119,24 +119,26 @@ Things you'll learn here are:
 
 ## :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
 
-## 3. Matplotlib 🗺 and Seaborn 🌊
+# 3. Matplotlib 🗺 and Seaborn 🌊
 
 We'll get introduced to two efficient modules for data visualization, **Matplotlib and Seaborn** 📊📈
 
 Things you'll learn here are:
+
 1. **Data visualization with Matplotlib & Seaborn modules**
 2. **Creating Scatter plot, Box plot, Histogram & Pie chart with Matplotlib module**
 3. **Distribution plots and Categorical Plots with Seaborn Module**
 
 ## :bulb:
 
-## 4. More on data analysis 👨‍🔬
+# 4. More on data analysis 👨‍🔬
 
 Finally we'll be going through some types of data analysis. Here you'll be learning:
+
 1. **Univariate,Bivariate and MultiVariate Analysis**
 2. **Exploratory Data Analysis ( EDA ) on a Dataset covering all the previously taught topics**
 
-## Handling errors & finding solutions :detective:
+# Handling errors & finding solutions :detective:
 
 - Finding bugs 🐛 may be considered as comparatively easier since execution stops right when an error is encountered.
 - As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!
