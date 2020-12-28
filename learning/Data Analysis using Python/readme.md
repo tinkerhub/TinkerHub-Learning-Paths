@@ -38,7 +38,7 @@ In order to keep the size of the download small, we actually use a minimum set o
 * ### [Windows](https://repo.continuum.io/miniconda/Miniconda2-latest-Windows-x86_64.exe)
 * ### [Mac OSX](https://repo.continuum.io/miniconda/Miniconda2-latest-MacOSX-x86_64.sh)
 
-Once this downloads, you can follow the instructions for installing on your operating system [at this link](http://conda.pydata.org/docs/install/quick.html).
+Once this downloads, you can follow the instructions for installing on your operating system [at this link](https://docs.conda.io/en/latest/miniconda.html).
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
 
 ## 2. Set up your environment
