@@ -82,4 +82,19 @@ All of the above frameworks have very good documentations and tutorials to learn
 
 ## Do projects
 
-> Not complete
+There are 2 ways to do projects in python !
+
+### Solve with python 
+1. Find a real world problem you are facing that can be automated using python.
+2. There are tons of tons of packages in python to solve your issue.\
+3. Google `package for <insert your problem domain> python` and see if one is available.
+4. Use the package to build solution for your problem.
+
+### Contribute to opensource projects
+
+1. You can search github for good python projects.
+2. Click issues of the github project you find interesting to contribute.
+3. Go through the issues and find an issue you can code.
+4. Write code for fixing that issue and put a pull request!
+
+Happy learning :)
