@@ -1,6 +1,7 @@
 # TinkerHub Learning Paths
+![happy learning](https://github.com/GopikrishnanSasikumar/TinkerHub-Learning-Paths/blob/main/Guidelines/Winden_Caves.jpg)
 
-Hola, this repository contains curated learning paths for various technologies :sparkles:
+## Hola, this repository contains curated learning paths for various technologies :sparkles:
 
 :bulb: Go to python folder inside `/learning` to find [learning path for python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/python).
 
