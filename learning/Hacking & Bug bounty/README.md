@@ -21,7 +21,7 @@ Things you need and need not.
 
 1. A :computer: running any linux based OS :white_check_mark: (You can also use windows, but it sucks.)
 2. A :brain: to think :white_check_mark:
-3. Kali linux :x: (even ubuntu will do the work)
+3. Kali linux :exclamation: (even ubuntu will do the work)
 4. Problem solving skills :white_check_mark:
 5. Investigation oriented mind :white_check_mark:
 
