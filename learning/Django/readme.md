@@ -22,7 +22,7 @@ Things you need and need not.
 6. Basic knowledge of using a terminal/command line :white_check_mark:
 > You should know how to install software packages on computer's operating system.
 
-### Installing system-wide or in a Python virtual environment?
+### Installing system-wide or in a Python virtual environment? :thinking:
 
 If you install Django into the global environment then you will only be able to one version of Django on the computer. And if you want to create websites using the latest version of Django while still maintaining websites that rely on older versions, then you'll have a problem here.
 
@@ -54,7 +54,7 @@ Django provides us with an amazing documentation which makes it easy for anyone 
 
 2. Challenge yourself! It's time to try out a project of your own. 
 
-Project :bulb: Create a blogging website.
+> Project :bulb: Create a blogging website.
 
 3. While working on your project learn more about using [models](https://docs.djangoproject.com/en/3.1/topics/db/models/), [making queries](https://docs.djangoproject.com/en/3.1/topics/db/queries/), and the [QuerySetAPI Reference](https://docs.djangoproject.com/en/3.1/ref/models/querysets/).
 
@@ -70,13 +70,15 @@ Project :bulb: Create a blogging website.
 
 9. Learn more about working with [forms](https://docs.djangoproject.com/en/3.1/topics/forms/) and the [forms API](https://docs.djangoproject.com/en/3.1/ref/forms/api/), creating forms from [models](https://docs.djangoproject.com/en/3.1/topics/forms/modelforms/).
 
-### Testing you Django Application
+10. Learn about the Django [Security](https://docs.djangoproject.com/en/3.1/topics/security/) features.
+
+### Testing you Django Application :running:
 
 It's nearly impossible to develop a website that would run perfectly in the first go, so it is necessary to test your application. But as your project grows its is not practical to manually test your app, to resolve this Django provides you a [test framework](https://docs.djangoproject.com/en/3.1/topics/testing/overview/) to automate unit testing.
 
 Check out the [Workshop: Test-Driven Web Development with Django](https://test-driven-django-development.readthedocs.io/en/latest/index.html) by San Diego Python's Workshop.
 
-### Deploying Django
+### Deploying Django :boom:
 
 Now that you have developed a fully tested website you might want to deploy it as well, to do so check out the Django [documentation](https://docs.djangoproject.com/en/3.1/howto/deployment/) where they explain the different ways to do the same.
 
@@ -84,8 +86,12 @@ You can also head over to the [Heroku docs](https://devcenter.heroku.com/article
 
 ## Building RESTful APIs with Django :muscle:
 
-Django REST framework is a powerful and flexible toolkit for building Web APIs. 
+Django [REST framework](https://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs. 
 
+## Other Python Web Framework :sparkles:
+
+* [Pyramid](https://trypyramid.com/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 ## Steps for doing projects :woman_technologist:
 
@@ -95,4 +101,4 @@ Some good starting projects:
 2. Library management system
 3. Event website for College Fest
 
-:heart_eyes: All the best :smile:
+## HAPPY LEARNING :heart_eyes:
