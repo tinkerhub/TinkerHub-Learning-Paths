@@ -74,13 +74,13 @@ Django provides us with an amazing documentation which makes it easy for anyone 
 
 ### Testing you Django Application :running:
 
-It's nearly impossible to develop a website that would run perfectly in the first go, so it is necessary to test your application. But as your project grows its is not practical to manually test your app, to resolve this Django provides you a [test framework](https://docs.djangoproject.com/en/3.1/topics/testing/overview/) to automate unit testing.
+It's nearly impossible to develop a website that would run perfectly in the first go, so it is necessary to test your application. But as your project grows it's is not so practical to manually test your app, to resolve this Django provides you a [test framework](https://docs.djangoproject.com/en/3.1/topics/testing/overview/) to automate unit testing.
 
 Check out the [Workshop: Test-Driven Web Development with Django](https://test-driven-django-development.readthedocs.io/en/latest/index.html) by San Diego Python's Workshop.
 
 ### Deploying Django :boom:
 
-Now that you have developed a fully tested website you might want to deploy it as well, to do so check out the Django [documentation](https://docs.djangoproject.com/en/3.1/howto/deployment/) where they explain the different ways to do the same.
+Now that you have developed a fully tested website you might want to deploy it as well, to do so head over to the Django [documentation](https://docs.djangoproject.com/en/3.1/howto/deployment/) where they explain the different ways to do the same.
 
 You can also head over to the [Heroku docs](https://devcenter.heroku.com/articles/django-app-configuration) and learn how to configure you Django apps for Heroku.
 
@@ -88,7 +88,7 @@ You can also head over to the [Heroku docs](https://devcenter.heroku.com/article
 
 Django [REST framework](https://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs. 
 
-## Other Python Web Framework :sparkles:
+## Other Python Web Frameworks :sparkles:
 
 * [Pyramid](https://trypyramid.com/)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
@@ -99,6 +99,6 @@ Some good starting projects:
 
 1. To-Do List
 2. Library management system
-3. Event website for College Fest
+3. An event website for College Fests
 
 ## HAPPY LEARNING :heart_eyes:
