@@ -50,7 +50,7 @@ Learn basics like, `variables`, `conditions`, `loops`, `methods`..etc
 
 :crystal_ball: [Articles](https://pythonprogramming.net/) and [Youtube Vidoes](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome !
 
-## A wrap up of our sessions
+### A wrap up of some basics
 
 1.	[Variables](https://www.w3schools.com/python/python_variables.asp) and [data types](https://www.w3schools.com/python/python_datatypes.asp)
 2.	Data structures introduction - [List](https://www.w3schools.com/python/python_lists.asp), [Set](https://www.w3schools.com/python/python_sets.asp), [Tuple](https://www.w3schools.com/python/python_tuples.asp), [Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
@@ -61,6 +61,7 @@ Learn basics like, `variables`, `conditions`, `loops`, `methods`..etc
 7.  [Error Handling](https://www.w3schools.com/python/python_try_except.asp)
 8.  [File Handling](https://www.w3schools.com/python/python_file_handling.asp)
 9.  [Introduction to OOP with Python](https://www.programiz.com/python-programming/object-oriented-programming)
+
 ## Write better python code
 
 Learn how to write better python code 
