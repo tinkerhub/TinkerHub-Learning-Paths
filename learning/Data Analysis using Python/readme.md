@@ -75,6 +75,7 @@ You'll have to replace <USERNAME> with your username on your machine.
 That will download all the set of packages that are commonly used for data science in Python. When it finishes, you can activate the environment with the following command:
 
 Windows - `activate tutorial`
+
 OSX - `source activate tutorial`
 
 <br />
@@ -171,4 +172,4 @@ Finally we'll be going through some types of data analysis. Here you'll be learn
 
 <br /><br />
 
-## Happy learning ;)
+# Happy learning ;)
