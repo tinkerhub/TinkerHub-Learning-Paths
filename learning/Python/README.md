@@ -97,4 +97,6 @@ There are 2 ways to do projects in python !
 3. Go through the issues and find an issue you can code.
 4. Write code for fixing that issue and put a pull request!
 
+You can also [contribute while you learn python](https://github.com/donamath/PyLearn).
+
 Happy learning :)
