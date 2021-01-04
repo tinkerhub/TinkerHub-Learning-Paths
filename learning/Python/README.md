@@ -50,9 +50,10 @@ Learn basics like, `variables`, `conditions`, `loops`, `methods`..etc
 
 :crystal_ball: [Articles](https://pythonprogramming.net/) and [Youtube Vidoes](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome !
 
+:video_game: Learn python by coding a [simple game](https://opensource.com/article/20/12/learn-python)
 ### A wrap up of some basics
 
-1.	[Variables](https://www.w3schools.com/python/python_variables.asp) and [data types](https://www.w3schools.com/python/python_datatypes.asp)
+1.	[Variables](https://www.w3schools.com/python/python_variables.asp),[data types](https://www.w3schools.com/python/python_datatypes.asp) and [Precedence](https://www.programiz.com/python-programming/precedence-associativity) of Operators
 2.	Data structures introduction - [List](https://www.w3schools.com/python/python_lists.asp), [Set](https://www.w3schools.com/python/python_sets.asp), [Tuple](https://www.w3schools.com/python/python_tuples.asp), [Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
 3.	[String manipulation](https://www.w3schools.com/python/python_strings.asp)
 4.	[Math](https://www.w3schools.com/python/module_math.asp) and [Random module](https://www.w3schools.com/python/module_random.asp).
