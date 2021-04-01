@@ -16,7 +16,7 @@ Game engines are tools available for game designers to code and plan out a game 
 3. [Godot](https://godotengine.org/)
 4. [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) etc...
 
-💡 My personal favorite is Unity, feel free to explore the others too..
+💡 My personal favourite is Unity, feel free to explore the others too..
 
 ## Unity 
 [![Watch this video for reference](https://github.com/kamaljohnson/TinkerHub-Learning-Paths/blob/main/learning/Game%20Development/resources/unity-tumbnail.jpg)](https://www.youtube.com/watch?v=na7EMenl2lY)
