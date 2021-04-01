@@ -33,8 +33,6 @@ There are also resources available inside Unity Hub
 1. `Unity Hub > Learn > Projects` Sample projects by Unity
 2. `Unity Hub > Learn > Tutorials` Unity tutorials
 
-💡 You can find free assets in the unity's [Asset Store](https://assetstore.unity.com/)
-
 If you want to learn about specific things inside unity like eg Raycast, Rigidbody etc.. go to [Unity Manual](https://docs.unity3d.com/Manual/index.html) or [Unity Scripting API](https://docs.unity3d.com/ScriptReference/index.html)
 
 Here are some youtube channels which can help you learn and get motivated.
@@ -47,8 +45,9 @@ Here are some youtube channels which can help you learn and get motivated.
 7. [Jonas Tyroller](https://www.youtube.com/channel/UC_p_9arduPuxM8DHTGIuSOg)
 8. [Sam Hogan](https://www.youtube.com/channel/UCORkUj9eaM2aDJM1VYyDDTA)
 
-### Have Issues 🛑
+💡 You can find free assets which you can use for your games inside unity's [Asset Store](https://assetstore.unity.com/)
 
+### Have Issues 🛑
 1. Just Google the problem, most probably you will find the solution there 😅
 2. Unity has a great [Community](https://unity.com/community) of passionate developers.
 
