@@ -57,7 +57,7 @@ Writing tests will help you ensure that making new changes won't break anything 
 
 ## Become a Flask pro with best practicies :trident:
 
-Check out this slides by [Erik Taubeneck](https://github.com/eriktaubeneck) for some best practices and hacks.
+Check out [this slides](http://slides.skien.cc/flask-hacks-and-best-practices/) by [Erik Taubeneck](https://github.com/eriktaubeneck) for some best practices and hacks.
 
 
 ## Handling errors & finding solutions :detective:
