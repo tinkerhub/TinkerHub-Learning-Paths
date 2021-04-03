@@ -28,7 +28,7 @@ More details on [installation](https://flask.palletsprojects.com/en/1.1.x/instal
 
 Before learning flask you should have good knowledge in python 
 
-:bulb: Check out our learning resource for [python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/Python)
+:bulb: Check out our learning path for [python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/Python)
 
 ## Learn more about web apps :green_book:
 
