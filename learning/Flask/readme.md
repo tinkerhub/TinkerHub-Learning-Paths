@@ -1,11 +1,11 @@
 # How to learn Python Flask
 
-Python flask is a micro-framework written in python. It is used for building web applications. [TinkerHub donation page](https://github.com/tinkerhub-org/donation-page) is an example for a web app made with flask. 
+Python flask is a micro-framework written in python. It is used for building web applications. [TinkerHub donation page](https://github.com/tinkerhub-org/donation-page) is an example for a web app made with flask
 
 ## Why learn Flask :question:
 
-1. Flask is a micro-framework. Means it is simple and can be extended to add more stuffs like database.
-2. Simple as well as best option to build a backend for something you wrote in python - for example a ML model.
+1. Flask is a micro-framework. Means it is simple and can be extended to add more stuffs like database
+2. Simple as well as best option to build a backend for something you wrote in python - for example a ML model
 
 ## Install and setup stuffs :construction:
 
@@ -26,7 +26,7 @@ More details on [installation](https://flask.palletsprojects.com/en/1.1.x/instal
 
 ## Learn Python :snake:
 
-Before learning flask you should have good knowledge in python. 
+Before learning flask you should have good knowledge in python 
 
 :bulb: Check out our learning resource for [python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/Python)
 
@@ -51,14 +51,15 @@ Check out this [flask resource pool](https://www.fullstackpython.com/flask.html)
 
 ## Learn Pytest for adding tests :nut_and_bolt:
 
-Writing tests will help you ensure that making new changes won't break anything you already wrote. 
+Writing tests will help you ensure that making new changes won't break anything you already wrote 
 
 :bulb: learn how to [write tests using pytest](https://flask.palletsprojects.com/en/1.1.x/testing/) for flask web apps
 
 ## Become a Flask pro with best practicies :trident:
 
-Check out [this slides](http://slides.skien.cc/flask-hacks-and-best-practices/) by [Erik Taubeneck](https://github.com/eriktaubeneck) for some best practices and hacks.
+Check out [this slides](http://slides.skien.cc/flask-hacks-and-best-practices/) by [Erik Taubeneck](https://github.com/eriktaubeneck) for some best practices and hacks
 
+Check out [Avoiding common Flask Pitfalls](http://dirn.github.io/presentations/Flask-Pitfalls/#/step-1) by [Andy Dirnberg](https://github.com/dirn)
 
 ## Handling errors & finding solutions :detective:
 
@@ -71,7 +72,7 @@ Check out [this slides](http://slides.skien.cc/flask-hacks-and-best-practices/) 
 1. Find out a project idea
 2. Setup the developer environment (IDE, packages...etc)
 3. Create project directory with the help of this [layout](https://flask.palletsprojects.com/en/1.1.x/tutorial/layout/)
-4. Write your web app logic.
-5. Write routes, connect db using sqlalchemy if needed.
+4. Write your web app logic
+5. Write routes, connect db using sqlalchemy if needed
 6. Add unit tests
-7. Deploy your flask web app to [heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) or some other platform. 
+7. Deploy your flask web app to [heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) or some other platform 
