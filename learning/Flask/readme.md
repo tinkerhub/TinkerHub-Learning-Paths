@@ -30,29 +30,32 @@ Before learning flask you should have good knowledge in python.
 
 :bulb: Check out our learning resource for [python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/Python)
 
-## Learn about micro frameworks, REST, API ...etc
+## Learn more about web apps :green_book:
+
 - Read this [forword from flask docs](https://flask.palletsprojects.com/en/1.1.x/foreword/#what-does-micro-mean)
 - Read about [REST, RESTful, API..etc](https://wkrzywiec.medium.com/rest-restful-web-service-api-soap-whats-the-difference-4f101953d0bd)
 
-## Flask mega tutorial
+## Flask mega tutorial :poultry_leg:
+
 [Flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) is the best place to learn flask.
 
 :bulb: make sure you try out everything mentioned in the mega tutorial
 
-## More flask learning resources
+## More flask learning resources :popcorn:
+
 Check out this [flask resource pool](https://www.fullstackpython.com/flask.html) created by [fullstackpython](https://www.fullstackpython.com/)
 
-## Learn SQLAlchemy
+## Learn SQLAlchemy :open_file_folder:
 
 [Learn SQLAlchemy](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/) for connecting db to your flask web apps
 
-## Learn Pytest for adding tests
+## Learn Pytest for adding tests :nut_and_bolt:
 
 Writing tests will help you ensure that making new changes won't break anything you already wrote. 
 
 :bulb: learn how to [write tests using pytest](https://flask.palletsprojects.com/en/1.1.x/testing/) for flask web apps
 
-## Become a Flask pro with best practicies
+## Become a Flask pro with best practicies :trident:
 
 Check out this slides by [Erik Taubeneck](https://github.com/eriktaubeneck) for some best practices and hacks.
 
