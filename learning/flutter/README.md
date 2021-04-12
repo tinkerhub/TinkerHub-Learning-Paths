@@ -27,7 +27,7 @@ directory.). [Install Android Studio](https://developer.android.com/studio)
 * Build a small flutter project like quiz app. Like [Youtube Link](https://youtu.be/x0uinJvhNxI). Try to learn about Stateless & stateful widgets.
 * Need to know more about List and Map data type in dart.
 * Try to learn HTTp calls. Use package like [HTTP](https://pub.dev/packages/http) or [DIO](https://pub.dev/packages/dio). Its better to learn with HTTP then lern Dio. In production apps or big project is better to use Dio.
-* Dio a project with Http or dio.
+* Do a project with Http or dio.
 * Try to learn any of the state Managment Like [Provider](https://pub.dev/packages/provider), [Bloc](https://pub.dev/packages/bloc), [GetX](https://pub.dev/packages/get), [Riverpod](https://pub.dev/packages/riverpod).
 * Try to do a project using state managment and follow a structure like MVC.
 * Learn about dependency Injection like [Get It](https://pub.dev/packages/get_it).
