@@ -1,0 +1,11 @@
+baseURL: https://learn.tinkerub.org
+title: TinkerHub Learning Paths
+theme: tinkerhub
+taxonomies:
+  tag: tags
+pygmentsUseClasses: true
+pygmentsCodefences: true
+enableEmoji: true
+#googleAnalytics: ""
+outputs:
+  home: ["HTML", "JSON"]

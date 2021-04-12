@@ -1,0 +1,91 @@
+@header-border: none;
+@header-background: #253d5f;
+@header-box-shadow: none; //0 3px 8px 0 rgba(116, 129, 141, 0.1);
+@header-padding: 0 26px;
+@header-height: 72px;
+
+@logo-width: 50px;
+@logo-height: 50px;
+
+// the header is the main header component for the page.
+.header {
+    height: @header-height;
+    box-shadow: @header-box-shadow;
+    border-bottom: @header-border;
+    background-color: @header-background;
+
+    align-items: center;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 1fr 600px 1fr;
+    z-index: 1;
+
+    .branding {
+        display: flex;
+        padding: @header-padding;
+    }
+
+    #search-input {
+        display: none;
+    }
+
+    .logo {
+        width: @logo-width;
+        height: @logo-height;
+
+        // See https://bit.ly/2Yc95wR
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none;
+
+        img {
+            width: @logo-width;
+            height: @logo-height;
+        }
+    }
+
+    nav {
+        text-align: right;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .button {
+        color: #FFF;
+        text-decoration: none;
+        background: hsla(0,0%,100%,.1);
+        padding: 4px 20px 4px 25px;
+        margin-right: 20px;
+        border-radius: 3px;
+        display: flex;
+        align-items: center;
+        font-size: 15px;
+        user-select: none;
+
+        svg {
+            margin-left: 5px;
+            width: 32px;
+            height: 32px;
+        }
+    }
+}
+
+// if the device size or window size is tablet or below the
+// logo is centered in the header and the expand menu button
+// is displayed.
+@media screen and
+    (max-width: 800px),
+    (max-device-width: 800px) {
+
+    .header {
+        grid-template-columns: auto;
+        .search { display: none !important; }
+        .title  { display: none !important; }
+        .menu   { display: flex !important; }
+        .logo   { margin: 0px auto; }
+
+        nav {
+            display: none;
+        }
+    }
+}

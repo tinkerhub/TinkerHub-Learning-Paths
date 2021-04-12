@@ -1,0 +1,50 @@
+// this file is compiled with less:
+//    lessc index.less index.css
+//
+// watch for changes and compile this file:
+// fswatch -0 --recursive --exclude=".*" --include="\\.less$" . | xargs -0 -n1 lessc index.less ../static/index.css
+
+@import "reset.less";
+
+//
+// override body padding, margin, size
+//
+
+html, body {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+}
+
+// default font settings
+@font-size: 15px;
+@font-sans: 'Roboto', sans-serif; //-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+@font-mono: 'Roboto Mono', monospace; //Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace;
+@font-smoothing: auto;
+
+// default color
+@color: #1E375A;
+
+// default background
+@background: #FFFFFF;
+
+//
+// layouts
+//
+
+@import "layouts/index.less";
+@import "layouts/list.less";
+@import "layouts/single.less";
+
+//
+// partials
+//
+
+@import "partials/alert.less";
+@import "partials/featured.less";
+@import "partials/header.less";
+@import "partials/listing.less";
+@import "partials/footer.less";

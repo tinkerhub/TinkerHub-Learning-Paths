@@ -1,0 +1,6 @@
+{{ $title := (.Get 0) }}
+{{ $url := (.Get 1) }}
+<a href="{{ .Get 1 }}" class="link external">
+    <span class="icon"></span>
+    <span class="name">{{ .Get 1 }}</span>
+</a>
