@@ -1,0 +1,24 @@
+name: Deploy to production
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    name: Deploy to production
+    environment: production
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+      - name: Install dependencies 🔧
+        run: |
+           sudo apt-get update
+           sudo apt-get install -y hugo
+           npm install --global surge
+      - name: Deploy 🚀
+        run: |
+           hugo
+           surge ./public https://learn.tinkerhub.org/ --token ${{secrets.SG_TOKEN}}
