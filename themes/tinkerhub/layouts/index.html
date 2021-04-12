@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body class="index">
+        {{ partial "header.html" . }}
+
+        <section class="featured">
+            <div class="center">
+                <h1>Curated learning paths for learning technologies</h1>
+                <h2>Featured Learning paths</h2>
+
+                <div class="cards">
+                    {{ range .Pages }}
+                    {{ if and (eq .Params.featured true) (eq .Params.sub false) }}
+                    <a href="{{ .Permalink }}">
+                        <div class="image" style="background-image: url({{ .Params.Image }})"></div>
+                        <div class="body">
+                            <span class="name">{{ .Title }}</span>
+                            {{ if eq .Params.author true }}
+                            <span class="author">by @{{ .Params.author }}</span>
+                            {{ end }}
+                        </div>
+                    </a>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+
+        <section class="listing">
+            <div class="center">
+                <h1>All Paths</h1>
+                <div>
+                    {{ range .Pages }}
+                    {{ if eq .Params.sub false }}
+                    <div class="item">
+                        <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
+                        <span class="tags">
+                            {{ range .Params.tags }}
+                            <a href="/tags/{{ . }}">{{ . }}</a>
+                            {{ end }}
+                        </span>
+                    </div>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+        {{ partial "footer.html" . }}
+    </body>
+</html>

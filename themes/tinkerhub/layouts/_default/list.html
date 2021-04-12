@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body class="list">
+        {{ partial "header.html" . }}
+        <section class="listing">
+            <div class="center">
+                <h1>{{ if .Data.Term }}Learning path for the tag "{{ .Data.Term }}"{{ else }}All learning paths for {{.Title}}{{ end }}</h1>
+                <div>
+                    {{ if .Data.Term }}
+                    {{ range .Pages }}
+                    {{ if eq .Params.sub false }}
+                    <div class="item">
+                        <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
+                        <span class="tags">
+                            {{ range .Params.tags }}
+                            <a href="/tags/{{ . }}">{{ . }}</a>
+                            {{ end }}
+                        </span>
+                    </div>
+                    {{ end }}
+                    {{ end }}
+                    {{ else }}
+                    {{ range .Pages }}
+                    {{ if eq .Params.sub true }}
+                    <div class="item">
+                        <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
+                        <span class="tags">
+                            {{ range .Params.tags }}
+                            <a href="/tags/{{ . }}">{{ . }}</a>
+                            {{ end }}
+                        </span>
+                    </div>
+                    {{ end }}
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+        </section>
+        {{ partial "footer.html" . }}
+    </body>
+</html>

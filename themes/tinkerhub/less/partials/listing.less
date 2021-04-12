@@ -1,0 +1,90 @@
+.listing {
+    padding: 80px 0px;
+    padding-top: 60px;
+
+    h1 {
+        font-size: 32px;
+        padding-bottom: 10px;
+        font-family: "Kanit";
+        color: #1e375a;
+        user-select: none;
+    }
+
+    .item {
+        display: block;
+        text-decoration: none;
+        margin: 32px 0px;
+        border-bottom: 1px solid #EEE;
+        padding-bottom: 32px;
+
+        &:last-of-type {
+            border-bottom: none;
+        }
+    }
+
+    .name {
+        font-size: 18px;
+        display: block;
+        margin-bottom: 10px;
+        color: #1e375a;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .tags {
+        display: block;
+        user-select: none;
+    }
+
+    .tags a {
+        display: inline-block;
+        background: #f7f8fa;
+        color: #939ba9;
+        padding: 5px 15px;
+        border-radius: 3px;
+        margin-right: 5px;
+        font-size: 14px;
+        color: #2364d2;
+        text-decoration: none;
+        border: 1px solid #f7f8fa;
+        user-select: none;
+
+        &:before {
+            content: "#";
+            margin-right: 3px;
+            text-decoration: none !important;
+        }
+
+        &:hover {
+            text-decoration: none;
+            border: 1px solid #2364d2;
+        }
+    }
+}
+
+
+@media screen and
+    (max-width: 850px),
+    (max-device-width: 850px) {
+
+    .listing {
+        padding: 20px;
+    }
+    
+}
+
+@media screen and
+    (max-width: 650px),
+    (max-device-width: 650px) {
+    
+    .listing {
+        padding: 20px;
+
+        .item .name {
+            line-height: 24px;
+        }
+    }
+}

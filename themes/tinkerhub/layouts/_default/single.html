@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body class="single">
+    {{ partial "header.html" . }}
+
+    <main>
+        <nav>
+          <div class="sticky">
+              <h1>Contents</h1>
+              {{ .TableOfContents }}
+          </div>
+        </nav>
+        <article>
+            {{ if .Params.image }}
+            <div class="image" style="background-image: url({{ .Params.image }});"></div>
+            {{ end }}
+            <header>
+                <h1>{{ .Title }} {{ if eq .Params.author true }}<small>by @{{ .Params.author }}</small>{{ end }}</h1>
+            </header>
+            <section class="content">{{ .Content }}</section>
+        </article>
+        <aside>
+            <div class="sticky">
+                {{ $related := .Site.RegularPages.Related . | first 3 }}
+                {{ with $related }}
+                <h1>Related</h1>
+                <ul>
+                    {{ range . }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">
+                          <span class="name">{{ .Title }}</span>
+                            {{ if eq .Params.author true }}
+                            <span class="author">by @{{ .Params.author }}</span>
+                            {{ end }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </aside>
+    </main>
+    {{ partial "footer.html" . }}
+  </body>
+</html>
