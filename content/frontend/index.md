@@ -3,7 +3,7 @@ title: How to learn Frontend Web Development 🔮
 date: 2021-04-12T05:01:37+05:30
 draft: false
 featured: false
-image: /images/frontend/fe.png
+image: images/frontend/fe.png
 sub: false
 keywords: ["web", "frontend", "html", "css", "javascipt"]
 tags: ["web", "frontend", "html", "css", "javascipt"]

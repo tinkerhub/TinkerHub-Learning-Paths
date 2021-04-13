@@ -3,7 +3,7 @@ title: How to learn Game Development
 date: 2021-04-12T05:12:04+05:30
 draft: false
 featured: true
-image: /images/game-development/unity-tumbnail.jpg
+image: images/game-development/unity-tumbnail.jpg
 sub: false
 keywords: ["game", "unity"]
 tags: ["game", "unity"]

@@ -6,8 +6,8 @@ featured: true
 # Remove the comments after reading
 # add image to /static folder eg: static/images/learning-pathname/image.png
 # 1024*512px resolution preferred
-# note: Don't prefix with /static
-image: /images/learning-path-name/image.png
+# note: Don't prefix with /static/
+image: images/learning-path-name/image.png
 # Specifies weather the path is a sub path
 sub: false
 keywords: ["keyword1", "keyword2"]

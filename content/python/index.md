@@ -3,7 +3,7 @@ title: How to learn Python 🐍
 date: 2021-04-12T05:33:38+05:30
 draft: false
 featured: false
-# image: /images/learning-path-name/image.png
+# image: images/learning-path-name/image.png
 sub: false
 keywords: ["python"]
 tags: ["python"]
