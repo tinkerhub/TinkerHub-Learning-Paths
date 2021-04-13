@@ -24,8 +24,8 @@ jobs:
           hugo-version: 'latest'
       - name: Build 👷
         run: |
-        rm -rdf tinkerhub/learn
-        hugo --minify -d tinkerhub/learn
+          rm -rdf tinkerhub/learn
+          hugo --minify -d tinkerhub/learn
       - name: Deploy 🚀
         run: |
           cd tinkerhub
