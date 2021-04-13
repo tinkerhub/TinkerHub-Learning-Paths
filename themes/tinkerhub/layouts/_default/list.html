@@ -8,6 +8,7 @@
         <section class="listing">
             <div class="center">
                 <h1>{{ if .Data.Term }}Learning path for the tag "{{ .Data.Term }}"{{ else }}All learning paths for {{.Title}}{{ end }}</h1>
+                {{ $baseUrl := .Site.BaseURL }}
                 <div>
                     {{ if .Data.Term }}
                     {{ range .Pages }}
@@ -16,7 +17,7 @@
                         <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
                         <span class="tags">
                             {{ range .Params.tags }}
-                            <a href="/tags/{{ . }}">{{ . }}</a>
+                            <a href="{{ $baseUrl }}tags/{{ . }}">{{ . }}</a>
                             {{ end }}
                         </span>
                     </div>
@@ -29,7 +30,7 @@
                         <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
                         <span class="tags">
                             {{ range .Params.tags }}
-                            <a href="/tags/{{ . }}">{{ . }}</a>
+                            <a href="{{ $baseUrl }}tags/{{ . }}">{{ . }}</a>
                             {{ end }}
                         </span>
                     </div>

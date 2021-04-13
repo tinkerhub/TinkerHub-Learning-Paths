@@ -15,7 +15,7 @@
         </nav>
         <article>
             {{ if .Params.image }}
-            <div class="image" style="background-image: url({{ .Params.image }});"></div>
+            <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
             {{ end }}
             <header>
                 <h1>{{ .Title }} {{ if eq .Params.author true }}<small>by @{{ .Params.author }}</small>{{ end }}</h1>

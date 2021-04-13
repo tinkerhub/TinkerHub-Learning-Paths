@@ -15,7 +15,7 @@
                     {{ range .Pages }}
                     {{ if and (eq .Params.featured true) (eq .Params.sub false) }}
                     <a href="{{ .Permalink }}">
-                        <div class="image" style="background-image: url({{ .Params.Image }})"></div>
+                        <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"></div>
                         <div class="body">
                             <span class="name">{{ .Title }}</span>
                             {{ if eq .Params.author true }}
@@ -33,13 +33,14 @@
             <div class="center">
                 <h1>All Paths</h1>
                 <div>
+                    {{ $baseUrl := .Site.BaseURL }}
                     {{ range .Pages }}
                     {{ if eq .Params.sub false }}
                     <div class="item">
                         <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
                         <span class="tags">
                             {{ range .Params.tags }}
-                            <a href="/tags/{{ . }}">{{ . }}</a>
+                            <a href="{{ $baseUrl }}tags/{{ . }}">{{ . }}</a>
                             {{ end }}
                         </span>
                     </div>
