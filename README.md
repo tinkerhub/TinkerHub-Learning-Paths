@@ -53,3 +53,6 @@ hugo new path-name/subpath2.md
 | `sub` | Boolean | Specifies if a learning path is path or sub path | `false` |
 | `keywords` | Array | Search terms for the learning path, used by the search bar to do fuzzy search | `["python", "backend"]` |
 | `tags` | Array | Used to generate tag pages | `["python", "backend"]` |
+
+### License
+This project is licensed under [MIT License](LICENSE)
