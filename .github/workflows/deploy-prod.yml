@@ -15,7 +15,7 @@ jobs:
       - name: Checkout tinkerhub.org code
         uses: actions/checkout@v2
         with:
-          repository: tinkerhub-org/tinkerhub-org.github.io
+          repository: tinkerhub-org/learn
           token: ${{ secrets.PUSH_TOKEN }}
           path: tinkerhub
       - name: Setup Hugo 🔧
@@ -24,8 +24,8 @@ jobs:
           hugo-version: 'latest'
       - name: Build 👷
         run: |
-          rm -rdf tinkerhub/learn
-          hugo --minify -d tinkerhub/learn
+          rm -rdf tinkerhub/*
+          hugo --minify -d tinkerhub
       - name: Deploy 🚀
         run: |
           cd tinkerhub
