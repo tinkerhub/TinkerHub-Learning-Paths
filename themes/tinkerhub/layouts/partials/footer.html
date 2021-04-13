@@ -100,7 +100,7 @@ autocomplete('#search-input', {
         },
         source: function(query, callback) {
             if (!index) {
-                fetch("/index.json")
+                fetch("{{ .Site.BaseURL }}index.json")
                 .then(function(response) {
                     return response.json();
                 })
