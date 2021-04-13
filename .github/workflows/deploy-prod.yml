@@ -10,16 +10,27 @@ jobs:
     environment: production
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Checkout tinkerhub.org code
+        uses: actions/checkout@v2
         with:
-          node-version: "12"
-      - name: Install dependencies 🔧
+          repository: tinkerhub-org/tinkerhub-org.github.io
+          token: ${{ secrets.PUSH_TOKEN }}
+          path: tinkerhub
+      - name: Setup Hugo 🔧
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - name: Build 👷
         run: |
-           sudo apt-get update
-           sudo apt-get install -y hugo
-           npm install --global surge
+        rm -rdf tinkerhub/learn
+        hugo --minify -d tinkerhub/learn
       - name: Deploy 🚀
         run: |
-           hugo
-           surge ./public https://learn.tinkerhub.org/ --token ${{secrets.SG_TOKEN}}
+          cd tinkerhub
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add . || true
+          git commit -m "Published learning poratal" || true
+          git push

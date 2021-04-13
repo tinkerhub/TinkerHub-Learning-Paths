@@ -3,7 +3,7 @@
 
 ## Hola, this repository contains curated learning paths for various technologies 
 
-:bulb: Visit [learn.tinkerhub.org/python](https://learn.tinkerhub.org/python) for the python path.
+:bulb: Visit [tinkerhub.org/learn/python](https://tinkerhub.org/learn/python) for the python path.
 
 ### How to add a new path
 #### Requirements
@@ -20,7 +20,7 @@ You can see that hugo generated a new file named path-name/index.md under the [c
 - If you are good with your changes Open a pull request to this repository
 
 #### Creating a new sub learning path
-Some paths may contain sub paths, you can visit [learn.tinkerhub.org/flutter](https://learn.tinkerhub.org/flutter) for an example. Follow the steps below to create it.
+Some paths may contain sub paths, you can visit [tinkerhub.org/learn/lutter](https://tinkerhub.org/learn/flutter) for an example. Follow the steps below to create it.
 
 - Run the command below to create a path
 ```shell
