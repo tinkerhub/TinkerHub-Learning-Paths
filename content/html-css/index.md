@@ -9,9 +9,9 @@ keywords: ["web", "frontend", "html", "css"]
 tags: ["web", "frontend", "html", "css"]
 ---
 
-Learning path for HTML & CSS curated by [Vighnesh](https://github.com/aka8921/):bowtie:
+Learning path for HTML & CSS curated by [Vighnesh](https://github.com/aka8921/)🎀
 
-## Why learn HTML & CSS :question:
+## Why learn HTML & CSS ❓
 
 HTML & CSS is the backbone of layout & designing of web pages. Whatever you *SEE* in a web browser is basically HTML and CSS. Add some JavaScript with it and you'll have a pretty decent web app.
 
@@ -19,20 +19,20 @@ Here we will be focusing on the fundamental concepts of HTML & CSS without any f
 
 This path can't be considered as the full-fledged Front End Web Development path in any way. Layouting is just one part of the equation and you should learn some JavaScript ( And preferably a JS framework ). Now, before spending your time on javascript, You should be capable of understanding basic layout techniques in HTML and CSS. We'll leave the Front End Web Development path's link at the end of this path :wink:
 
-## Install and setup stuffs :construction:
+## Install and setup stuffs 🚧
 
 For learning HTML & CSS you need to first set up the following things
 
 Things you need and need not.
 
-1. A :computer: with any OS :white_check_mark:
-2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) :white_check_mark:
-3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge), [Chrome](https://www.google.com/chrome/) :white_check_mark:
-4. Using super light Notepad Text Editor :x:
-5. High designing skills :x:
-6. Basic programming knowledge :x:
+1. A :computer: with any OS ✔️
+2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) ✔️
+3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge), [Chrome](https://www.google.com/chrome/) ✔️
+4. Using super light Notepad Text Editor ❌
+5. High designing skills ❌
+6. Basic programming knowledge ❌
 
-## Baby steps :baby:
+## Baby steps 👶
 
 What we are worried about here is to have a good understanding of HTML & CSS.
 
@@ -45,7 +45,7 @@ If you prefer something more interactive, Scrimba is a good platform
 
 - [Learn HTML5 in Scrimba](https://scrimba.com/learn/html)
 
-## Flexbox :star2:
+## Flexbox 🌟
 
 Flexbox is a CSS3 web layout model (don't worry about it) that is extremely useful in achieving a lot of common layouts easily. It does have a small learning curve to it. But trust me, you are going to thank yourself later in your career for not skipping this part when you started learning web development.
 
@@ -60,7 +60,7 @@ If you prefer videos,
 
 Now, you might have a feeling that you've understood Flexbox very well by the time you go through the above resources. Try playing this game (without any trial and error) to make sure that you've understood the concept well. [Flexbox Froggy](https://flexboxfroggy.com)
 
-## Grid :star2:
+## Grid 🌟
 
 This is the most powerful web layout system in CSS. After learning Flexbox, CSS Grid is the concept which you should understand
 
@@ -72,7 +72,7 @@ Resources
 Now... just like in the case of Flexbox, you might have a feeling that you've understood CSS Grid very well by the time you go through the above resources. Try playing this game (without any trial and error) to make sure that you've understood the concept well. [CSS Grid Garden ](https://cssgridgarden.com)
 
 
-## Positioning :star2:
+## Positioning 🌟
 
 Although you might not have to use CSS positioning in your day-to-day web projects, this is a concept that is often overlooked by a lot of people who are starting. It is a really simple concept to understand when compared to Flexbox and Grids.
 
@@ -86,4 +86,4 @@ At this point, you have completed the basic concepts of HTML &  CSS. Congratulat
 
 But as I mentioned at the beginning of this path, Layout is just a part of the equation. To be able to make a useful web app, you'll need to know a lot of javascript as well. Feel free to take a look at the [Front End Web Development](https://github.com/aka8921/TinkerHub-Learning-Paths/blob/main/learning/Frontend%20Web%20Development/Readme.md) path now that you have a good understanding of HTML and CSS.
 
-:heart_eyes: All the best :smile:
+😍 All the best 😊
