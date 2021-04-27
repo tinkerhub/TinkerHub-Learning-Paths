@@ -9,13 +9,13 @@ keywords: ["hacking", "bounty"]
 tags: ["hacking", "bounty"]
 ---
 
-by [Fasal](https://github.com/fasalmbt/) :sunglasses:
+by [Fasal](https://github.com/fasalmbt/) 🕶️
 
 ## Programming Knowledge
 
 Programming knowledge is a must obviously.
 
-### Learn Python,PHP,JS,HTML&CSS :rocket:
+### Learn Python,PHP,JS,HTML&CSS 🚀
 
 1. Basic knowledge about HTML,CSS&JS is must.
 2. Learn any server side language like Python,PHP or Ruby.
@@ -24,18 +24,18 @@ Programming knowledge is a must obviously.
 :bulb: The python book [Learn python3: the hardway](https://www.amazon.in/Learn-Python-Hard-Way-Introduction/dp/0134692888) is a good resource.
 
 
-### Install and setup stuffs :construction:
+### Install and setup stuffs 🚧
 
 Things you need and need not.
 
-1. A :computer: running any linux based OS :white_check_mark: (You can also use windows, but it sucks.)
-2. A :brain: to think :white_check_mark:
-3. Kali linux :exclamation: (even ubuntu will do the work)
-4. Problem solving skills :white_check_mark:
-5. Investigation oriented mind :white_check_mark:
+1. A 🖥️ running any linux based OS ✔️ (You can also use windows, but it sucks.)
+2. A 🧠 to think ✔️
+3. Kali linux ❗ (even ubuntu will do the work)
+4. Problem solving skills ✔️
+5. Investigation oriented mind ✔️
 
 
-#### :full_moon_with_face: Only do this if you have plans to learn. First learn, then earn. There will be some time you may find yourself lost.
+#### 🌝 Only do this if you have plans to learn. First learn, then earn. There will be some time you may find yourself lost.
 
 ### Next steps (recommended)
 Do the following to take learning to the next level
@@ -44,7 +44,7 @@ Do the following to take learning to the next level
 Programming your own tools is best step to become leet from noob. 
 You will learn a lot in this process about security related concepts.
 ```
-2. Read Books. :book:
+2. Read Books. 📖
 
 * [Web application hackers handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 * [Web hacking 101](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
@@ -72,7 +72,7 @@ You will learn a lot in this process about security related concepts.
 * [Portswigger academy](https://portswigger.net/web-security)
 * [Vulnhub](https://www.vulnhub.com/)
 
-5. Tools needed :hammer_and_wrench:
+5. Tools needed 🛠️
 
 * [Burpsuite](https://portswigger.net/burp)
 * [nmap](https://nmap.org/)
@@ -91,7 +91,7 @@ You will learn a lot in this process about security related concepts.
 * [Intigriti](https://www.intigriti.com/)
 * [Yogosha](https://yogosha.com/)
 
-7. Final notes :memo:
+7. Final notes 📝
 ```
 * PATIENCE IS THE KEY, takes years to master, don’t fall for overnight success
 * Do not expect someone will spoon feed you everything.
@@ -104,4 +104,4 @@ You will learn a lot in this process about security related concepts.
 * Stay updated with InfoSec world
 ```
 
-Thanks :rocket:
+Thanks 🚀

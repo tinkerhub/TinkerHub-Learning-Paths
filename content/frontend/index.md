@@ -17,12 +17,12 @@ For learning Web Development you need to first set up the following things
 
 Things you need and need not.
 
-1. A :computer: with any OS :white_check_mark:
-2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) :white_check_mark:
-3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge) :white_check_mark:
-4. Using super light Notepad Text Editor :x:
-5. High designing skills :x:
-6. Basic programming knowledge :white_check_mark:
+1. A :computer: with any OS ✔️
+2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) ✔️
+3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge) ✔️
+4. Using super light Notepad Text Editor ❌
+5. High designing skills ❌
+6. Basic programming knowledge ✔️
 
 > Will be really helpful in JavaScript Part
 
@@ -42,7 +42,7 @@ Fundamental building blocks of web development is
 6. Check out [JS in 14-min](https://jgthms.com/javascript-in14-minutes/) by [@jgthms](https://github.com/jgthms)
 7. Built some small projects like tick-tac-toe, drum kit simulator.
 
-## CSS-Frameworks, SASS & API Handling :star2:
+## CSS-Frameworks, SASS & API Handling 🌟
 
 CSS frameworks are used to build layouts in a short period.
 An important thing to consider is unless you have a good grasp on CSS and JS don't use them.
@@ -56,15 +56,15 @@ An important thing to consider is unless you have a good grasp on CSS and JS don
 
 4. Learn JS API handling
 
-Project :bulb:
+Project 💡
 
 1. Build a weather app using any of your frameworks using free [weather API](https://openweathermap.org/api)
 
 At this point, you have completed everything as a frontend web developer beginner.
 
-## Advance/Speciality Section :fire:
+## Advance/Speciality Section 🔥
 
-## Frontend Frameworks :sparkles:
+## Frontend Frameworks ✨
 
 In the long run and when building scalable web applications, building it just using these fundamental blocks can be hectic and tough to maintain.
 This is where frontend frameworks come into the picture. Learn one framework well and then you can learn other ones with ease.
@@ -184,7 +184,7 @@ Some of the testing libraries are
 3. Stackoverflow will be the most visited site for you :smile:
 4. It's a broad field and master one, then you can easily conquer the rest of them.
 
-## Steps for doing projects :woman_technologist:
+## Steps for doing projects 👩‍💻
 
 Some good starting projects:
 
@@ -193,4 +193,4 @@ Some good starting projects:
 3. Graph Builder
 4. Sorting Analyzer
 
-:heart_eyes: All the best :smile:
+😍 All the best 😊

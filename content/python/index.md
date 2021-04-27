@@ -11,7 +11,7 @@ tags: ["python"]
 
 Learning path for learning python programming language :sparkles:
 
-## Install and setup stuffs :construction:
+## Install and setup stuffs 🚧
 
 For learning python you need only two physical devices.
 
@@ -32,7 +32,7 @@ You can install from,
 
 ### Any simple good Code editor
 
-No. Please don't code in notepad :roll_eyes:
+No. Please don't code in notepad 🙄
 
 :bulb: Choose a simple editor with intellisense and other features from a wide variety of editors.
 

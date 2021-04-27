@@ -9,38 +9,38 @@ keywords: ["machine", "learning"]
 tags: ["machine-learning", "ai"]
 ---
 
-Learning path for AI/ML :sparkles:
+Learning path for AI/ML ✨
 
 ## Programming Knowledge
 
 Programming knowledge is a must obviously.
 
-### Learn Python :snake:
+### Learn Python 🐍
 
 1. Python basics: variables, conditions, loops..etc..etc..etc
 2. But most importantly installing packages, importing, using.
 3. Writing methods and using decorators.
 4. Object-oriented Python: class, inheritance.
 
-:bulb: The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
+💡 The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
 
 
-:crystal_ball: [Articles](https://pythonprogramming.net) and [Youtube videos](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome!
+🔮 [Articles](https://pythonprogramming.net) and [Youtube videos](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome!
 
-### Install and setup stuffs :construction:
+### Install and setup stuffs 🚧
 
 Things you need and need not.
 
-1. A :computer: running any OS :white_check_mark:
+1. A :computer: running any OS ✔️
 2. A high-end GPU :x:
-3. Python installed [directly](https://www.python.org) or using [anaconda](https://www.anaconda.com)/[miniconda](https://docs.conda.io/en/latest/miniconda.html#) :white_check_mark:
+3. Python installed [directly](https://www.python.org) or using [anaconda](https://www.anaconda.com)/[miniconda](https://docs.conda.io/en/latest/miniconda.html#) ✔️
 4. A heavy IDE like [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org/) :interrobang:
-5. Use light weight IDEs like [VScode](https://code.visualstudio.com) :white_check_mark:
+5. Use light weight IDEs like [VScode](https://code.visualstudio.com) ✔️
 
 
-:bulb: Make sure you integrated installed python with your IDE and [intellisense](https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2019) works fine.
+💡 Make sure you integrated installed python with your IDE and [intellisense](https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2019) works fine.
 
-#### :full_moon_with_face: For god sake don't use notepad to code!
+#### 🌝 For god sake don't use notepad to code!
 
 ### Next steps with programming (recommended)
 Do the following to take python learning to the next level
@@ -55,7 +55,7 @@ You need basic knowledge in the following mathematics areas for ML
 2. Probability
 3. Differentiation
 
-:bulb: Use your school/college textbooks to brush up on maths skills.
+💡 Use your school/college textbooks to brush up on maths skills.
 
 ### Learning algorithms
 Use various resources on the internet to understand the concepts of following machine learning algorithms
@@ -68,13 +68,13 @@ Use various resources on the internet to understand the concepts of following ma
 
 And the list goes on...
 
-:bulb: Check out this [awesome machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) repo.
+💡 Check out this [awesome machine learning tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) repo.
 
-:crystal_ball: Checkout [d2l](http://d2l.ai/) for learning algorithm implementation
+🔮 Checkout [d2l](http://d2l.ai/) for learning algorithm implementation
 
 #### Pro tip : Learn maths on the go. This means check out the maths part when you get stuck instead of going through maths first.
 
-## Implementing the algorithms :woman_technologist:
+## Implementing the algorithms 👩‍💻
 
 This is an important part. Learning how to implement ML algorithms :boom:
 - Try to implement the ML algorithms with vanilla python and the following libraries.
@@ -95,4 +95,4 @@ Now you can learn an ML library and start doing projects in ML.
 
 and the list goes on...
 
-:bulb: You can start with any of the libraries. I would recommend using official docs and tutorials to learn!
+💡 You can start with any of the libraries. I would recommend using official docs and tutorials to learn!
