@@ -58,12 +58,12 @@ You will learn a lot in this process about security related concepts.
 * [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos)
 * [Bug Crowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
-* [Open Security Training](https://www.youtube.com/user/OpenSecurityTrainingOpen)
-* [Hackerone](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">Hackerone)
+* [Open Security Training](https://www.youtube.com/user/OpenSecurityTraining)
+* [Hackerone](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
 * [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 * [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
 * [Cybermentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-* <[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+* [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
 ## CTF platforms.
 
