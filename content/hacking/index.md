@@ -55,15 +55,15 @@ You will learn a lot in this process about security related concepts.
 
 ## Watch youtube channels related to this field.
 
-* <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">Live overflow</a>
-* <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos">Hackersploit</a>
-* <a href="https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww">Bug crowd</a>
-* <a href="https://www.youtube.com/user/OpenSecurityTraining">Open security training</a>
-* <a href="https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">Hackerone</a>
-* <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg">Stok</a>
-* <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">Nahamsec</a>
-* <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cybermentor</a>
-* <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw">John Hammond</a>
+* [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos)
+* [Bug Crowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+* [Open Security Training](https://www.youtube.com/user/OpenSecurityTrainingOpen)
+* [Hackerone](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">Hackerone)
+* [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+* [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+* [Cybermentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+* <[John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
 ## CTF platforms.
 
