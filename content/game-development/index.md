@@ -27,7 +27,8 @@ Game engines are tools available for game designers to code and plan out a game 
 💡 My personal favourite is Unity, feel free to explore the others too..
 
 ## Unity
-[![Watch this video for reference](https://github.com/kamaljohnson/TinkerHub-Learning-Paths/blob/main/learning/Game%20Development/resources/unity-tumbnail.jpg)](https://www.youtube.com/watch?v=na7EMenl2lY)
+Watch this video for reference
+{{< youtube na7EMenl2lY >}}
 
 ### Install and setup stuffs 🚧
 1. First download [Unity Hub](https://unity3d.com/get-unity/download)
