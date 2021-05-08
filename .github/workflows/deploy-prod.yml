@@ -1,0 +1,36 @@
+name: Deploy to production
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    name: Deploy to production
+    if: github.repository == 'tinkerhub-org/TinkerHub-Learning-Paths'
+    environment: production
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Checkout tinkerhub.org code
+        uses: actions/checkout@v2
+        with:
+          repository: tinkerhub-org/learn
+          token: ${{ secrets.PUSH_TOKEN }}
+          path: tinkerhub
+      - name: Setup Hugo 🔧
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - name: Build 👷
+        run: |
+          rm -rdf tinkerhub/*
+          hugo --minify -d tinkerhub
+      - name: Deploy 🚀
+        run: |
+          cd tinkerhub
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add . || true
+          git commit -m "Published learning portal" || true
+          git push
