@@ -11,11 +11,11 @@ tags: ["hacking", "bounty"]
 
 by [Fasal](https://github.com/fasalmbt/) 🕶️
 
-## Programming Knowledge
+### Programming Knowledge
 
 Programming knowledge is a must obviously.
 
-### Learn Python,PHP,JS,HTML&CSS 🚀
+## Learn Python,PHP,JS,HTML&CSS 🚀
 
 1. Basic knowledge about HTML,CSS&JS is must.
 2. Learn any server side language like Python,PHP or Ruby.
@@ -24,7 +24,7 @@ Programming knowledge is a must obviously.
 :bulb: The python book [Learn python3: the hardway](https://www.amazon.in/Learn-Python-Hard-Way-Introduction/dp/0134692888) is a good resource.
 
 
-### Install and setup stuffs 🚧
+## Install and setup stuffs 🚧
 
 Things you need and need not.
 
@@ -39,12 +39,12 @@ Things you need and need not.
 
 ### Next steps (recommended)
 Do the following to take learning to the next level
-1. Learn to code your own tools.
+##  Learn to code your own tools.
 ```
 Programming your own tools is best step to become leet from noob. 
 You will learn a lot in this process about security related concepts.
 ```
-2. Read Books. 📖
+## Read Books. 📖
 
 * [Web application hackers handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 * [Web hacking 101](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
@@ -53,26 +53,26 @@ You will learn a lot in this process about security related concepts.
 * [Real World Bug Hunting](https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
 * [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 
-3. Watch youtube channels related to this field.
+## Watch youtube channels related to this field.
 
-* <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">Live overflow</a>
-* <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos">Hackersploit</a>
-* <a href="https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww">Bug crowd</a>
-* <a href="https://www.youtube.com/user/OpenSecurityTraining">Open security training</a>
-* <a href="https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">Hackerone</a>
-* <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg">Stok</a>
-* <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">Nahamsec</a>
-* <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cybermentor</a>
-* <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw">John Hammond</a>
+* [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos)
+* [Bug Crowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+* [Open Security Training](https://www.youtube.com/user/OpenSecurityTraining)
+* [Hackerone](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
+* [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+* [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+* [Cybermentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+* [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
-4. Time for some CTF. To gain experience from what you have learned you need a platform, CTF platforms will do that work.
+## CTF platforms.
 
 * [Hackthebox](https://www.hackthebox.eu/)
 * [Tryhackme](https://tryhackme.com/)
 * [Portswigger academy](https://portswigger.net/web-security)
 * [Vulnhub](https://www.vulnhub.com/)
 
-5. Tools needed 🛠️
+## Tools needed 🛠️
 
 * [Burpsuite](https://portswigger.net/burp)
 * [nmap](https://nmap.org/)
@@ -82,7 +82,7 @@ You will learn a lot in this process about security related concepts.
 * [OWASP ZAP](https://owasp.org/www-project-zap/)
 * [Sqlmap](https://github.com/sqlmapproject/sqlmap)
 
-6. Bug bounty platforms
+## Bug bounty platforms
 
 * [Hackerone](https://www.hackerone.com/)
 * [Bugcrowd](https://www.bugcrowd.com/)
@@ -91,7 +91,7 @@ You will learn a lot in this process about security related concepts.
 * [Intigriti](https://www.intigriti.com/)
 * [Yogosha](https://yogosha.com/)
 
-7. Final notes 📝
+## Final notes 📝
 ```
 * PATIENCE IS THE KEY, takes years to master, don’t fall for overnight success
 * Do not expect someone will spoon feed you everything.
