@@ -9,7 +9,7 @@ keywords: ["python"]
 tags: ["python"]
 ---
 
-Learning path for learning python programming language :sparkles:
+Learning path for learning python programming language ✨
 
 ## Install and setup stuffs 🚧
 

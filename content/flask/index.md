@@ -37,7 +37,7 @@ More details on [installation](https://flask.palletsprojects.com/en/1.1.x/instal
 
 Before learning flask you should have good knowledge in python
 
-:bulb: Check out our learning path for [python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/Python)
+💡 Check out our learning path for [python](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/tree/main/learning/Python)
 
 ## Learn more about web apps 📗
 
@@ -48,7 +48,7 @@ Before learning flask you should have good knowledge in python
 
 [Flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) is the best place to learn flask.
 
-:bulb: make sure you try out everything mentioned in the mega tutorial
+💡 make sure you try out everything mentioned in the mega tutorial
 
 ## More flask learning resources 🍿
 

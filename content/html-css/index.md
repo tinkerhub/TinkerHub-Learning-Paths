@@ -17,7 +17,7 @@ HTML & CSS is the backbone of layout & designing of web pages. Whatever you *SEE
 
 Here we will be focusing on the fundamental concepts of HTML & CSS without any frameworks. You might / might not be interested in creating a webpage layout in HTML & CSS from scratch depending on who you are. But it's always an advantage if you know some of the most important CSS concepts like Flexbox, Grid, Positioning, etc., especially when you are pursuing Front End Web development.
 
-This path can't be considered as the full-fledged Front End Web Development path in any way. Layouting is just one part of the equation and you should learn some JavaScript ( And preferably a JS framework ). Now, before spending your time on javascript, You should be capable of understanding basic layout techniques in HTML and CSS. We'll leave the Front End Web Development path's link at the end of this path :wink:
+This path can't be considered as the full-fledged Front End Web Development path in any way. Layouting is just one part of the equation and you should learn some JavaScript ( And preferably a JS framework ). Now, before spending your time on javascript, You should be capable of understanding basic layout techniques in HTML and CSS. We'll leave the Front End Web Development path's link at the end of this path 😉
 
 ## Install and setup stuffs 🚧
 
@@ -25,7 +25,7 @@ For learning HTML & CSS you need to first set up the following things
 
 Things you need and need not.
 
-1. A :computer: with any OS ✔️
+1. A 🖥️ with any OS ✔️
 2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) ✔️
 3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge), [Chrome](https://www.google.com/chrome/) ✔️
 4. Using super light Notepad Text Editor ❌

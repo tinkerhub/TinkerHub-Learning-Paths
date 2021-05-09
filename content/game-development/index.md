@@ -13,7 +13,7 @@ tags: ["game", "unity"]
 1. Code a game from scratch using raw codding eg C++, JAVA, python etc...
 2. Use a Game Engine
 
-:bulb: Pro tip: please use a Game Engine if your goal is to make a game. don't re-invent the wheel
+💡 Pro tip: please use a Game Engine if your goal is to make a game. don't re-invent the wheel
 
 ## Whats a Game Engine?
 Game engines are tools available for game designers to code and plan out a game quickly and easily without building one from the ground up.

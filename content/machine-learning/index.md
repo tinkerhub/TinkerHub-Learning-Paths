@@ -31,10 +31,10 @@ Programming knowledge is a must obviously.
 
 Things you need and need not.
 
-1. A :computer: running any OS ✔️
-2. A high-end GPU :x:
+1. A 🖥️ running any OS ✔️
+2. A high-end GPU ❌
 3. Python installed [directly](https://www.python.org) or using [anaconda](https://www.anaconda.com)/[miniconda](https://docs.conda.io/en/latest/miniconda.html#) ✔️
-4. A heavy IDE like [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org/) :interrobang:
+4. A heavy IDE like [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org/) ⁉️
 5. Use light weight IDEs like [VScode](https://code.visualstudio.com) ✔️
 
 
@@ -47,7 +47,7 @@ Do the following to take python learning to the next level
 1. Build a python project and opensource.
 2. Learn building a backend web app using [flask](https://flask.palletsprojects.com/en/1.1.x/)/[django](https://www.djangoproject.com)/[responder](https://responder.kennethreitz.org/en/latest/)
 
-## ML algorithms and its Mathematics :1234:
+## ML algorithms and its Mathematics 🔢
 
 ### Truth about the maths
 You need basic knowledge in the following mathematics areas for ML
@@ -76,7 +76,7 @@ And the list goes on...
 
 ## Implementing the algorithms 👩‍💻
 
-This is an important part. Learning how to implement ML algorithms :boom:
+This is an important part. Learning how to implement ML algorithms 💥
 - Try to implement the ML algorithms with vanilla python and the following libraries.
 
 ### Packages to use
