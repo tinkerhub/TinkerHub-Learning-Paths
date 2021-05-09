@@ -34,7 +34,7 @@ You can install from,
 
 No. Please don't code in notepad 🙄
 
-:bulb: Choose a simple editor with intellisense and other features from a wide variety of editors.
+💡 Choose a simple editor with intellisense and other features from a wide variety of editors.
 
 Some examples
 
@@ -55,11 +55,11 @@ Learn the following,
 
 Learn basics like, `variables`, `conditions`, `loops`, `methods`..etc
 
-:bulb: The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
+💡 The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
 
-:crystal_ball: [Articles](https://pythonprogramming.net/) and [Youtube Vidoes](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome !
+🔮 [Articles](https://pythonprogramming.net/) and [Youtube Vidoes](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome !
 
-:video_game: Learn python by coding a [simple game](https://opensource.com/article/20/12/learn-python)
+🎮 Learn python by coding a [simple game](https://opensource.com/article/20/12/learn-python)
 ### A wrap up of some basics
 
 1.	[Variables](https://www.w3schools.com/python/python_variables.asp),[data types](https://www.w3schools.com/python/python_datatypes.asp) and [Precedence](https://www.programiz.com/python-programming/precedence-associativity) of Operators
