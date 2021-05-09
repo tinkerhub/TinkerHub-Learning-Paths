@@ -3,8 +3,6 @@ title = "TinkerHub Learning Paths"
 theme = "tinkerhub"
 [taxonomies]
   tag = "tags"
-pygmentsUseClasses = true
-pygmentsCodefences = true
 enableEmoji = true
 #googleAnalytics = ""
 [outputs]
