@@ -10,7 +10,7 @@ tags: ["data", "engineering"]
 ---
 The term Data Engineering is used loosely in different contexts. Here we’re trying to provide some guidance on the learning path and how you can start the journey towards big data engineering one step at a time.
 
-# Why Learn Data Engineering ❓
+## Why Learn Data Engineering ❓
 The simple answer is - look around and all you see is nothing but data.
 
 - World is generating more and more data every second in various forms and we need technology to harness and make sense of data.
@@ -21,7 +21,7 @@ The simple answer is - look around and all you see is nothing but data.
 
 - On the lucrative side, data engineering/science is one of the most in-demand jobs 😎   today and usually comes with a heavy paycheck 💰
 
-# First things to learn
+## First things to learn
 
 First and foremost, all you need is a little bit of curiosity, interest, and willingness to learn. The rest of the things needed will follow
 
@@ -46,7 +46,7 @@ Now that we got an idea of *' WHAT'* needs to be learned for starters, let’s t
 
 https://cognitiveclass.ai/learn/big-data
 
-# Next Things to learn
+## Next Things to learn
 
 - Another great resource is the Book  📚[ Hadoop Application Architecture](https://github.com/samadhankadam/Hadoop-Ebook/blob/master/Hadoop%20Application%20Architectures.pdf)
   This is a bit older version, but the concepts and architecture basics are still relevant and pretty much well organized.
@@ -62,7 +62,7 @@ https://cognitiveclass.ai/learn/big-data
 However, if you are already familiar with Python 🐍 or is inclined towards learning Data science then Python API would be a natural choice
 
 
-### Free, unsolicited, out of context advice 🧐
+## Free, unsolicited, out of context advice 🧐
 
 One thing that I wish should have known earlier is the understanding of how to learn. Some of those things that we are following, or thinks is a good way of learning things may not be a very good and efficient way of learning.
 
