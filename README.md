@@ -17,10 +17,10 @@
 You can see that hugo generated a new file named path-name/index.md under the [content](./content) directory
 - Modify the file contents and metadata
 - Run `hugo server` to preview your changes on the browser
-- If you are good with your changes Open a pull request to this repository
+- If you are good with your changes, open a pull request to this repository
 
 #### Creating a new sub learning path
-Some paths may contain sub paths, you can visit [tinkerhub.org/learn/lutter](https://tinkerhub.org/learn/flutter) for an example. Follow the steps below to create it.
+Some paths may contain subpaths, you can visit [tinkerhub.org/learn/flutter](https://tinkerhub.org/learn/flutter) for an example. Follow the steps below to create it.
 
 - Run the command below to create a path
 ```shell
@@ -33,7 +33,7 @@ Some paths may contain sub paths, you can visit [tinkerhub.org/learn/lutter](htt
 ---
 ```
 - Modify the metadata for your path
-- Create sub paths using the following commands
+- Create subpaths using the following commands
 ```shell
 hugo new path-name/subpath1.md
 hugo new path-name/subpath2.md
@@ -41,16 +41,16 @@ hugo new path-name/subpath2.md
 - Modify metadata of path-name/subpath1.md and path-name/subpath2.md and change `sub` key to true
 - Update the generated files with instructions
 - Run `hugo server` to preview your changes on the browser
-- If you are good with your changes Open a pull request to this repository
+- If you are good with your changes, open a pull request to this repository
 
-#### About path/sub-path metadata
+#### About path/subpath metadata
 | Name | Type | Description | Example |
 |--------|--------|--------|--------|
-| `title` | String |Title of the path/sub path | `How to learn java` |
+| `title` | String |Title of the path/subpath | `How to learn java` |
 | `date` | Date | Date which the path is created | `2021-04-12T13:35:55+05:30` |
 | `featured` | Boolean | If set true, path to the featured list | `true` |
 | `image` | String | Featured image path, 1024*512px resolution preferred. Images should be uploaded to static/images/path-name | `images/java/image.png` |
-| `sub` | Boolean | Specifies if a learning path is path or sub path | `false` |
+| `sub` | Boolean | Specifies if a learning path is path or subpath | `false` |
 | `keywords` | Array | Search terms for the learning path, used by the search bar to do fuzzy search | `["python", "backend"]` |
 | `tags` | Array | Used to generate tag pages | `["python", "backend"]` |
 
