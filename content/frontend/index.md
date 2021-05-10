@@ -9,15 +9,15 @@ keywords: ["web", "frontend", "html", "css", "javascipt"]
 tags: ["web", "frontend", "html", "css", "javascipt"]
 ---
 
-Learning path for Frontend Web Development curated by [Akhil](https://github.com/akhilmhdh/):bowtie:
+Learning path for Frontend Web Development curated by [Akhil](https://github.com/akhilmhdh/)🎀
 
-## Install and setup stuffs :construction:
+## Install and setup stuffs 🚧
 
 For learning Web Development you need to first set up the following things
 
 Things you need and need not.
 
-1. A :computer: with any OS ✔️
+1. A 🖥️ with any OS ✔️
 2. A good light weight IDE: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/) ✔️
 3. One of the most used web browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/), [Edge](https://www.microsoft.com/en-us/edge) ✔️
 4. Using super light Notepad Text Editor ❌
@@ -26,7 +26,7 @@ Things you need and need not.
 
 > Will be really helpful in JavaScript Part
 
-## Fundamentals First :muscle:
+## Fundamentals First 💪
 
 Fundamental building blocks of web development is
 
@@ -166,7 +166,7 @@ Some of the linting tools are:
 1. [ESLINT](https://eslint.org/)
 2. [Prettier](https://prettier.io/)
 
-## Handling errors & finding solutions :detective:
+## Handling errors & finding solutions 🕵️‍♀️
 
 ### Testing
 
@@ -181,7 +181,7 @@ Some of the testing libraries are
 
 1. Browser developer tools are your best friend
 2. Use Browser Dev Tools like Inspector, Console, Debugger to check for errors in UI and webpage code
-3. Stackoverflow will be the most visited site for you :smile:
+3. Stackoverflow will be the most visited site for you 😊
 4. It's a broad field and master one, then you can easily conquer the rest of them.
 
 ## Steps for doing projects 👩‍💻

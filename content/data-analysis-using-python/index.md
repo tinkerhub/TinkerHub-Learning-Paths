@@ -13,7 +13,7 @@ A learning path for learning data analysis using python curated by [shaji-stark]
 <br /><br />
 
 
-# Why is python an excellent option for data analysis :question: :thinking:
+# Why is python an excellent option for data analysis ❓ 🤔
 ## 1. **Easy to learn** 🤩
 
 Python is focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously. Thus, newbies can easily utilize its pretty simple syntax to build effective solutions even for complex scenarios.
@@ -38,12 +38,12 @@ As companies are becoming more tech-driven and fast-paced now,   data analysis p
 <br /><br />
 
 
-# Install and setup (Optional) :construction:
+# Install and setup (Optional) 🚧
 
 For running the tools for data analysis you have two options:
 ## :one: **Anaconda and Jupyter Notebooks**
 ## :two: **Google Collaboratory**
-## We've given the instructions for :one: below, because there's no setting up to do for :two:!!
+## We've given the instructions for 1️⃣ below, because there's no setting up to do for 2️⃣!!
 <br />
 
 ## 1. Install Anaconda 🐍
@@ -120,19 +120,19 @@ Let's check out what you're gonna learn throughout this path 🧘‍♀️🧘�
 
 <br />
 
-# 1. Let's start with numpy :hash:
+# 1. Let's start with numpy #️⃣
 <img src="https://numpy.org/images/logos/numpy.svg" width=100>
 
 So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
 
 1. **You'll learn numerical computing using numpy here!**
 
-### :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
-### :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
+### 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
+### 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
 
 <br />
 
-# 2. Pandas :panda_face:
+# 2. Pandas 🐼
 <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
 
 Pandas is another useful python module in reading and handling data 💻
@@ -148,7 +148,7 @@ Things you'll learn here are:
 8. **Dealing with outliers**
 
 
-## :bulb: [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
+## 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
 
 <br />
 
@@ -174,7 +174,7 @@ Finally we'll be going through some types of data analysis. Here you'll be learn
 
 <br /><br />
 
-# Handling errors & finding solutions :detective:
+# Handling errors & finding solutions 🕵️‍♀️
 
 - Finding bugs 🐛 may be considered as comparatively easier since execution stops right when an error is encountered.
 - As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!

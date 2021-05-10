@@ -21,7 +21,7 @@ Programming knowledge is a must obviously.
 2. Learn any server side language like Python,PHP or Ruby.
 3. If you want to code your own exploits, learn C.
 
-:bulb: The python book [Learn python3: the hardway](https://www.amazon.in/Learn-Python-Hard-Way-Introduction/dp/0134692888) is a good resource.
+💡 The python book [Learn python3: the hardway](https://www.amazon.in/Learn-Python-Hard-Way-Introduction/dp/0134692888) is a good resource.
 
 
 ## Install and setup stuffs 🚧
