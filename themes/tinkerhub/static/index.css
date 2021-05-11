@@ -674,7 +674,7 @@ body {
   width: 32px;
   height: 32px;
 }
-@media screen and (max-width: 800px), (max-device-width: 800px) {
+@media screen and (max-width: 1024px), (max-device-width: 1024px) {
   .header {
     grid-template-columns: auto;
   }
