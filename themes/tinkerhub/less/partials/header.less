@@ -1,7 +1,7 @@
 @header-border: none;
 @header-background: #253d5f;
 @header-box-shadow: none; //0 3px 8px 0 rgba(116, 129, 141, 0.1);
-@header-padding: 0 26px;
+@header-padding: 0 1em;
 @header-height: 72px;
 
 @logo-width: 50px;
@@ -17,7 +17,7 @@
     align-items: center;
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: 1fr 600px 1fr;
+    grid-template-columns: 1fr 98fr 1fr;
     z-index: 1;
 
     .branding {
@@ -48,13 +48,12 @@
         text-align: right;
         display: flex;
         justify-content: flex-end;
+        margin-left: 1em;
     }
 
     .button {
         color: #FFF;
         text-decoration: none;
-        background: hsla(0,0%,100%,.1);
-        padding: 4px 20px 4px 25px;
         margin-right: 20px;
         border-radius: 3px;
         display: flex;
@@ -63,29 +62,9 @@
         user-select: none;
 
         svg {
-            margin-left: 5px;
             width: 32px;
             height: 32px;
         }
     }
 }
 
-// if the device size or window size is tablet or below the
-// logo is centered in the header and the expand menu button
-// is displayed.
-@media screen and
-    (max-width: 1024px),
-    (max-device-width: 1024px) {
-
-    .header {
-        grid-template-columns: auto;
-        .search { display: none !important; }
-        .title  { display: none !important; }
-        .menu   { display: flex !important; }
-        .logo   { margin: 0px auto; }
-
-        nav {
-            display: none;
-        }
-    }
-}

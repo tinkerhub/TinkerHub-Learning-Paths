@@ -631,12 +631,12 @@ body {
   align-items: center;
   box-sizing: border-box;
   display: grid;
-  grid-template-columns: 1fr 600px 1fr;
+  grid-template-columns: 1fr 98fr 1fr;
   z-index: 1;
 }
 .header .branding {
   display: flex;
-  padding: 0 26px;
+  padding: 0 1em;
 }
 .header #search-input {
   display: none;
@@ -656,12 +656,11 @@ body {
   text-align: right;
   display: flex;
   justify-content: flex-end;
+  margin-left: 1em;
 }
 .header .button {
   color: #FFF;
   text-decoration: none;
-  background: hsla(0, 0%, 100%, 0.1);
-  padding: 4px 20px 4px 25px;
   margin-right: 20px;
   border-radius: 3px;
   display: flex;
@@ -670,29 +669,8 @@ body {
   user-select: none;
 }
 .header .button svg {
-  margin-left: 5px;
   width: 32px;
   height: 32px;
-}
-@media screen and (max-width: 1024px), (max-device-width: 1024px) {
-  .header {
-    grid-template-columns: auto;
-  }
-  .header .search {
-    display: none !important;
-  }
-  .header .title {
-    display: none !important;
-  }
-  .header .menu {
-    display: flex !important;
-  }
-  .header .logo {
-    margin: 0px auto;
-  }
-  .header nav {
-    display: none;
-  }
 }
 .listing {
   padding: 80px 0px;
