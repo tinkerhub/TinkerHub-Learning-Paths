@@ -13,20 +13,20 @@ A learning path for learning data analysis using python curated by [shaji-stark]
 <br /><br />
 
 
-# Why is python an excellent option for data analysis ❓ 🤔
-## 1. **Easy to learn** 🤩
+## Why is python an excellent option for data analysis ❓ 🤔
+### 1. **Easy to learn** 🤩
 
 Python is focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously. Thus, newbies can easily utilize its pretty simple syntax to build effective solutions even for complex scenarios.
 
-## 2. **Well-supported** 💁‍♂️
+### 2. **Well-supported** 💁‍♂️
 
 Being in widespread use in industrial alongside academic areas, Python has a broad array of helpful libraries with tons of helpful and support materials. The great benefit is that all the libraries are available at no cost.
 
-## 3. **Graphics and Visualization Tools** 🎆
+### 3. **Graphics and Visualization Tools** 🎆
 
 You can make the data more accessible and easier-to-use by means of creating various charts and graphics, as well as web-ready interactive plots. Yes, Python provides you with the capability to get a good sense of data.
 
-## 4. **Extended packs of analytics tools available** 🔧🔨
+### 4. **Extended packs of analytics tools available** 🔧🔨
 
 Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
 <br /> <br />
@@ -41,12 +41,12 @@ As companies are becoming more tech-driven and fast-paced now,   data analysis p
 # Install and setup (Optional) 🚧
 
 For running the tools for data analysis you have two options:
-## :one: **Anaconda and Jupyter Notebooks**
-## :two: **Google Collaboratory**
-## We've given the instructions for 1️⃣ below, because there's no setting up to do for 2️⃣!!
+1. **Anaconda and Jupyter Notebooks**
+2. **Google Collaboratory**
+We've given the instructions for 1️⃣ below, because there's no setting up to do for 2️⃣!!
 <br />
 
-## 1. Install Anaconda 🐍
+## Install Anaconda 🐍
 
 Anaconda puts nearly all of the tools that we're going to need into a neat little package: the Python core language, an improved REPL environment called **Jupyter**, numeric computing libraries **(NumPy, pandas)**, plotting libraries **(seaborn, matplotlib)**, and statistics and machine learning libraries **(SciPy, scikit-learn, statsmodels)**. We'll use Anaconda's installer to handle setting up the environment that we'll work in.
 In order to keep the size of the download small, we actually use a minimum set of packages called Miniconda.
@@ -58,7 +58,7 @@ Not on the system with that variant or needed another version? Check out the con
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
 <br />
 
-## 2. Set up your environment 🌆
+## Set up your environment 🌆
 
 Check out the environment files for windows and osx that we've given in this sub-repo `win-environment.yml` and `osx-environment.yml`. Copy it to your device and save it in a location, preferrably as `environment.yml`.
 #### Once that's done, open the command line by doing the following:
@@ -89,7 +89,7 @@ OSX - `source activate tutorial`
 
 <br />
 
-## 3. Run the jupyter notebook! 📓
+## Run the jupyter notebook! 📓
 
 In this step, we'll make sure everything is working by running the Jupyter Notebook. Jupyter Notebook is a tool for doing interactive data science work in your browser.
 In your command prompt with the tutorial environment activated (Note: you'll be able to tell because your command prompt will say (tutorial) at the start of it.)
@@ -101,13 +101,13 @@ In the file browser, find where you have a Jupyter notebook. **Check out the mat
 
 <br />
 
-## 4. Stop the notebook 🛑
+## Stop the notebook 🛑
 
 Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make sure to use `Ctrl+s` in the notebook to save it first!)
 
 <br />
 
-## 5. Leave the tutorial environment 🚶‍♀️
+## Leave the tutorial environment 🚶‍♀️
 
 * Windows: `deactivate tutorial`
 * osx: `source deactivate tutorial`
@@ -121,19 +121,19 @@ Let's check out what you're gonna learn throughout this path 🧘‍♀️🧘�
 <br />
 
 # 1. Let's start with numpy #️⃣
-<img src="https://numpy.org/images/logos/numpy.svg" width=100>
+<img alt="numpy" src="https://numpy.org/images/logos/numpy.svg" width=100>
 
 So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
 
 1. **You'll learn numerical computing using numpy here!**
 
-### 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
-### 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
+💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
+💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
 
 <br />
 
 # 2. Pandas 🐼
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
+<img alt="pandas" src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
 
 Pandas is another useful python module in reading and handling data 💻
 
@@ -148,11 +148,11 @@ Things you'll learn here are:
 8. **Dealing with outliers**
 
 
-## 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
+💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
 
 <br />
 
-# 3. Matplotlib 🗺 and Seaborn 🌊
+## Matplotlib 🗺 and Seaborn 🌊
 
 We'll get introduced to two efficient modules for data visualization, **Matplotlib and Seaborn** 📊📈
 
@@ -165,7 +165,7 @@ Things you'll learn here are:
 <br />
 
 
-# 4. More on data analysis 👨‍🔬
+## More on data analysis 👨‍🔬
 
 Finally we'll be going through some types of data analysis. Here you'll be learning:
 
@@ -174,11 +174,11 @@ Finally we'll be going through some types of data analysis. Here you'll be learn
 
 <br /><br />
 
-# Handling errors & finding solutions 🕵️‍♀️
+## Handling errors & finding solutions 🕵️‍♀️
 
 - Finding bugs 🐛 may be considered as comparatively easier since execution stops right when an error is encountered.
 - As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!
 
 <br /><br />
 
-# Happy learning ;)
+### Happy learning ;)
