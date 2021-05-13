@@ -1,0 +1,25 @@
+{
+  "name": "tinkerub",
+  "version": "1.0.0",
+  "description": "TinkerHub Learning Paths Hugo theme",
+  "scripts": {
+    "build": "lessc less/index.less static/index.css",
+    "watch": "bash watch-scss.sh",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinkerhub-org/TinkerHub-Learning-Paths.git"
+  },
+  "keywords": [
+    "tinkerub"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/issues"
+  },
+  "homepage": "https://github.com/tinkerhub-org/TinkerHub-Learning-Paths#readme",
+  "dependencies": {
+    "less": "^4.1.1"
+  }
+}
