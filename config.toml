@@ -4,6 +4,7 @@ theme = "tinkerhub"
 [taxonomies]
   tag = "tags"
 enableEmoji = true
+pygmentsUseClasses = true
 #googleAnalytics = ""
 [outputs]
   home =["HTML", "JSON"]
