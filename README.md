@@ -9,9 +9,21 @@
 #### Requirements
 - Download and install [Hugo](https://gohugo.io/getting-started/installing/)
 
+#### Getting started
+- Fork the repository to your profile by clicking [here](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/fork)
+- Clone the forked repository by running the follwing command:
+```bash
+git clone https://github.com/{Your-github-username-here}/TinkerHub-Learning-Paths.git
+```
+- Create a new branch from **main** by typing the following command:
+```bash
+git checkout -b learning-path-name
+```
+- Follow the next steps to create a new learning path or sub path
+
 #### Creating a new learning path
 - Run the following command
-```shell
+```bash
  hugo new path-name/index.md
 ```
 You can see that hugo generated a new file named path-name/index.md under the [content](./content) directory
@@ -23,7 +35,7 @@ You can see that hugo generated a new file named path-name/index.md under the [c
 Some paths may contain subpaths, you can visit [tinkerhub.org/learn/flutter](https://tinkerhub.org/learn/flutter) for an example. Follow the steps below to create it.
 
 - Run the command below to create a path
-```shell
+```bash
  hugo new path-name/_index.md
 ```
 - Remove the entire contents of the file after the following lines:
