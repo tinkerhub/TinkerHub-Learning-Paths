@@ -221,9 +221,7 @@ body {
   display: none;
 }
 .single article header {
-  padding-bottom: 40px;
-  border-bottom: 2px solid #EFF0F2;
-  margin-bottom: 32px;
+  margin-bottom: 1em;
 }
 .single article header h1 {
   font-size: 32px;
@@ -380,6 +378,10 @@ body {
 }
 .content dd {
   margin-bottom: 24px;
+}
+.avatar {
+  border-radius: 50%;
+  padding: 1em;
 }
 .language-diff .gd,
 .language-patch .gd {
