@@ -7,9 +7,8 @@ featured: false
 sub: false
 keywords: ["web", "frontend", "html", "css"]
 tags: ["web", "frontend", "html", "css"]
+authors: ["aka8921"]
 ---
-
-Learning path for HTML & CSS curated by [Vighnesh](https://github.com/aka8921/)🎀
 
 ## Why learn HTML & CSS ❓
 

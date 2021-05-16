@@ -7,11 +7,8 @@ image: images/django/django.jpg
 sub: false
 keywords: ["python", "django", "backend"]
 tags: ["python", "django", "backend"]
+authors: ["irenekurien"]
 ---
-
-<i> "The web framework for perfectionists with deadlines." </i> ✨
-<br><br>
-Learning path for Django curated by [Irene](https://github.com/irenekurien/)🎀
 
 ## Why learn Django ❓
 Django is a popular web framework built on top of python. It helps programmers rapidly create maintainable and flexiable web applications powered by an SQL Database. <br>

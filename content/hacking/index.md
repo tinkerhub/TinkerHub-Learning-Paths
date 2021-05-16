@@ -7,9 +7,8 @@ image: images/hacking/hacker.jpg
 sub: false
 keywords: ["hacking", "bounty"]
 tags: ["hacking", "bounty"]
+authors: ["fasalmbt"]
 ---
-
-by [Fasal](https://github.com/fasalmbt/) 🕶️
 
 ### Programming Knowledge
 
