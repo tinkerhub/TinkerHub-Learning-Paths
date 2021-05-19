@@ -18,7 +18,17 @@
             <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
             {{ end }}
             <header>
-                <h1>{{ .Title }} {{ if eq .Params.author true }}<small>by @{{ .Params.author }}</small>{{ end }}</h1>
+                <h1>{{ .Title }}</h1>
+                <section>
+                {{if .Params.authors}}
+                <p>Curated By</p>
+                {{range $author := .Params.authors}}
+                {{$url := printf "%s" $author | printf "%s%s" "https://github.com/" | printf "%s"}}
+                {{$imageurl := printf "%s" ".png?size=48" | printf "%s%s" $url}}
+                <a href={{$url}}><img class="avatar" src={{$imageurl}} alt={{ printf "%s" $author | printf "%s%s" "Avatar of " }}></a>
+                {{end}}
+                </section>
+                {{end}}
             </header>
             <section class="content">{{ .Content }}</section>
         </article>
@@ -32,9 +42,6 @@
                     <li>
                         <a href="{{ .RelPermalink }}">
                           <span class="name">{{ .Title }}</span>
-                            {{ if eq .Params.author true }}
-                            <span class="author">by @{{ .Params.author }}</span>
-                            {{ end }}
                         </a>
                     </li>
                     {{ end }}

@@ -7,9 +7,8 @@ image: images/frontend/fe.png
 sub: false
 keywords: ["web", "frontend", "html", "css", "javascipt"]
 tags: ["web", "frontend", "html", "css", "javascipt"]
+authors: ["akhilmhdh"]
 ---
-
-Learning path for Frontend Web Development curated by [Akhil](https://github.com/akhilmhdh/)🎀
 
 ## Install and setup stuffs 🚧
 

@@ -12,9 +12,8 @@ image: images/learning-path-name/image.png
 sub: false
 keywords: ["keyword1", "keyword2"]
 tags: ["tag1", "tag2"]
+authors: ["author1","author2"]
 ---
-
-A learning path for learning {insert-tech} curated by {insert-curator-github-username}
 
 ## Why learn X ❓
 Applications of {X}.
