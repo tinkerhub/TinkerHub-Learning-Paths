@@ -1,0 +1,26 @@
+name: Deploy to production
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, edited, ready_for_review]
+jobs:
+  deploy-preview:
+    name: Generate deploy preview
+    if: github.repository == 'tinkerhub-org/TinkerHub-Learning-Paths'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Hugo 🔧
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+      - name: Build 👷
+        run: |
+          hugo --minify --baseUrl=https://tinkerhub-learn-${{ github.event.pull_request.number }}.surge.sh/
+      - name: Deploy preview 🚀
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12"
+        run: |
+        npm install --global surge
+        surge --project ./public --domain tinkerhub-learn-${{ github.event.pull_request.number }}.surge.sh
