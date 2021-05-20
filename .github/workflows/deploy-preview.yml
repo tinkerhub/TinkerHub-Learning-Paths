@@ -17,10 +17,11 @@ jobs:
       - name: Build 👷
         run: |
           hugo --minify --baseUrl=https://tinkerhub-learn-${{ github.event.pull_request.number }}.surge.sh/
-      - name: Deploy preview 🚀
+      - name: Setup Node 🔧
         uses: actions/setup-node@v1
         with:
           node-version: "12"
+      - name: Deploy preview 🚀
         run: |
-        npm install --global surge
-        surge --project ./public --domain tinkerhub-learn-${{ github.event.pull_request.number }}.surge.sh
+          npm install --global surge
+          surge --project ./public --domain tinkerhub-learn-${{ github.event.pull_request.number }}.surge.sh
