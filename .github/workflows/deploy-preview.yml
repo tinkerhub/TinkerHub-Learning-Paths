@@ -1,4 +1,4 @@
-name: Deploy to production
+name: Deploy Preview
 on:
   pull_request:
     types: [opened, synchronize, reopened, edited, ready_for_review]
