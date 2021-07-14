@@ -6,7 +6,7 @@ on:
 jobs:
   deploy:
     name: Deploy to production
-    if: github.repository == 'tinkerhub-org/TinkerHub-Learning-Paths'
+    if: github.repository == 'tinkerhub/TinkerHub-Learning-Paths'
     environment: production
     runs-on: ubuntu-latest
     steps:
