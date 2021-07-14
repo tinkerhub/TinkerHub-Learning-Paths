@@ -1,4 +1,4 @@
-baseURL = "https://tinkerhub.github.io/learn/"
+baseURL = "https://tinkerhub.org/learn/"
 title = "TinkerHub Learning Paths"
 theme = "tinkerhub"
 [taxonomies]
