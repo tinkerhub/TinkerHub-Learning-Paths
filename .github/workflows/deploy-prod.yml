@@ -15,7 +15,7 @@ jobs:
       - name: Checkout tinkerhub.org code
         uses: actions/checkout@v2
         with:
-          repository: tinkerhub-org/learn
+          repository: tinkerhub/learn
           token: ${{ secrets.PUSH_TOKEN }}
           path: tinkerhub
       - name: Setup Hugo 🔧
