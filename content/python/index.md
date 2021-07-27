@@ -10,7 +10,7 @@ tags: ["python"]
 authors: ["donamath"]
 ---
 
-Learning path for learning python programming language ✨
+Python is an open-source (free) programming language that is used in web programming, data science, artificial intelligence, and many scientific applications.
 
 ## Install and setup stuffs 🚧
 

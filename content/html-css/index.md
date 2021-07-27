@@ -9,6 +9,7 @@ keywords: ["web", "frontend", "html", "css"]
 tags: ["web", "frontend", "html", "css"]
 authors: ["aka8921"]
 ---
+HTML is the standard markup language for creating Web pages. CSS is the language we use to style a Web page.
 
 ## Why learn HTML & CSS ❓
 

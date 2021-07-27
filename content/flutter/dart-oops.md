@@ -9,6 +9,8 @@ keywords: ["dart", "android", "ios", "flutter", "mobile"]
 tags: ["dart", "android", "ios", "flutter", "mobile"]
 authors: ["evolvingkid"]
 ---
+Dart is an object-oriented programming language, and it supports all the concepts of object-oriented programming such as classes, object, inheritance, mixin, and abstract classes. As the name suggests, it focuses on the object and objects are the real-life entities.
+
 ### OOPS
 Use dart pad to run dart code. [Dart Pad](https://dartpad.dev/?null_safety=true).
 You can also install dart in your system too. [Install Dart link](https://dart.dev/get-dart)

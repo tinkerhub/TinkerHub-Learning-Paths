@@ -9,8 +9,7 @@ keywords: ["machine", "learning"]
 tags: ["machine-learning", "ai"]
 authors: ["GopikrishnanSasikumar"]
 ---
-
-Learning path for AI/ML ✨
+Machine learning is an area of artificial intelligence and computer science that covers topics such supervised learning and unsupervised learning and includes the development of software and algorithms that can make predictions based on data.
 
 ## Programming Knowledge
 
