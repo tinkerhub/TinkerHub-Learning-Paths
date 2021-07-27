@@ -21,7 +21,7 @@
                 <h1>{{ .Title }}</h1>
             </header>
             {{if .Params.authors}}
-                <div>
+                <div class="author">
                     <p>Curated By</p>
                     {{range $author := .Params.authors}}
                     {{$url := printf "%s" $author | printf "%s%s" "https://github.com/" | printf "%s"}}
