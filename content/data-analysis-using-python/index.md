@@ -7,11 +7,8 @@ image: images/data-analysis/python.jpeg
 sub: false
 keywords: ["python", "data", "analysis"]
 tags: ["python", "data", "analysis"]
+authors: ["shaji-stark"]
 ---
-
-A learning path for learning data analysis using python curated by [shaji-stark](https://github.com/shaji-stark)
-<br /><br />
-
 
 ## Why is python an excellent option for data analysis ❓ 🤔
 ### 1. **Easy to learn** 🤩
