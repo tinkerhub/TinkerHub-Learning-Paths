@@ -7,6 +7,7 @@ featured: false
 sub: false
 keywords: ["machine", "learning"]
 tags: ["machine-learning", "ai"]
+authors: ["GopikrishnanSasikumar"]
 ---
 
 Learning path for AI/ML ✨

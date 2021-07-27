@@ -7,6 +7,7 @@ image: images/flask/flask.jpg
 sub: false
 keywords: ["python", "web", "flask", "backend"]
 tags: ["python", "web", "flask", "backend"]
+authors: ["GopikrishnanSasikumar"]
 ---
 
 Python flask is a micro-framework written in python. It is used for building web applications. [TinkerHub donation page](https://github.com/tinkerhub-org/donation-page) is an example for a web app made with flask

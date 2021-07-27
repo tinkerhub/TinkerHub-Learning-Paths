@@ -7,6 +7,7 @@ image: images/flutter/flutter.png
 sub: true
 keywords: ["dart", "android", "ios", "flutter", "mobile"]
 tags: ["dart", "android", "ios", "flutter", "mobile"]
+authors: ["evolvingkid"]
 ---
 
 Learning path for flutter.

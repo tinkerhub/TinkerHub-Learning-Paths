@@ -7,6 +7,7 @@ image: images/data-engineering/data-engineering.jpg
 sub: false
 keywords: ["data", "engineering"]
 tags: ["data", "engineering"]
+authors: ["Anoop-Viswan"]
 ---
 The term Data Engineering is used loosely in different contexts. Here we’re trying to provide some guidance on the learning path and how you can start the journey towards big data engineering one step at a time.
 

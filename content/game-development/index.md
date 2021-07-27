@@ -7,6 +7,7 @@ image: images/game-development/unity-tumbnail.jpg
 sub: false
 keywords: ["game", "unity"]
 tags: ["game", "unity"]
+authors: ["kamaljohnson"]
 ---
 
 ## Ways to make a game

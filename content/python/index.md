@@ -7,6 +7,7 @@ featured: false
 sub: false
 keywords: ["python"]
 tags: ["python"]
+authors: ["donamath"]
 ---
 
 Learning path for learning python programming language ✨
