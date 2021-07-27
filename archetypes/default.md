@@ -14,6 +14,7 @@ keywords: ["keyword1", "keyword2"]
 tags: ["tag1", "tag2"]
 authors: ["author1","author2"]
 ---
+Write a Small intro on tropic here
 
 ## Why learn X ❓
 Applications of {X}.
