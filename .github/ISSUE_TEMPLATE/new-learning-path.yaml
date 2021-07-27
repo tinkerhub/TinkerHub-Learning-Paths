@@ -2,7 +2,7 @@ name: New Learning Path
 description: Suggest a new learning path for the TinkerHub Learning Comminity
 title: "[New]: <!-- Path Name --->"
 labels: [new learning path]
-assignees:
+assignees: []
 body:
   - type: markdown
     attributes:
