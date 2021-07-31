@@ -8,8 +8,8 @@
 
         <section class="featured">
             <div class="center">
-                <h1>Curated paths for learning technologies</h1>
-                <h2>Featured Learning paths</h2>
+                <h1>Curated Learning Paths</h1>
+                <h2></h2>
 
                 <div class="cards">
                     {{ range .Pages }}
@@ -29,26 +29,7 @@
             </div>
         </section>
 
-        <section class="listing">
-            <div class="center">
-                <h1>All Paths</h1>
-                <div>
-                    {{ $baseUrl := .Site.BaseURL }}
-                    {{ range .Pages }}
-                    {{ if eq .Params.sub false }}
-                    <div class="item">
-                        <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
-                        <span class="tags">
-                            {{ range .Params.tags }}
-                            <a href="{{ $baseUrl }}tags/{{ . }}">{{ . }}</a>
-                            {{ end }}
-                        </span>
-                    </div>
-                    {{ end }}
-                    {{ end }}
-                </div>
-            </div>
-        </section>
+       
         {{ partial "footer.html" . }}
     </body>
 </html>
