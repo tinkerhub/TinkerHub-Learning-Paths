@@ -1,5 +1,5 @@
 ---
-title: How to learn X
+title: How to learn 
 date: {{ .Date }}
 draft: true
 featured: true
