@@ -1037,3 +1037,32 @@ body {
   font-size: 28px;
   margin-bottom: 28px;
 }
+
+.intro {
+  margin: 0 0 48px 0;
+}
+
+.intro p {
+  font-size: 20px;
+}
+
+.intro a {
+  margin: 24px auto;
+  display: block;
+  width: 115px;
+  height: 25px;
+  background: #253d5f;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  line-height: 25px;
+  text-decoration: none;
+}
+
+.intro a:hover {
+  box-shadow: 0 6px 16px 0 rgba(116, 129, 141, 0.25);
+  transition: box-shadow 0.2s linear; 
+  background-color: #1e375a;
+}
