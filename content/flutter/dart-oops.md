@@ -2,7 +2,6 @@
 title: Learning Dart OOPS
 date: 2021-04-12T02:32:34+05:30
 draft: false
-featured: true
 image: images/flutter/flutter.png
 sub: true
 type: "language"

@@ -2,7 +2,6 @@
 title: How to learn Hacking and bug bounty
 date: 2021-04-12T05:16:58+05:30
 draft: false
-featured: true
 image: images/hacking/hacker.jpg
 sub: false
 type: "other"

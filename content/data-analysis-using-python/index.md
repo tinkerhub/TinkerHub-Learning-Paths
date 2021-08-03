@@ -2,7 +2,6 @@
 title: Data Analysis 📈 using Python 🐍
 date: 2021-04-12T13:35:55+05:30
 draft: false
-featured: true
 image: images/data-analysis/python.jpeg
 sub: false
 type: "other"

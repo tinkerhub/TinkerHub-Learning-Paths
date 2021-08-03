@@ -2,7 +2,6 @@
 title: How to learn Django for Web Development🐍
 date: 2021-04-12T02:09:49+05:30
 draft: false
-featured: true
 image: images/django/django.jpg
 sub: false
 type: "framework"

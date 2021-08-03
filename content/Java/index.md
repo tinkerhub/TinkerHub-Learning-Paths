@@ -2,7 +2,6 @@
 title: Java learning path
 
 draft: false
-featured: true
 image: images/java/java.png
 sub: false
 type: "language"

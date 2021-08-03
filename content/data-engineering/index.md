@@ -2,7 +2,6 @@
 title: How to learn Data Engineering
 date: 2021-05-09T02:28:28+05:30
 draft: false
-featured: true
 image: images/data-engineering/data-engineering.jpg
 sub: false
 type: "other"

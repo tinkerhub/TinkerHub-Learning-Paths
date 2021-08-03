@@ -5,7 +5,6 @@ draft: false
 featured: false
 # image: images/learning-path-name/image.png
 type: "intermediate"
-sub: false
 type: "ai-ml"
 keywords: ["machine", "learning"]
 tags: ["machine-learning", "ai"]

@@ -2,7 +2,6 @@
 title: How to learn HTML & CSS 🔮
 date: 2021-04-12T05:21:42+05:30
 draft: false
-featured: false
 # image: images/learning-path-name/image.png
 type: "language"
 sub: false
