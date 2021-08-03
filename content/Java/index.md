@@ -5,6 +5,7 @@ draft: false
 featured: true
 image: images/java/java.png
 sub: false
+type: "language"
 keywords: ["python", "django", "backend"]
 tags: ["python", "django", "backend"]
 authors: ["irenekurien"]
@@ -17,43 +18,43 @@ Java is a general-purpose, class-based, object-oriented programming language des
 
 ## PREREQUISITES
 
-Nil. There are no prerequisites to learn Java but if you already know C/C++ or any other Object-Oriented language, Java should be easy to pick up. 
+Nil. There are no prerequisites to learn Java but if you already know C/C++ or any other Object-Oriented language, Java should be easy to pick up.
 
 ## TOPICS TO LEARN
 
 ### Java Language Fundamentals
 
- i.  Comments in Java
+i. Comments in Java
 
-ii.  Java Data types
+ii. Java Data types
 
 iii. Java modifiers
 
-iv.  Java Operators
+iv. Java Operators
 
-v.   Java Control flow
- - Conditional statements
+v. Java Control flow
+
+- Conditional statements
 - Loop Statements
 - Branching statements
 
-vi.  Arrays, Array list in Java 
+vi. Arrays, Array list in Java
 
-Vii.  Java Methods
-      - Predefined Methods 
-      - Userdefined Methods
+Vii. Java Methods - Predefined Methods - Userdefined Methods
 
 viii. Object Oriented Programming
-+ Class and method 
-+ Constructors
-+ Inheritance
-+ Polymorphism
-+ Abstraction
-+ Abstraction
-+ Encapsulation
+
+- Class and method
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Abstraction
+- Encapsulation
 
 xi. String Handling
 
-x.  Exception Handling
+x. Exception Handling
 
 xi. Java IO Operations and file Handling
 
@@ -63,7 +64,7 @@ xiii. Applets
 
 xiv. Collection framework in Java
 
-xv.  Networking in Java
+xv. Networking in Java
 
 xvi. Inner classes, Wrapper classes
 
@@ -79,8 +80,8 @@ Java Programming<br><br>
 
 BLOGS
 Java Programming Tutorial – Learn Java Programming
-Core Java tutorial 
-Java Tutorial For Beginners 
+Core Java tutorial
+Java Tutorial For Beginners
 
 TUTORIALS
 Java Tutorial -w3schools
@@ -91,8 +92,7 @@ APPS
 Java N-IDE-Android Builder
 Learn Java
 Java Programming
-                                                                      
-                                                                                                                                                                                      
- https://github.com/jeethu28
- Jeethu Joshy
- TLF Python
+
+https://github.com/jeethu28
+Jeethu Joshy
+TLF Python

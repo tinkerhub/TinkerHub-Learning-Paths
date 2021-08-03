@@ -5,6 +5,7 @@ draft: false
 featured: true
 image: images/learning-path-name/image.png
 sub: false
+type: "language"
 keywords: ["python"]
 tags: ["python"]
 ---
@@ -20,7 +21,7 @@ For learning python you need only two physical devices.
 
 You need to install the following in your system.
 
-### Python 3.*
+### Python 3.\*
 
 Python 2.7 is not maintained anymore as of 2020. Install python 3 or latest!
 
@@ -42,7 +43,6 @@ Some examples
 - [Atom](https://atom.io/)
 - [Sublime text](https://www.sublimetext.com/)
 
-
 ## Learn how to use a terminal
 
 Learn the following,
@@ -60,17 +60,18 @@ Learn basics like, `variables`, `conditions`, `loops`, `methods`..etc
 🔮 [Articles](https://pythonprogramming.net/) and [Youtube Vidoes](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome !
 
 🎮 Learn python by coding a [simple game](https://opensource.com/article/20/12/learn-python)
+
 ### A wrap up of some basics
 
-1.	[Variables](https://www.w3schools.com/python/python_variables.asp),[data types](https://www.w3schools.com/python/python_datatypes.asp) and [Precedence](https://www.programiz.com/python-programming/precedence-associativity) of Operators
-2.	Data structures introduction - [List](https://www.w3schools.com/python/python_lists.asp), [Set](https://www.w3schools.com/python/python_sets.asp), [Tuple](https://www.w3schools.com/python/python_tuples.asp), [Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
-3.	[String manipulation](https://www.w3schools.com/python/python_strings.asp)
-4.	[Math](https://www.w3schools.com/python/module_math.asp) and [Random module](https://www.w3schools.com/python/module_random.asp).
-5.	[Functions](https://www.w3schools.com/python/python_functions.asp)
-6.	[Recursion](https://www.w3schools.com/python/gloss_python_function_recursion.asp)
-7.  [Error Handling](https://www.w3schools.com/python/python_try_except.asp)
-8.  [File Handling](https://www.w3schools.com/python/python_file_handling.asp)
-9.  [Introduction to OOP with Python](https://www.programiz.com/python-programming/object-oriented-programming)
+1. [Variables](https://www.w3schools.com/python/python_variables.asp),[data types](https://www.w3schools.com/python/python_datatypes.asp) and [Precedence](https://www.programiz.com/python-programming/precedence-associativity) of Operators
+2. Data structures introduction - [List](https://www.w3schools.com/python/python_lists.asp), [Set](https://www.w3schools.com/python/python_sets.asp), [Tuple](https://www.w3schools.com/python/python_tuples.asp), [Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
+3. [String manipulation](https://www.w3schools.com/python/python_strings.asp)
+4. [Math](https://www.w3schools.com/python/module_math.asp) and [Random module](https://www.w3schools.com/python/module_random.asp).
+5. [Functions](https://www.w3schools.com/python/python_functions.asp)
+6. [Recursion](https://www.w3schools.com/python/gloss_python_function_recursion.asp)
+7. [Error Handling](https://www.w3schools.com/python/python_try_except.asp)
+8. [File Handling](https://www.w3schools.com/python/python_file_handling.asp)
+9. [Introduction to OOP with Python](https://www.programiz.com/python-programming/object-oriented-programming)
 
 ## Write better python code
 
@@ -89,12 +90,12 @@ Learn how to build web apps using python and a web app framework like,
 
 All of the above frameworks have very good documentations and tutorials to learn.
 
-
 ## Do projects
 
 There are 2 ways to do projects in python !
 
 ### Solve with python
+
 1. Find a real world problem you are facing that can be automated using python.
 2. There are tons of tons of packages in python to solve your issue.\
 3. Google `package for <insert your problem domain> python` and see if one is available.

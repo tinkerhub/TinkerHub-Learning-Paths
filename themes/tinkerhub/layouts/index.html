@@ -1,35 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        {{ partial "head.html" . }}
-    </head>
-    <body class="index">
-        {{ partial "header.html" . }}
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body class="index">
+    {{ partial "header.html" . }}
+    <section class="featured">
+      <div class="center">
+        <h1>Curated Learning Paths</h1>
+        <h2></h2>
 
-        <section class="featured">
-            <div class="center">
-                <h1>Curated Learning Paths</h1>
-                <h2></h2>
+        <div class="section">
+          <h2>Languages</h2>
+          <div class="cards">
+            {{ range .Pages }} {{ if and (eq .Params.type "language")}}
+            <a href="{{ .Permalink }}">
+              <div
+                class="image"
+                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+              ></div>
+              <div class="body">
+                <span class="name">{{ .Title }}</span>
+                {{ if eq .Params.author true }}
+                <span class="author">by @{{ .Params.author }}</span>
+                {{ end }}
+              </div>
+            </a>
+            {{ end }} {{ end }}
+          </div>
+        </div>
 
-                <div class="cards">
-                    {{ range .Pages }}
-                    {{ if and (eq .Params.featured true) (eq .Params.sub false) }}
-                    <a href="{{ .Permalink }}">
-                        <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"></div>
-                        <div class="body">
-                            <span class="name">{{ .Title }}</span>
-                            {{ if eq .Params.author true }}
-                            <span class="author">by @{{ .Params.author }}</span>
-                            {{ end }}
-                        </div>
-                    </a>
-                    {{ end }}
-                    {{ end }}
-                </div>
-            </div>
-        </section>
+        <div class="section">
+          <h2>Frameworks and Libraries</h2>
+          <div class="cards">
+            {{ range .Pages }} {{ if and (eq .Params.type "framework")}}
+            <a href="{{ .Permalink }}">
+              <div
+                class="image"
+                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+              ></div>
+              <div class="body">
+                <span class="name">{{ .Title }}</span>
+                {{ if eq .Params.author true }}
+                <span class="author">by @{{ .Params.author }}</span>
+                {{ end }}
+              </div>
+            </a>
+            {{ end }} {{ end }}
+          </div>
+        </div>
 
-       
-        {{ partial "footer.html" . }}
-    </body>
+        <div class="section">
+          <h2>AI ML</h2>
+          <div class="cards">
+            {{ range .Pages }} {{ if and (eq .Params.type "ai-ml")}}
+            <a href="{{ .Permalink }}">
+              <div
+                class="image"
+                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+              ></div>
+              <div class="body">
+                <span class="name">{{ .Title }}</span>
+                {{ if eq .Params.author true }}
+                <span class="author">by @{{ .Params.author }}</span>
+                {{ end }}
+              </div>
+            </a>
+            {{ end }} {{ end }}
+          </div>
+        </div>
+
+        <div class="section">
+          <h2>DevOps</h2>
+          <div class="cards">
+            {{ range .Pages }} {{ if and (eq .Params.type "devops")}}
+            <a href="{{ .Permalink }}">
+              <div
+                class="image"
+                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+              ></div>
+              <div class="body">
+                <span class="name">{{ .Title }}</span>
+                {{ if eq .Params.author true }}
+                <span class="author">by @{{ .Params.author }}</span>
+                {{ end }}
+              </div>
+            </a>
+            {{ end }} {{ end }}
+          </div>
+        </div>
+
+        <div class="section">
+          <h2>Others</h2>
+          <div class="cards">
+            {{ range .Pages }} {{ if and (eq .Params.type "other")}}
+            <a href="{{ .Permalink }}">
+              <div
+                class="image"
+                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+              ></div>
+              <div class="body">
+                <span class="name">{{ .Title }}</span>
+                {{ if eq .Params.author true }}
+                <span class="author">by @{{ .Params.author }}</span>
+                {{ end }}
+              </div>
+            </a>
+            {{ end }} {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+  </body>
 </html>

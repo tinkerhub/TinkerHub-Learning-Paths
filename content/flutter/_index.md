@@ -5,6 +5,7 @@ draft: false
 featured: true
 image: images/flutter/flutter.png
 sub: false
+type: "framework"
 keywords: ["dart", "android", "ios", "flutter", "mobile"]
 tags: ["dart", "android", "ios", "flutter", "mobile"]
 ---

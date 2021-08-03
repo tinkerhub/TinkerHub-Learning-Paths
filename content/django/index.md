@@ -5,12 +5,14 @@ draft: false
 featured: true
 image: images/django/django.jpg
 sub: false
+type: "framework"
 keywords: ["python", "django", "backend"]
 tags: ["python", "django", "backend"]
 authors: ["irenekurien"]
 ---
 
 ## Why learn Django ❓
+
 Django is a popular web framework built on top of python. It helps programmers rapidly create maintainable and flexiable web applications powered by an SQL Database. <br>
 <br>
 Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support.
@@ -23,10 +25,10 @@ Things you need and need not.
 2. A good light weight editor: [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io/), [Sublime text](https://www.sublimetext.com/) ✔️
 3. Using super light Notepad Text Editor ❌
 4. Basic programming knowledge in Python ✔️
-> Familiarity with the basics of python OOP
+   > Familiarity with the basics of python OOP
 5. Basic Web development knowledge ✔️
 6. Basic knowledge of using a terminal/command line ✔️
-> You should know how to install software packages on computer's operating system.
+   > You should know how to install software packages on computer's operating system.
 
 ### Installing system-wide or in a Python virtual environment? 🤔
 
@@ -45,8 +47,9 @@ The python version supported by the your target [django release](https://docs.dj
 ### Install Django 🌟
 
 There are three ways to download Django:
+
 1. Installing an official release with pip.
-> This is the best way to get the latest stable version of Django.
+   > This is the best way to get the latest stable version of Django.
 2. Use a version from your computer's package manager.
 3. Installing the development version.
 
@@ -56,9 +59,9 @@ Head over to the [Django documentation](https://docs.djangoproject.com/en/3.1/to
 
 Django provides us with an amazing documentation which makes it easy for anyone new to web development to understand the concepts and get ahead with building their dream project.
 
-1.  Follow the official tutorial provided in the Django Documentation and build a  [basic poll application](https://docs.djangoproject.com/en/3.1/intro/tutorial01/).
+1.  Follow the official tutorial provided in the Django Documentation and build a [basic poll application](https://docs.djangoproject.com/en/3.1/intro/tutorial01/).
 
-2. Challenge yourself! It's time to try out a project of your own.
+2.  Challenge yourself! It's time to try out a project of your own.
 
 > Project 💡 Create a blogging website.
 
@@ -96,8 +99,8 @@ Django [REST framework](https://www.django-rest-framework.org/) is a powerful an
 
 ## Other Python Web Frameworks ✨
 
-* [Pyramid](https://trypyramid.com/)
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- [Pyramid](https://trypyramid.com/)
+- [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
 ## Steps for doing projects 👩‍💻
 

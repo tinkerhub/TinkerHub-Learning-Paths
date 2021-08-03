@@ -5,6 +5,7 @@ draft: false
 featured: true
 image: images/data-analysis/python.jpeg
 sub: false
+type: "other"
 keywords: ["python", "data", "analysis"]
 tags: ["python", "data", "analysis"]
 ---
@@ -12,8 +13,8 @@ tags: ["python", "data", "analysis"]
 A learning path for learning data analysis using python curated by [shaji-stark](https://github.com/shaji-stark)
 <br /><br />
 
-
 ## Why is python an excellent option for data analysis ❓ 🤔
+
 ### 1. **Easy to learn** 🤩
 
 Python is focused on simplicity as well as readability, providing a host of helpful options for data analysts/scientists simultaneously. Thus, newbies can easily utilize its pretty simple syntax to build effective solutions even for complex scenarios.
@@ -31,28 +32,29 @@ You can make the data more accessible and easier-to-use by means of creating var
 Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
 <br /> <br />
 
-
 # Future and scope of the field 🔮
 
-As companies are becoming more tech-driven and fast-paced now,   data analysis professional are already playing an increasingly crucial role in businesses. Both startups and tech giants in India are adding data analysts to their workforce who are able of recording, analyzing and dissecting data to drive efficient decision-making.
+As companies are becoming more tech-driven and fast-paced now, data analysis professional are already playing an increasingly crucial role in businesses. Both startups and tech giants in India are adding data analysts to their workforce who are able of recording, analyzing and dissecting data to drive efficient decision-making.
 <br /><br />
-
 
 # Install and setup (Optional) 🚧
 
 For running the tools for data analysis you have two options:
+
 1. **Anaconda and Jupyter Notebooks**
 2. **Google Collaboratory**
-We've given the instructions for 1️⃣ below, because there's no setting up to do for 2️⃣!!
-<br />
+   We've given the instructions for 1️⃣ below, because there's no setting up to do for 2️⃣!!
+   <br />
 
 ## Install Anaconda 🐍
 
 Anaconda puts nearly all of the tools that we're going to need into a neat little package: the Python core language, an improved REPL environment called **Jupyter**, numeric computing libraries **(NumPy, pandas)**, plotting libraries **(seaborn, matplotlib)**, and statistics and machine learning libraries **(SciPy, scikit-learn, statsmodels)**. We'll use Anaconda's installer to handle setting up the environment that we'll work in.
 In order to keep the size of the download small, we actually use a minimum set of packages called Miniconda.
+
 ### Miniconda installer packages:
-* ### [Windows 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
-* ### [Mac OSX 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh)
+
+- ### [Windows 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+- ### [Mac OSX 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh)
 
 Not on the system with that variant or needed another version? Check out the conda documantation [at this link](https://docs.conda.io/en/latest/miniconda.html).
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
@@ -61,6 +63,7 @@ Note: It's easiest just to use Anaconda's defaults in the installer. You don't h
 ## Set up your environment 🌆
 
 Check out the environment files for windows and osx that we've given in this sub-repo `win-environment.yml` and `osx-environment.yml`. Copy it to your device and save it in a location, preferrably as `environment.yml`.
+
 #### Once that's done, open the command line by doing the following:
 
 Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
@@ -75,6 +78,7 @@ OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the ter
 <br />
 
 `conda env create -f <PATH_TO_ENVIRONMENT.YML>`
+
 - You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded.
 
 For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. <br />
@@ -97,7 +101,8 @@ Type the following command:
 `jupyter notebook`
 A browser window will open, showing the Jupyer environment. By default, you will be in a file browser view.
 In the file browser, find where you have a Jupyter notebook. **Check out the materials we've attached by the end of each curriculum documantation**, if you wanna see it run!
-### Click on one of the notebook (*.ipynb) files to get started!
+
+### Click on one of the notebook (\*.ipynb) files to get started!
 
 <br />
 
@@ -109,18 +114,19 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 
 ## Leave the tutorial environment 🚶‍♀️
 
-* Windows: `deactivate tutorial`
-* osx: `source deactivate tutorial`
+- Windows: `deactivate tutorial`
+- osx: `source deactivate tutorial`
 
 <br /><br />
 
-
 # Now let's see the curriculum!
+
 Let's check out what you're gonna learn throughout this path 🧘‍♀️🧘‍♂️
 
 <br />
 
 # 1. Let's start with numpy #️⃣
+
 <img alt="numpy" src="https://numpy.org/images/logos/numpy.svg" width=100>
 
 So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
@@ -133,11 +139,13 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 <br />
 
 # 2. Pandas 🐼
+
 <img alt="pandas" src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
 
 Pandas is another useful python module in reading and handling data 💻
 
 Things you'll learn here are:
+
 1. **Creating Data Frames using Pandas module**
 2. **Handling Tabular data**
 3. **Reading different file formats such as CSV, JSON, HTML and Excel files**
@@ -146,7 +154,6 @@ Things you'll learn here are:
 6. **Normalization technique**
 7. **Filling Missing values**
 8. **Dealing with outliers**
-
 
 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
 
@@ -163,7 +170,6 @@ Things you'll learn here are:
 3. **Distribution plots and Categorical Plots with Seaborn Module**
 
 <br />
-
 
 ## More on data analysis 👨‍🔬
 

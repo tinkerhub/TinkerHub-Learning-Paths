@@ -5,6 +5,7 @@ draft: false
 featured: false
 image: images/flask/flask.jpg
 sub: false
+type: "framework"
 keywords: ["python", "web", "flask", "backend"]
 tags: ["python", "web", "flask", "backend"]
 ---
@@ -31,7 +32,6 @@ $ pip install Flask
 ```
 
 More details on [installation](https://flask.palletsprojects.com/en/1.1.x/installation/)
-
 
 ## Learn Python 🐍
 
@@ -75,7 +75,6 @@ Check out [Avoiding common Flask Pitfalls](http://dirn.github.io/presentations/F
 - Flask errors are self explanatory. Read more [here](https://flask.palletsprojects.com/en/master/debugging/#:~:text=To%20enable%20the%20debugger%2C%20run,enables%20the%20debugger%20and%20reloader.&text=FLASK_ENV%20can%20only%20be%20set%20as%20an%20environment%20variable.)
 - Pretty much all errors in flask can be googled for figuring out !
 
-
 ## Steps for doing projects 👩‍💻
 
 1. Find out a project idea
@@ -84,4 +83,4 @@ Check out [Avoiding common Flask Pitfalls](http://dirn.github.io/presentations/F
 4. Write your web app logic
 5. Write routes, connect db using sqlalchemy if needed
 6. Add unit tests
-7. Deploy your flask web app to [heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) or some other platform 
+7. Deploy your flask web app to [heroku](https://www.geeksforgeeks.org/deploy-python-flask-app-on-heroku/) or some other platform
