@@ -146,6 +146,10 @@ body {
   grid-gap: 50px;
 }
 .single aside .sticky {
+  background-color: #f5f7f9;
+  box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+  border-radius: 15px;
+  transition: box-shadow 0.2s linear;
   position: sticky;
   top: 32px;
 }
@@ -158,11 +162,12 @@ body {
   text-transform: uppercase;
   margin-bottom: 18px;
   margin-top: 9px;
+  padding: 12px;
   user-select: none;
 }
 .single aside a {
   border-bottom: 1px solid #eff0f2;
-  padding: 20px 0px;
+  padding: 20px 20px;
   padding-top: 0px;
   display: block;
   border-radius: 3px;
@@ -190,6 +195,11 @@ body {
 .single main nav .sticky {
   position: sticky;
   top: 32px;
+  background-color: #f5f7f9;
+  box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+  border-radius: 15px;
+  transition: box-shadow 0.2s linear;
+  padding: 12px;
 }
 .single main nav h1 {
   color: #939ba9;
@@ -1047,6 +1057,8 @@ body {
   padding: 12px;
   margin: 0 0 48px 0;
   border-radius: 15px;
+  box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+  transition: box-shadow 0.2s linear;
 }
 
 .intro p {
