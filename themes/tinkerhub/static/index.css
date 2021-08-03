@@ -132,8 +132,9 @@ body {
   height: 100%;
   font-size: 15px;
   font-family: DM Sans, sans-serif;
-  background: #f7f8fa;
+  background: #f5f7f9;
   background-image: url("pattern.png");
+  z-index: -10;
 }
 .single main {
   padding-top: 48px;
@@ -223,6 +224,9 @@ body {
 }
 .single main nav #TableOfContents ul ul {
   display: none;
+}
+.single article {
+  background-color: #f5f7f9;
 }
 .single article header {
   margin-bottom: 1em;
@@ -1039,7 +1043,10 @@ body {
 }
 
 .intro {
+  background-color: #f7f8fa;
+  padding: 12px;
   margin: 0 0 48px 0;
+  border-radius: 15px;
 }
 
 .intro p {
@@ -1054,7 +1061,7 @@ body {
   background: #253d5f;
   padding: 10px;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 15px;
   color: white;
   font-weight: bold;
   line-height: 25px;
