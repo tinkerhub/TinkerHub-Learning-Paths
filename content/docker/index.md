@@ -51,7 +51,7 @@ The following are a list of prerequisites which will help you understand docker 
 
 - [Docker 101 introduction](https://www.bmc.com/blogs/docker-101-introduction/)
 - [Docker Beginner’s Guide](https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98) 
--[Get Started with Docker](https://medium.com/@sarinduudagepala/get-started-with-docker-f20380bcb40b)
+- [Get Started with Docker](https://medium.com/@sarinduudagepala/get-started-with-docker-f20380bcb40b)
 - [Docker Fundamentals](https://blog.skay.dev/docker-fundamentals) 
 
 
