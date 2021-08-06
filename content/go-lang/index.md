@@ -4,35 +4,35 @@ date:
 draft: false
 image: images/go-lang/golang.jpg
 sub: false
-type: 
-keywords: []
-tags: []
+type: "language"
+keywords: ["go"]
+tags: ["go"]
 authors: ["AkshayPradeep6152"]
 ---
 
-Go is a statically typed, compiled programming language designed at Google. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. Go was originally built for programs related to networking and infrastructure. It was intended to replace popular high-performance server-side languages like Java and C++. Today, Go is used for a variety of applications like cloud and server side applications, DevOps, command line tools and much more.
+Go ✨  is a statically typed, compiled programming language designed at Google. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. Go was originally built for programs related to networking and infrastructure. It was intended to replace popular high-performance server-side languages like Java and C++. Today, Go is used for a variety of applications like cloud and server side applications, DevOps, command line tools and much more.
 
 
 
-## PREREQUISITES
+## PREREQUISITES ✔️
 
-**Perfect for beginners.** you should have a basic understanding of computer programming terminologies. If you have a good command over C, then it would be quite easy for you to understand.
+👩‍💻 **Perfect for beginners.** you should have a basic understanding of computer programming terminologies. If you have a good command over C, then it would be quite easy for you to understand.
 
-**A tool to edit your code.** Any text editor you have will work fine. Most text editors have good support for Go. The most popular are VSCode (free), GoLand (paid), and Vim (free).
+🛠️ **A tool to edit your code.** Any text editor you have will work fine. Most text editors have good support for Go. The most popular are VSCode (free), GoLand (paid), and Vim (free).
 
-**A command terminal.** Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.
+💻 **A command terminal.** Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.
 
-**Getting Started with Go lang**
+**Getting Started with Go lang** 🧰
 
-Official website : [Go lang Official](https://golang.org/) 
+>Official website : [Go lang Official](https://golang.org/) 
 
-Download  and install : [Go lang Documentation](https://go.dev/)
+>Download  and install : [Go lang Documentation](https://go.dev/)
 
-Commonly used IDE for coding Go : [VS code](https://code.visualstudio.com/)
+>Commonly used IDE for coding Go : [VS code](https://code.visualstudio.com/)
 
 
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📝
 
 - Variables
 - Primitives
@@ -49,16 +49,16 @@ Commonly used IDE for coding Go : [VS code](https://code.visualstudio.com/)
 - Channels
 
 
-## RESOURCES
+## RESOURCES 💼
 
-**Online Courses**
+**Online Courses** 👩‍💻
 
 - [Getting Started with Go - Coursera](https://www.coursera.org/learn/golang-getting-started?specialization=google-golang) 
 - [Google Go Udemy](https://www.udemy.com/course/learn-how-to-code/)
 - [Learn Go - codecademy](https://www.codecademy.com/learn/learn-go)
 
 
-**Blogs**
+**Blogs** 📚
 
 - [Golang official blog](https://blog.golang.org/)
 - [Digital Ocean ](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go)
@@ -67,7 +67,7 @@ Commonly used IDE for coding Go : [VS code](https://code.visualstudio.com/)
 
 
 
-**Tutorials**
+**Tutorials** 💻
 
 - [Free Code camp](https://www.youtube.com/watch?v=YS4e4q9oBaU&feature=youtu.be)
 - [Tech with Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
@@ -77,7 +77,7 @@ Commonly used IDE for coding Go : [VS code](https://code.visualstudio.com/)
 
 
 
-**Apps**
+**Apps** 📱 
 
 - [Decoder Mobile IDE](https://play.google.com/store/apps/details?id=com.paprbit.dcoder)
 - [Go playground ](https://play.golang.org/)

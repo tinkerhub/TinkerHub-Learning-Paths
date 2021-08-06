@@ -4,23 +4,24 @@ date:
 draft: false
 image: 
 sub: false
-type: 
-keywords: []
-tags: []
+type: "framework"
+keywords: ["web","python","api"]
+tags: ["web","python","api"]
 authors: ["thomasajai001"]
 ---
 
-[FastAPI](https://fastapi.tiangolo.com/) is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. The key feature is that it is fast and very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.
+[FastAPI](https://fastapi.tiangolo.com/) is a modern, fast (high-performance), web framework for building APIs with Python 3 🐍. 6+ based on standard Python type hints. The key feature is that it is fast and very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.
 
-## PREREQUISITES
+## PREREQUISITES 🔍
 
-- Basic understanding of Python
-- Requires Python 3.6 or above
-- Knowledge of data structures like Classes, List, Dictionaries.
-- A code editor like VSCode or PyCharm
+- Basic understanding of Python 🐍
+- Requires Python 3.6 or above ✔️
+- Knowledge of data structures like Classes, List, Dictionaries. 
+🕵️
+- A code editor like VSCode or PyCharm 🖥️
 
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📋
 
 -	Path Parameters
 -	Query Parameters
@@ -38,9 +39,9 @@ authors: ["thomasajai001"]
 -	Testing
 -	Deployment
 -
-## RESOURCES
+## RESOURCES 💼
 
-**Online Courses**
+**Online Courses**  👩‍💻
 
 -	[FastAPI Full Stack Web Development (API + Webapp)](https://www.udemy.com/course/fastapi-course/)
 -	[Modern APIs with FastAPI and Python Course ](https://training.talkpython.fm/courses/getting-started-with-fastapi)
@@ -49,21 +50,21 @@ authors: ["thomasajai001"]
 
 
 
-**Blogs**
+**Blogs** 📚
 
 -	[FastAPI First Steps](https://fastapi.tiangolo.com/tutorial/first-steps/)
 -	[Getting Started With FastAPI](https://medium.com/swlh/getting-started-with-fastapi-7774e6afe2e4)
 -	[Quickly make a Fast API with Auth](https://medium.com/swlh/quickly-make-an-api-with-auth-3e1e0ca695ef)
 
 
-**Tutorials**
+**Tutorials** 💻
 
 -	[FastAPI - A python framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I)
 -	[Fast API crash course | easy way](https://www.youtube.com/watch?v=TQfIUS52QHA)
 -	[Python FAST API Tutorial](https://www.youtube.com/watch?v=-ykeT6kk4bk)
 
 
-**Apps**
+**Apps** 📱 
 
 - [Pydroid 3 - IDE for Python 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 

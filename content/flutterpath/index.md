@@ -4,19 +4,21 @@ date:
 draft: false
 image: images/flutter/flutter.jpg
 sub: false
-type: 
-keywords: []
-tags: []
+type: "framework"
+keywords: ["app development", "dart", "flutter","frontend"]
+tags: ["app development", "dart", "flutter","frontend"]
 authors: ["tomkmangattu"]
 ---
 
-Flutter is an open-source software development kit created by Google, used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia and web. Flutter is written in C, C++, and Dart. It was first unveiled on 2015 Dart developer summit.
+Flutter 🌟 is an open-source software development kit created by Google, used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia and web. Flutter is written in C, C++, and Dart. It was first unveiled on 2015 Dart 🎯 developer summit.
 
-## PREREQUISITES
+## PREREQUISITES 🔍
 
-Requires System with Android Studio and Flutter sdk installed or Visual Studio Code with Android and Flutter sdk installed. You should install jdk 8 and add java, flutter sdk path to System Environment Variables. Basic programing knowledge is appreciated. You can get help from [here](https://flutter.dev/docs)
+- 🖥️ Requires System with Android Studio and Flutter sdk installed or Visual Studio Code with Android and Flutter sdk installed.
+- ✔️ You should install jdk 8 and add java, flutter sdk path to System Environment Variables. 
+- 👩‍💻 Basic programing knowledge is appreciated. You can get help from [here](https://flutter.dev/docs)
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📋
 
 - Statefull and Stateless Widget
 - Functions, Data Types
@@ -33,16 +35,16 @@ Requires System with Android Studio and Flutter sdk installed or Visual Studio C
 - Background tasks
 - Publishing apps to Play store
 
-## RESOURCES
+## RESOURCES 💼
 
-**Online Courses**
+**Online Courses** 👩‍💻
 
 - [Flutter Course Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 - [Flutter Development Boot camp by App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
 - [Flutter App Development Edureka](https://www.youtube.com/watch?v=9XMt2hChbRo)
 - [Flutter Bloc zero to Hero](https://www.udemy.com/course/bloc-from-zero-to-hero/)
 
-**Blogs**
+**Blogs** 📚
 
 - [Flutter dev tutorial](https://flutter.dev/docs/reference/tutorials)
 - [Tutorialspoint flutter tutorial](https://www.tutorialspoint.com/flutter/index.htm)
@@ -50,7 +52,7 @@ Requires System with Android Studio and Flutter sdk installed or Visual Studio C
 
 
 
-**Tutorials**
+**Tutorials** 💻
 
 - [Flutter Tutorial by Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
 - [Flutter official YouTube channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
@@ -61,6 +63,6 @@ Requires System with Android Studio and Flutter sdk installed or Visual Studio C
 
 
 
-**Apps**
+**Apps** 📱 
 - [Flutter Easy](https://play.google.com/store/apps/details?id=com.flutter.google&hl=en_IN&gl=US)
 - [dartpad.dev](https://dartpad.dev/?null_safety=true)

@@ -4,22 +4,22 @@ date:
 draft: false
 image: 
 sub: false
-type: 
-keywords: []
-tags: []
+type: "framework"
+keywords: ["git","github", "open source"]
+tags: ["git","github", "open source"]
 authors: ["joyalfrancis23"]
 ---
 
-Git and GitHub are not the same things. Git is an open-source, version control tool created in 2005 by developers working on the Linux operating system; GitHub is a company founded in 2008 that makes tools that integrate with git. You do not need GitHub to use git, but you cannot use GitHub without using Git. GitHub has many other alternatives, such as GitLab, BitBucket, and “host-your-own” solutions such as gogs and gittea. All of these are referred to in git-speak as “remotes”, and all are completely optional. You do not need to use a remote to use git, but it will make sharing your code with others easier.
+Git and GitHub are not the same things. Git is an open-source, version control tool 🧰 created in 2005 by developers working on the Linux operating system 🖥️; GitHub is a company 🏛️  founded in 2008 that makes tools that integrate with git. You do not need GitHub to use git, but you cannot use GitHub without using Git. GitHub has many other alternatives, such as GitLab, BitBucket, and “host-your-own” solutions such as gogs and gittea. All of these are referred to in git-speak as “remotes”, and all are completely optional. You do not need to use a remote to use git, but it will make sharing your code with others easier.
 
-## PREREQUISITES
+## PREREQUISITES 🔍
 
--	Basic understanding of the command line
--	Basic programming experience
+-	Basic understanding of the command line ✔️
+-	Basic programming experience 👩‍💻
 
 
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📋
 
 -	What's Version Control
 -	What's Git
@@ -44,9 +44,9 @@ Git and GitHub are not the same things. Git is an open-source, version control t
 -	Gist
 -	Exercises
 
-## RESOURCES
+## RESOURCES 💼
 
-**Online Courses**
+**Online Courses** 👩‍💻
 
 -	[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 -	[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -55,7 +55,7 @@ Git and GitHub are not the same things. Git is an open-source, version control t
 
 
 
-**Blogs**
+**Blogs** 📚
 
 -	[Documentation](https://git-scm.com/doc)
 -	[GitHub Documentation](https://docs.github.com/en)
@@ -66,7 +66,7 @@ Git and GitHub are not the same things. Git is an open-source, version control t
 
 
 
-**Tutorials**
+**Tutorials** 💻
 
 -	[Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 -	[Git & GitHub Full Course in 5 Hours | Git GitHub Tutorial for Beginners | DevOps Training | Edureka](https://www.youtube.com/watch?v=KMOmw19ZCGs)
@@ -74,7 +74,7 @@ Git and GitHub are not the same things. Git is an open-source, version control t
 
 
 
-**Apps**
+**Apps** 📱 
 
 -	[Git Tutorials - Apps on Google Play](https://play.google.com/store/apps/details?id=com.admob9931.Git_Tutorial)
 -	[GIT Tutorial - Learn GIT - Apps on Google Play](https://play.google.com/store/apps/details?id=app.gitprojectskyhive&hl=en&gl=US)
