@@ -1,27 +1,24 @@
 ---
-title: Java learning path
+title: Java
 
 draft: false
-image: images/java/java.png
+image: images/java/java.jpg
 sub: false
 type: "language"
-keywords: ["python", "django", "backend"]
-tags: ["python", "django", "backend"]
-authors: ["irenekurien"]
+keywords: ["python", "java", "backend"]
+tags: ["python", "java", "backend"]
+authors: ["jeethu28"]
 ---
 
-# JAVA
-
 Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centres, game consoles, scientific supercomputers, cell phones, etc. It is used to develop mobile apps, desktop apps, games and much more.
-<br><br>
 
-## PREREQUISITES
+## Prerequisites 💎
 
 Nil. There are no prerequisites to learn Java but if you already know C/C++ or any other Object-Oriented language, Java should be easy to pick up.
 
-## TOPICS TO LEARN
+## Topics to learn ✨
 
-### Java Language Fundamentals
+### Java Language Fundamentals 💡
 
 i. Comments in Java
 
@@ -39,7 +36,7 @@ v. Java Control flow
 
 vi. Arrays, Array list in Java
 
-Vii. Java Methods - Predefined Methods - Userdefined Methods
+vii. Java Methods - Predefined Methods - Userdefined Methods
 
 viii. Object Oriented Programming
 
@@ -69,29 +66,27 @@ xvi. Inner classes, Wrapper classes
 
 xvii. and swings
 
-RESOURCES <br><br>
+## ONLINE COURSES 🖥️
 
-ONLINE COURSES<br>
-Java Programming and Software Engineering Fundamentals Specialization<br>
-Java Programming: Solving Problems with Software<br>
-Object Oriented Programming in Java Specialization<br>
-Java Programming<br><br>
+- [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming)
+- [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming)
+- [Object Oriented Programming in Java Specialization](https://www.coursera.org/specializations/object-oriented-programming)
+- [Java Programming](https://www.greatlearning.in/academy/learn-for-free/courses/java-programming)
 
-BLOGS
-Java Programming Tutorial – Learn Java Programming
-Core Java tutorial
-Java Tutorial For Beginners
+## BLOGS 📝
 
-TUTORIALS
-Java Tutorial -w3schools
-Java Tutorial-Javatpoint
-Java tutorial-Java fundamentals
+- [Java Programming Tutorial – Learn Java Programming](https://intellipaat.com/blog/tutorial/java-tutorial/)
+- [Core Java tutorial](https://www.startertutorials.com/corejava/)
+- [Java Tutorial For Beginners](https://www.edureka.co/blog/java-tutorial/)
 
-APPS
-Java N-IDE-Android Builder
-Learn Java
-Java Programming
+## TUTORIALS 🛠️
 
-https://github.com/jeethu28
-Jeethu Joshy
-TLF Python
+- [Java Tutorial](https://www.w3schools.com/java/) - w3schools
+- [Java Tutorial](https://www.javatpoint.com/java-tutorial) - Javatpoint
+- [Java tutorial](https://www.udemy.com/course/java-tutorial/) - Java fundamentals
+
+## APPS 🚀
+
+- [Java N-IDE-Android Builder](https://play.google.com/store/apps/details?id=com.duy.compiler.javanide)
+- [Learn Java](https://play.google.com/store/apps/details?id=ab.java.programming)
+- [Java Programming](https://play.google.com/store/apps/details?id=kasper.java.programming)

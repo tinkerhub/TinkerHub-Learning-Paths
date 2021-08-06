@@ -12,7 +12,7 @@ authors: ["Dexters-Hub"]
 
 React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. It can be used as a base in the development of single-page or mobile applications.
 
-## Prerequisites
+## Prerequisites 🚧
 
 - Basic knowledge of HTML, CSS, and JavaScript
 - Basic understanding of ES6 features. To get started you should at least know the following features:
@@ -23,7 +23,7 @@ React is a free and open-source front-end JavaScript library for building user i
   5. Classes
 - Basic understanding of how to use npm
 
-## Topics to learn
+## Topics to learn 🚀
 
 - Basic Concepts
 - Create React App
@@ -49,46 +49,44 @@ React is a free and open-source front-end JavaScript library for building user i
 - Refs
 - Render Props
 
-## RESOURCES
-
-**Documentation**
+## Documentation ✔️
 
 - [Getting Started with React](https://reactjs.org/docs/getting-started.html)
 - [React.js cheatsheet](https://devhints.io/react)
 
-**Courses**
+## Courses 📝
 
 - Egghead - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - Scrimba - [Learn React](https://scrimba.com/learn/learnreact)
 - freeCodeCamp - [Introduction to the React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
 
-**Books**
+## Books 📖
 
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [Learn to think in React](https://www.purereact.com/)
 - [React Explained](https://www.ostraining.com/books/react/)
 - [Under-the-hood-ReactJS](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
 
-**Tutorials**
+## Tutorials 🛠️
 
 - [React.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [W3Schools React Tutorial](https://www.w3schools.com/react/)
 - [Learn React.js Tutorial](https://www.javatpoint.com/reactjs-tutorial)
 - [Learn React JS in This Free 7-Hour Course](https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/)
 
-**Podcasts**
+## Podcasts 🎤
 
 - [React Round Up](https://devchat.tv/react-round-up/)
 - [The React Podcast](https://reactpodcast.com/)
 - [React 30](https://react30.com/)
 
-**Blogs**
+## Blogs 🌟
 
 - [Kent C. Dodds' Blog](https://kentcdodds.com/blog/)
 - [Official React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
 - [useHooks Blog](https://usehooks.com/)
 
-**Repositories**
+## Repositories 🚀
 
 - [Awesome React](https://github.com/enaqx/awesome-react)
 - [React](https://github.com/facebook/react)
