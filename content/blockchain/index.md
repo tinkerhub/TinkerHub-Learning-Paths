@@ -2,7 +2,7 @@
 title: Blockchain
 date: 2021-08-06T13:35:55+05:30
 draft: false
-image: images/data-analysis/python.jpeg
+image: 
 sub: false
 type: "other"
 keywords: ["block", "chain", "blockchain"]
