@@ -5,8 +5,8 @@ draft: false
 image: images/html-css-sass/html-css-sass.jpg
 sub: false
 type: "language"
-keywords: ["html", "css", "js", "web"]
-tags: ["html", "css", "js"]
+keywords: ["web", "frontend", "html", "css", "javascript"]
+tags: ["web", "frontend", "html", "css", "javascript"]
 authors: ["Haripriya17"]
 ---
 
