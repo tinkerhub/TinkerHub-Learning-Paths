@@ -1,5 +1,5 @@
 ---
-title: How to learn Game Development
+title: Game Development
 date: 2021-04-12T05:12:04+05:30
 draft: false
 image: images/game-development/unity-tumbnail.jpg

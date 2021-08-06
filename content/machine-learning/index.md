@@ -1,5 +1,5 @@
 ---
-title: How to learn ML
+title: Machine Learning
 date: 2021-04-12T05:26:57+05:30
 draft: false
 featured: false

@@ -4,9 +4,9 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/html-css-sass/html-css-sass.jpg
 sub: false
-type: ""
-keywords: []
-tags: []
+type: "language"
+keywords: ["web", "frontend", "html", "css", "javascript"]
+tags: ["web", "frontend", "html", "css", "javascript"]
 authors: ["Haripriya17"]
 ---
 
@@ -16,10 +16,9 @@ authors: ["Haripriya17"]
 
 **SASS** stands for Syntactically Awesome Style Sheets. It is a stylesheet language that is compiled to CSS and it is the most mature, stable, and powerful professional grade CSS extension language. It is an extension of CSS3, adding nested rules, variables, selector inheritance, and more. It is translated to well-formatted, standard CSS using the command line tool or a web-framework plugin. Using Sass to create style sheets makes the process quicker, less complicated and easier to maintain.
 
-
 ## PREREQUISITES
-Nil. It is easier for a complete beginner to start working on it. Before starting with CSS you just need to understand the basic HTML syntax and structure first, then start with CSS. If you feel you are good enough in CSS, then you have to start learning SASS without any wait.
 
+Nil. It is easier for a complete beginner to start working on it. Before starting with CSS you just need to understand the basic HTML syntax and structure first, then start with CSS. If you feel you are good enough in CSS, then you have to start learning SASS without any wait.
 
 ## Topics to learn
 
@@ -53,9 +52,7 @@ Nil. It is easier for a complete beginner to start working on it. Before startin
 - Operators
 - Expression
 
-
 ## RESOURCES
-
 
 **Online Courses**
 
@@ -65,9 +62,7 @@ Nil. It is easier for a complete beginner to start working on it. Before startin
 - [Sass for the Beginners](https://www.udemy.com/course/sass-for-the-beginners/)
 - https://developedbyed.com
 
-
 **BLOGS**
-
 
 - [HTML for Beginners-Include tags for HTML5](https://www.theblogstarter.com/html-for-beginners/)
 - https://www.konfinity.com/5-best-blogs-for-html
@@ -82,7 +77,6 @@ Nil. It is easier for a complete beginner to start working on it. Before startin
 - [HTML Tutorial for Beginners-Become a Master](https://www.coderepublics.com/HTML/html-tutorial.php)
 - [CSS Tutorial for Beginners - CSS tutorial point](https://www.phptpoint.com/css-tutorial)
 
-
 **APPS**
 
 - [Tutorial for Sass](https://play.google.com/store/apps/details?id=me.tuple.sassreference)
@@ -90,19 +84,3 @@ Nil. It is easier for a complete beginner to start working on it. Before startin
 - [CSS Editor](https://play.google.com/store/apps/details?id=air.CSSEditor)
 - [HTML, CSS-Editor](https://play.google.com/store/apps/details?id=com.fazil.htmleditor)
 - [Learn Sass](https://play.google.com/store/apps/details?id=com.devtd.Learn_SASS)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

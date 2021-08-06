@@ -10,7 +10,7 @@ tags: ["python", "web", "flask", "backend"]
 authors: ["Christima-Mary-S"]
 ---
 
-Flask is a micro web framework written in Python 🐍. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+Flask is a micro web framework written in Python 🐍.Python flask is a micro-framework written in python. It is used for building web applications. [TinkerHub donation page](https://github.com/tinkerhub-org/donation-page) is an example for a web app made with flask It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
 
 However, Flask supports extensions that can add application features as if they were implemented in Flask itself. (Source-- [Wikipedia](<https://en.wikipedia.org/wiki/Flask_(web_framework)>))
 

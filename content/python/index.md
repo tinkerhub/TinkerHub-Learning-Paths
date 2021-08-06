@@ -4,7 +4,7 @@ date: 2021-04-12T05:33:38+05:30
 draft: false
 featured: true
 image: images/learning-path-name/image.png
-type: "language"
+type: ""
 keywords: ["python"]
 tags: ["python"]
 ---
