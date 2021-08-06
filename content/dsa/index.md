@@ -45,7 +45,7 @@ Proficiency in any programming language is a must as it will ease most of your p
 
 **Online Courses** 💻
 
-- [Udemy](https://www.udemy.com/)
+- [Udemy](https://www.udemy.com/course/data-structures-in-java-for-noobs-lite-edition-algorithms-beginners/?ranmid=39197&raneaid=cuibqrbnhiw&ransiteid=cuibqrbnhiw-gnwx1e50avrgpa3bxdblwq&lsnpubid=cuibqrbnhiw&utm_source=aff-campaign&utm_medium=udemyads)
 - [Plural Sight](https://www.pluralsight.com/courses/ads-part1?clickid=z-vyARVP4xyORfPwUx0Mo3QWUkBUFmQwO3fS2w0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
 - [Coursera](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-o5dN2eEzfwZAVkF6B7VP5Q&siteID=JVFxdTr9V80-o5dN2eEzfwZAVkF6B7VP5Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)
 

@@ -59,7 +59,7 @@ Angular is an open-source web development framework that is used to create dynam
 
 **Online Courses** 💻
 
-- [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/)
+- [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 - [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 - [Angular Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jqhk5RvBiEwHMKSUXPyng0)
 

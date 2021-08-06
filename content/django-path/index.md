@@ -63,7 +63,7 @@ Django is a Python-based free and open-source web framework that follows the Mod
 **Online Courses** 💻
 
 - [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
-- [Python Django - The Practical Guide](https://www.udemy.com/)
+- [Python Django - The Practical Guide](https://www.udemy.com/course/python-django-the-practical-guide/)
 - [Python Django Web Framework - Full Course for Beginners](https://www.freecodecamp.org/news/python-django-course/)
 - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/)
 
