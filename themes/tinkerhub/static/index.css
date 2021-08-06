@@ -240,6 +240,7 @@ body {
 }
 .single article header {
   margin-bottom: 1em;
+  margin-left: 1em;
 }
 .single article header h1 {
   font-size: 32px;
@@ -266,6 +267,7 @@ body {
 .content {
   font-size: 16px;
   line-height: 24px;
+  padding:16px;
   margin-bottom: 48px;
   overflow: hidden;
 }
