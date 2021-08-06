@@ -49,8 +49,8 @@ Basic Knowledge in Html, javaScript and   node.js.  Before learning Express.js, 
 
 **Online Courses** 💻
 
-- [Become a Node.js  developer:/Node.js/Express.js/MongoDB/API(udemy.com)](https://www.udemy.com/)
-- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021(udemy.com)](https://www.udemy.com/)
+- [Become a Node.js  developer:/Node.js/Express.js/MongoDB/API(udemy.com)](https://www.udemy.com/course/become-a-nodejs-developernodejsexpressjsmongodbapi/)
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021(udemy.com)](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 - [Server-side Development with NodeJS, Express and MongoDB(coursera.org)](https://www.coursera.org/learn/server-side-nodejs)
 
 

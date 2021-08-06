@@ -74,7 +74,7 @@ Android software development is the process by which applications are created fo
 - [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 - [Advanced Android Development with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
-- [Android Fundamentals: Ultimate Tutorial for App Development](https://www.udemy.com/)
+- [Android Fundamentals: Ultimate Tutorial for App Development](https://www.udemy.com/course/ultimate-android-lollipop-app-development-course/?lsnpubid=jvfxdtr9v80&raneaid=jvfxdtr9v80&ransiteid=jvfxdtr9v80-2ndxxx_jurpxuz7.9p6c2a&utm_medium=udemyads&utm_source=aff-campaign)
 
 
 **Tutorials** 💡
