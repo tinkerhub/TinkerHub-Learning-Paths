@@ -4,22 +4,22 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/android_development/androiddevelopment.png
 sub: false
-type: "devops"
+type: "framework"
 keywords: ["frontend","kotlin","mobile apps","app development"]
-tags: ["frontend", "backend","java"]
+tags: ["frontend", "backend"]
 authors: ["aleena-james"]
 ---
 
 Android software development is the process by which applications are created for devices running on Android OS. Google states that "Android apps can be written using Kotlin, Java and C++ languages” using the Android software development kit (SDK). Since 2017 Kotlin is the official language for Android apps. The official Android app distribution mechanism to end users is Google Play.
 
-## PREREQUISITES
+## PREREQUISITES 🧳 
 
 - Basics of Programming and OOPS concepts 
 - System Requirements [view here](https://developer.android.com/studio/index.html#Requirements)
 - Android Studio 
 - Emulator / Android Phone  
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 🤖
 
 - Android Component 
 - Intents
@@ -63,13 +63,13 @@ Android software development is the process by which applications are created fo
 -	App Release - App Bundle, Playstore
 
 
-## RESOURCES
+## RESOURCES 😎 
 
 
-**Documentation**
+**Documentation**  📃 
   [Developer Guide](https://developer.android.com/guide)
 
-**Online Courses**
+**Online Courses** 💻
 
 - [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
@@ -77,7 +77,7 @@ Android software development is the process by which applications are created fo
 - [Android Fundamentals: Ultimate Tutorial for App Development](https://www.udemy.com/)
 
 
-**Tutorials**
+**Tutorials** 💡
 
 - [Kotlin Basics](https://www.youtube.com/watch?v=SXLmr4Qp4OM)
 - [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
@@ -85,14 +85,14 @@ Android software development is the process by which applications are created fo
 - [Kotlin Tutorial - javatpoint](https://www.javatpoint.com/kotlin-tutorial)
 - [Android Development Course – Build Native Apps with Kotlin Tutorial](https://www.youtube.com/watch?v=Iz08OTTjR04)
 
-**Blogs**
+**Blogs** 📝 
 
 - [Learn More in Kotlin](https://medium.com/mindorks/top-kotlin-blogs-to-learn-more-in-kotlin-82a6387e4dd6)
 - [Styling Android](https://blog.stylingandroid.com/)
 - [Android App Development](https://medium.com/androiddevelopers/tagged/android-app-development)
 - [Android App Development Best Practices](https://aglowiditsolutions.com/blog/android-app-development-best-practices/)
 
-**Apps**
+**Apps** 📱
 
 - [Kotlin for Android](https://play.google.com/store/apps/details?id=com.darshankomu.kotlinforandroidexamples)
 - [Codely: Learn Android with Kotlin](https://play.google.com/store/apps/details?id=com.hawkily.codely)

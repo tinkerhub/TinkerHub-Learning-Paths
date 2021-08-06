@@ -13,12 +13,12 @@ authors: ["gladson-lalu"]
 Django is a Python-based free and open-source web framework that follows the Model–Template–Views architectural pattern. It’s a popular web framework that facilitates Rapid development of secure and maintainable websites.
 
 
-## Why Django is Popular?
+## Why Django is Populars❓ 🤔
 
 
  Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and “pluggability” of components, less code, low coupling, rapid development, and the principle of don't repeat yourself. We call Django “Batteries included” Framework which means that Django comes with most of the libraries and tools required for common use cases, out of the box. Django ORM, Middlewares, Authentication, HTTP libraries, multi-site support, Django Admin, etc. are some of the “batteries”. Since Django takes care of much of the hassle of web development, you can focus on writing your app without needing to reinvent the wheel. That’s why a lot companies including YouTube, Instagram, Spotify, and Dropbox use Django in their tech stack.
 
-## PREREQUISITES
+## PREREQUISITES 🧳
 
 - Basic Knowledge in Web Development
 - Basic knowledge in Python programming
@@ -27,7 +27,7 @@ Django is a Python-based free and open-source web framework that follows the Mod
 - Finally, the knowledge of how to use an editor (you can use VSCode, Sublime Text, Atom or PyCharm)
   
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📖
 
 1.	MTV Architecture
 2.	Django View
@@ -57,10 +57,10 @@ Django is a Python-based free and open-source web framework that follows the Mod
 26.	Deployment
 
 
-## RESOURCES
+## RESOURCES 😎 
 
 
-**Online Courses**
+**Online Courses** 💻
 
 - [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
 - [Python Django - The Practical Guide](https://www.udemy.com/)
@@ -68,9 +68,9 @@ Django is a Python-based free and open-source web framework that follows the Mod
 - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/)
 
 
-**Tutorials**
+**Tutorials** 💡
 
-[Build a Basic Poll App](https://docs.djangoproject.com/en/3.2/intro/tutorial01/): Official tutorial provided by Django Documentatio
+[Build a Basic Poll App](https://docs.djangoproject.com/en/3.2/intro/tutorial01/): Official tutorial provided by Django Documentation 📃 
 
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 - [Django Web Framework (Python) - MDN-Mozilla:](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
@@ -79,13 +79,13 @@ Django is a Python-based free and open-source web framework that follows the Mod
 - [Django Tutorial for Beginners | Full Course (Video)](https://www.youtube.com/watch?v=OTmQOjsl0eg)
 - [Python Django Tutorial (Video)](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
-**Blogs**
+**Blogs** 📝 
 
 - [Django Central](https://djangocentral.com/django/)
 - [Django Community Blog Posts](https://www.djangoproject.com/community/blogs/)
 - [Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
 
-**Apps**
+**Apps** 📱
 
 - [Replit](https://replit.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)

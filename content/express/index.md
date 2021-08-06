@@ -12,11 +12,11 @@ authors: ["JeffinGBenny"]
 
 Express.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the standard server framework for Node.js. Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Many popular frameworks are based on Express.
 
-## PREREQUISITES
+## PREREQUISITES 🧳 
 
 Basic Knowledge in Html, javaScript and   node.js.  Before learning Express.js, you should also be  familiar with how client-servers work  
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📖 
 
 1. Request and response
 2. Basic routing
@@ -38,36 +38,36 @@ Basic Knowledge in Html, javaScript and   node.js.  Before learning Express.js, 
 
 
 
-## RESOURCES
+## RESOURCES 😎
 
 
-**Official website**
-  [Click here](http://expressjs.com/)
+**Official website**  
+  [Click here](http://expressjs.com/)  📃 
 
-**Installation**
+**Installation** ⚓ 
 [Click here](https://expressjs.com/en/starter/installing.html)
 
-**Online Courses**
+**Online Courses** 💻
 
 - [Become a Node.js  developer:/Node.js/Express.js/MongoDB/API(udemy.com)](https://www.udemy.com/)
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021(udemy.com)](https://www.udemy.com/)
 - [Server-side Development with NodeJS, Express and MongoDB(coursera.org)](https://www.coursera.org/learn/server-side-nodejs)
 
 
-**Tutorials**
+**Tutorials** 💡
 
 - [Tutorialspoint Express.js](https://www.tutorialspoint.com/expressjs/index.htm)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-express/)
 - [javaTpoint express.js tutorial](https://www.javatpoint.com/expressjs-tutorial)
 - [TutorialsTeacher](https://www.tutorialsteacher.com/nodejs/expressjs)
 
-**Blogs**
+**Blogs** 📝
 
 - [MDN web docs Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - [jigsawacademy](https://www.jigsawacademy.com/blogs/tutorial/expressjs-tutorial/amp/)
 - [educba](https://www.educba.com/what-is-expressjs/)
 
-**Apps**
+**Apps** 📱
 
 - [Learn Node.js|Sky Apper](https://play.google.com/store/apps/details?id=com.skyapper.learnnodejs)
 - [ExpressJS Tutorial](https://play.google.com/store/apps/details?id=com.devtd.Learn_ExpressJS)

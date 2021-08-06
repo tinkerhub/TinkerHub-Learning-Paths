@@ -12,7 +12,7 @@ authors: ["weberstills"]
 
 Angular is an open-source web development framework that is used to create dynamic SPAs or Single Page Applications. It can be used for client-side(front-end) as well as server-side(back-end) rendering. Angular applications are primarily created using TypeScript which is a superset of JavaScript. Applications like Google Maps, Gmail, Google Drive, Netflix, GitHub, etc. are examples of 
 
-## PREREQUISITES
+## PREREQUISITES 🧳 
 
 1.	HTML
 2.	CSS
@@ -20,7 +20,7 @@ Angular is an open-source web development framework that is used to create dynam
 4.	DOM(Document Object Model)
   
 
-## TOPICS TO LEARN
+## TOPICS TO LEARN 📖
 
 - Build Tools
    - npm
@@ -54,29 +54,29 @@ Angular is an open-source web development framework that is used to create dynam
 
 
 
-## RESOURCES
+## RESOURCES 😎 
 
 
-**Online Courses**
+**Online Courses** 💻
 
 - [Angular - The Complete Guide (2021 Edition)](https://www.udemy.com/)
 - [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 - [Angular Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jqhk5RvBiEwHMKSUXPyng0)
 
 
-**Tutorials**
+**Tutorials** 💡
 
 - [W3Schools Angular Tutorial](https://www.w3schools.com/angular/)
 - [better way to learn Angular](https://thinkster.io/tutorials/learn-angular-2) 
 - [Angular Docs](https://angular.io/docs)
 
 
-**Blogs**
+**Blogs** 📝 
 
 - [The angular Blog](https://blog.angular.io/?gi=5374ce854be)
 - [Juri.dev](https://juristr.com/blog/)
 
-**Apps**
+**Apps** 📱
 
 - [Learn Angular : A Tutorial App](https://play.google.com/store/apps/details?id=org.chloris.mobile.apps.tutorials&hl=en_IN)
 - [Sololearn: Learn to Code](https://www.sololearn.com/home)
