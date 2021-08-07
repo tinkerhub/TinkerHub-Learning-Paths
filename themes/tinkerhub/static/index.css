@@ -240,6 +240,7 @@ body {
 }
 .single article header {
   margin-bottom: 1em;
+  margin-left: 1em;
 }
 .single article header h1 {
   font-size: 32px;
@@ -266,6 +267,7 @@ body {
 .content {
   font-size: 16px;
   line-height: 24px;
+  padding:16px;
   margin-bottom: 48px;
   overflow: hidden;
 }
@@ -575,7 +577,7 @@ body {
 }
 
 .featured h2 {
-  color: #939ba9;
+  color: #6C6C74;
   font-size: 32px;
   line-height: 38px;
   font-family: "Roboto", sans-serif;
@@ -1055,7 +1057,7 @@ body {
 
 .intro {
   background-color: #f7f8fa;
-  padding: 12px;
+  padding: 22px;
   margin: 0 0 48px 0;
   border-radius: 15px;
   box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
