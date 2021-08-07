@@ -4,7 +4,7 @@ date: 2021-04-12T02:09:49+05:30
 draft: false
 image: images/django/django.jpg
 sub: false
-type: "framework"
+type: ""
 keywords: ["python", "django", "backend"]
 tags: ["python", "django", "backend"]
 authors: ["irenekurien"]
