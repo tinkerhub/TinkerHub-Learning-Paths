@@ -166,7 +166,7 @@ body {
   text-decoration: none;
   font-size: 20px;
 }
-.intro a::hover {
+.intro a:hover {
   box-shadow: 0 6px 16px 0 rgba(116, 129, 141, 0.25);
   transition: box-shadow 0.2s linear;
   background-color: #1e375a;
