@@ -7,9 +7,12 @@ sub: true
 type: "language"
 keywords: ["dart", "android", "ios", "flutter", "mobile"]
 tags: ["dart", "android", "ios", "flutter", "mobile"]
+authors: ["evolvingkid"]
 ---
 
+
 Flutter 🌟 is an open-source software development kit created by Google, used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia and web. Flutter is written in C, C++, and Dart. It was first unveiled on 2015 Dart 🎯 developer summit.
+
 
 ## PREREQUISITES 🔍
 

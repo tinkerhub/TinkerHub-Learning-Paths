@@ -15,21 +15,21 @@
         </nav>
         <article>
             {{ if .Params.image }}
-            <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
+                <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
             {{ end }}
             <header>
                 <h1>{{ .Title }}</h1>
-                <section>
-                {{if .Params.authors}}
-                <p>Curated By</p>
-                {{range $author := .Params.authors}}
-                {{$url := printf "%s" $author | printf "%s%s" "https://github.com/" | printf "%s"}}
-                {{$imageurl := printf "%s" ".png?size=48" | printf "%s%s" $url}}
-                <a href={{$url}}><img class="avatar" src={{$imageurl}} alt={{ printf "%s" $author | printf "%s%s" "Avatar of " }}></a>
-                {{end}}
-                </section>
-                {{end}}
             </header>
+            {{if .Params.authors}}
+                <div class="author">
+                    <p>Curated By</p>
+                    {{range $author := .Params.authors}}
+                    {{$url := printf "%s" $author | printf "%s%s" "https://github.com/" | printf "%s"}}
+                    {{$imageurl := printf "%s" ".png?size=48" | printf "%s%s" $url}}
+                    <a href={{$url}}><img class="avatar" src={{$imageurl}} alt={{ printf "%s" $author | printf "%s%s" "Avatar of " }}></a>
+                    {{end}}
+                </div>
+            {{end}}
             <section class="content">{{ .Content }}</section>
         </article>
         <aside>

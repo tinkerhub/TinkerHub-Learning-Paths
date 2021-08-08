@@ -217,12 +217,6 @@ body {
 .single aside .name {
   display: inline-block;
 }
-.single aside .author {
-  font-size: 14px;
-  margin-top: 5px;
-  display: block;
-  color: #939ba9;
-}
 .single main nav {
   counter-reset: section;
 }
@@ -652,12 +646,6 @@ body {
   display: inline;
   line-height: 22px;
   margin-right: 10px;
-  user-select: none;
-}
-.featured .cards .author {
-  font-size: 14px;
-  display: inline;
-  color: #939ba9;
   user-select: none;
 }
 .center {

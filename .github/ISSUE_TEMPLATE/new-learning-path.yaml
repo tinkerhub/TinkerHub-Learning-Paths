@@ -1,0 +1,34 @@
+name: New Learning Path
+description: Suggest a new learning path for the TinkerHub Learning Comminity
+title: "[New]: <!-- Path Name --->"
+labels: [new learning path]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Provide more info about the learning path you would like to propose
+  - type: input
+    id: path-name
+    attributes:
+      label: Path Name
+      description: Provide the name of the learning path
+      placeholder: ex. Machine learning
+    validations:
+      required: true
+  - type: textarea
+    id: more-info
+    attributes:
+      label: Additional info
+      description: Additional info about the learning path, if any (You can provide some links if any)
+      render: markdown
+    validations:
+      required: false
+  - type: checkboxes
+    id: already-exists
+    attributes:
+      label: Already existing path
+      description: Please search and check if the learning path already exists [https://tinkerhub.org/learn/](https://tinkerhub.org/learn/)
+      options:
+        - label: I searched on [https://tinkerhub.org/learn](https://tinkerhub.org/learn/) and found that the learning path doesnt exist.
+          required: true

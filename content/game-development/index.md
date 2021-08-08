@@ -7,7 +7,9 @@ sub: false
 type: "framework"
 keywords: ["game", "unity"]
 tags: ["game", "unity"]
+authors: ["kamaljohnson"]
 ---
+Game development is the process of developing a video game. The effort is undertaken by a developer, ranging from a single person to an international team dispersed across the globe.
 
 ## Ways to make a game
 

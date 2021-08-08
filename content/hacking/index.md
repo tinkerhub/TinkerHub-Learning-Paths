@@ -9,6 +9,7 @@ keywords: ["hacking", "bounty"]
 tags: ["hacking", "bounty"]
 authors: ["fasalmbt"]
 ---
+Hacking is the activity of identifying weaknesses in a computer system or a network to exploit the security to gain access to personal data or business data. An example of computer hacking can be: using a password cracking algorithm to gain access to a computer system.
 
 ### Programming Knowledge
 

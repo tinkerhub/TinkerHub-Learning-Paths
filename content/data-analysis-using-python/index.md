@@ -7,10 +7,9 @@ sub: false
 type: "other"
 keywords: ["python", "data", "analysis"]
 tags: ["python", "data", "analysis"]
----
-
-A learning path for learning data analysis using python curated by [shaji-stark](https://github.com/shaji-stark)
-<br /><br />
+authors: ["shaji-stark"]
+----
+Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
 
 ## Why is python an excellent option for data analysis ❓ 🤔
 

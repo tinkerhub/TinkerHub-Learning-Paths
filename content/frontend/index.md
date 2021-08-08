@@ -9,6 +9,7 @@ keywords: ["web", "frontend", "html", "css", "javascipt"]
 tags: ["web", "frontend", "html", "css", "javascipt"]
 authors: ["akhilmhdh"]
 ---
+Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.
 
 ## Install and setup stuffs 🚧
 

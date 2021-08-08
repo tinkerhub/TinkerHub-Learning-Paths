@@ -8,9 +8,9 @@ type: "intermediate"
 type: "ai-ml"
 keywords: ["machine", "learning"]
 tags: ["machine-learning", "ai"]
+authors: ["GopikrishnanSasikumar"]
 ---
-
-Learning path for AI/ML ✨
+Machine learning is an area of artificial intelligence and computer science that covers topics such supervised learning and unsupervised learning and includes the development of software and algorithms that can make predictions based on data.
 
 ## Programming Knowledge
 
@@ -103,3 +103,12 @@ Now you can learn an ML library and start doing projects in ML.
 and the list goes on...
 
 💡 You can start with any of the libraries. I would recommend using official docs and tutorials to learn!
+
+### Youtube Playlists to learn ML
+- https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+- https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+- https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A
+- https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
+- https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV
+- https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG
+
