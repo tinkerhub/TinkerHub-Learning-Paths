@@ -1,5 +1,4 @@
 .featured {
-    background: #f7f8fa;
     padding: 80px 0px;
 
     h1 {
@@ -9,11 +8,14 @@
         line-height: 38px;
         font-family: @font-sans;
         max-width: 600px;
+        margin-bottom: 25px;
         user-select: none;
+        font-weight: 500;
+        font-family: DM Sans, sans-serif;
     }
 
     h2 {
-        color: #939ba9;
+        color: #6C6C74;
         font-size: 32px;
         line-height: 38px;
         font-family: @font-sans;
@@ -26,7 +28,7 @@
 
 .featured .cards {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: auto;
     grid-gap: 30px;
 
@@ -72,7 +74,7 @@
 }
 
 .center {
-    max-width: 800px;
+    width: 66%;
     margin: 0px auto;
 }
 
@@ -104,4 +106,9 @@
             grid-gap: 30px;
         }
     }
+    .center
+    {
+        width: 100%;
+    }
 }
+
