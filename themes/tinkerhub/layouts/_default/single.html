@@ -15,7 +15,7 @@
         </nav>
         <article>
             {{ if .Params.image }}
-                <div class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.image }});"></div>
+                <div class="image" style="background-image: url({{ .Params.Image | absURL }});"></div>
             {{ end }}
             <header>
                 <h1>{{ .Title }}</h1>

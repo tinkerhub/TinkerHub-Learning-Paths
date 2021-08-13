@@ -1,5 +1,5 @@
-<script src="{{ .Site.BaseURL }}autocomplete.js"></script>
-<script src="{{ .Site.BaseURL }}fuse.js"></script>
+<script src="{{ "autocomplete.js" | absURL }}"></script>
+<script src="{{ "fuse.js" | absURL }}"></script>
 
 <style>
 .algolia-autocomplete {
@@ -100,7 +100,7 @@ autocomplete('#search-input', {
         },
         source: function(query, callback) {
             if (!index) {
-                fetch("{{ .Site.BaseURL }}index.json")
+                fetch("{{ "index.json" | absURL }}")
                 .then(function(response) {
                     return response.json();
                 })

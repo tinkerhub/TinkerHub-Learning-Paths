@@ -19,7 +19,7 @@
             <a href="{{ .Permalink }}">
               <div
                 class="image"
-                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+                style="background-image: url({{ .Params.Image | absURL }})"
               ></div>
               <div class="body">
                 <span class="name">{{ .Title }}</span>
@@ -36,7 +36,7 @@
             <a href="{{ .Permalink }}">
               <div
                 class="image"
-                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+                style="background-image: url({{ .Params.Image | absURL }})"
               ></div>
               <div class="body">
                 <span class="name">{{ .Title }}</span>
@@ -53,7 +53,7 @@
             <a href="{{ .Permalink }}">
               <div
                 class="image"
-                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+                style="background-image: url({{ .Params.Image | absURL }})"
               ></div>
               <div class="body">
                 <span class="name">{{ .Title }}</span>
@@ -70,7 +70,7 @@
             <a href="{{ .Permalink }}">
               <div
                 class="image"
-                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+                style="background-image: url({{ .Params.Image | absURL }})"
               ></div>
               <div class="body">
                 <span class="name">{{ .Title }}</span>
@@ -87,7 +87,7 @@
             <a href="{{ .Permalink }}">
               <div
                 class="image"
-                style="background-image: url({{ .Site.BaseURL }}{{ .Params.Image }})"
+                style="background-image: url({{ .Params.Image | absURL }})"
               ></div>
               <div class="body">
                 <span class="name">{{ .Title }}</span>
