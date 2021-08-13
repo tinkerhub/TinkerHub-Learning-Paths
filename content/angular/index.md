@@ -2,7 +2,7 @@
 title: Angular
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: 
+image: images/angular/angular.png
 sub: false
 type: "framework"
 keywords: ["frontend", "javascript","angular JS"]

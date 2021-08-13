@@ -1,8 +1,8 @@
 ---
 title: FastAPI
-date: 
+date: 2021-08-04T05:16:59+05:30
 draft: false
-image: 
+image: images/fastapi/fastapi.png
 sub: false
 type: "framework"
 keywords: ["web","python","api"]
