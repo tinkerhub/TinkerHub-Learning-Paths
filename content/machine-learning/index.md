@@ -1,10 +1,11 @@
 ---
-title: How to learn ML
+title: Machine Learning
 date: 2021-04-12T05:26:57+05:30
 draft: false
 featured: false
 # image: images/learning-path-name/image.png
-sub: false
+type: "intermediate"
+type: "ai-ml"
 keywords: ["machine", "learning"]
 tags: ["machine-learning", "ai"]
 authors: ["GopikrishnanSasikumar"]
@@ -24,7 +25,6 @@ Programming knowledge is a must obviously.
 
 💡 The book [automate the boring stuff](https://automatetheboringstuff.com) is a good resource.
 
-
 🔮 [Articles](https://pythonprogramming.net) and [Youtube videos](https://www.youtube.com/user/sentdex) by [Sentdex](https://twitter.com/Sentdex) is awesome!
 
 ### Install and setup stuffs 🚧
@@ -37,20 +37,23 @@ Things you need and need not.
 4. A heavy IDE like [PyCharm](https://www.jetbrains.com/pycharm/) or [Spyder](https://www.spyder-ide.org/) ⁉️
 5. Use light weight IDEs like [VScode](https://code.visualstudio.com) ✔️
 
-
 💡 Make sure you integrated installed python with your IDE and [intellisense](https://docs.microsoft.com/en-us/visualstudio/ide/using-intellisense?view=vs-2019) works fine.
 
 #### 🌝 For god sake don't use notepad to code!
 
 ### Next steps with programming (recommended)
+
 Do the following to take python learning to the next level
+
 1. Build a python project and opensource.
 2. Learn building a backend web app using [flask](https://flask.palletsprojects.com/en/1.1.x/)/[django](https://www.djangoproject.com)/[responder](https://responder.kennethreitz.org/en/latest/)
 
 ## ML algorithms and its Mathematics 🔢
 
 ### Truth about the maths
+
 You need basic knowledge in the following mathematics areas for ML
+
 1. Algebra
 2. Probability
 3. Differentiation
@@ -58,13 +61,14 @@ You need basic knowledge in the following mathematics areas for ML
 💡 Use your school/college textbooks to brush up on maths skills.
 
 ### Learning algorithms
+
 Use various resources on the internet to understand the concepts of following machine learning algorithms
 
 1. Linear regression
 2. Logistic regression.
 3. Kmeans and KNN.
-3. Neural networks.
-4. Deep neural networks.
+4. Neural networks.
+5. Deep neural networks.
 
 And the list goes on...
 
@@ -77,14 +81,17 @@ And the list goes on...
 ## Implementing the algorithms 👩‍💻
 
 This is an important part. Learning how to implement ML algorithms 💥
+
 - Try to implement the ML algorithms with vanilla python and the following libraries.
 
 ### Packages to use
+
 1. [Numpy](https://numpy.org) : For nuemerical computations
 2. [Pandas](https://pandas.pydata.org) : For data preproessing
 3. [Matplotlib](https://matplotlib.org) : For plotting the data
 
 ## ML libraries and doing projects
+
 Now you can learn an ML library and start doing projects in ML.
 
 ### Various ML libraries
@@ -104,3 +111,4 @@ and the list goes on...
 - https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E
 - https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV
 - https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG
+
