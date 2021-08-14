@@ -1,11 +1,11 @@
-baseURL = "https://tinkerhub.org/learn/"
+baseURL = "/"
 title = "TinkerHub Learning Paths"
 theme = "tinkerhub"
 [Params]
   commentsRepo="tinkerhub/TinkerHub-Learning-Paths-Comments"
 [taxonomies]
   category = "category"
-disableKinds = ["tags"]
+  tag = "tags"
 enableEmoji = true
 pygmentsUseClasses = true
 #googleAnalytics = ""
