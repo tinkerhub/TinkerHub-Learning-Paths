@@ -8,9 +8,13 @@ media_folder: static/images
 public_folder: /images
 collections:
   - name: 'learningpath'
-    label: 'Learning Path'
+    label: 'Learning Paths'
+    label_singular: 'Learning Path'
+    description:  'TinkerHub Learning Paths'
     folder: 'content'
+    filter: {field: "sub", value: false}
     create: true
+    delete: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
@@ -19,6 +23,8 @@ collections:
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Tags", name: "tags", widget: "list", allow_add: true }
       - { label: "Authors", name: "authors", widget: "list", allow_add: true }
+      - { label: "sub", name: "sub", widget: "hidden", default: false }
+      - { label: "draft", name: "draft", widget: "hidden", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
