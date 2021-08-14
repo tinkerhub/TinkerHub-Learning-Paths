@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: gautamkrishnar/TinkerHub-Learning-Paths
+  auth_scope: repo
+  open_authoring: true
+media_folder: static/images
+public_folder: /images
+collections:
+  - name: 'learningpath'
+    label: 'Learning Path'
+    folder: 'content/paths'
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Category", name: "category", widget: "select", options: [
+          "language","framework", "devops", "ai-ml", "other"] }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Tags", name: "tags", widget: "list", allow_add: true }
+      - { label: "Authors", name: "authors", widget: "list", allow_add: true }
+      - {label: "Body", name: "body", widget: "markdown"}
