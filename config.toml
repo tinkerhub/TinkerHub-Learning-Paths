@@ -1,6 +1,8 @@
 baseURL = "https://tinkerhub.org/learn/"
 title = "TinkerHub Learning Paths"
 theme = "tinkerhub"
+[Params]
+  commentsRepo="tinkerhub/TinkerHub-Learning-Paths-Comments"
 [taxonomies]
   category = "category"
 disableKinds = ["tags"]
