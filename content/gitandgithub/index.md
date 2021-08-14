@@ -2,7 +2,7 @@
 title: Git and GitHub
 date: 2021-08-04T05:20:58+05:30
 draft: false
-image: images/git/Git and GitHub.png
+image: images_old/git/Git and GitHub.png
 sub: false
 category: "other"
 tags: ["git", "github", "open source"]

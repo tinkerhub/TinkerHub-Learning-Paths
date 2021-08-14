@@ -2,7 +2,7 @@
 title: Java
 
 draft: false
-image: images/java/java.jpg
+image: images_old/java/java.jpg
 sub: false
 category: "language"
 tags: ["python", "java", "backend"]

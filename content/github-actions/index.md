@@ -2,7 +2,7 @@
 title: Github Actions
 date: 2021-08-06T05:17:58+05:30
 draft: false
-image: images/actions/ACTIONS.jpg
+image: images_old/actions/ACTIONS.jpg
 sub: false
 category: "devops"
 tags: ["github", "actions", "automate"]

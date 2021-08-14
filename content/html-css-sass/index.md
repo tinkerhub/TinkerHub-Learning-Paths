@@ -2,7 +2,7 @@
 title: HTML, CSS, SASS
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: images/html-css-sass/html-css-sass.jpg
+image: images_old/html-css-sass/html-css-sass.jpg
 sub: false
 category: "language"
 tags: ["web", "frontend", "html", "css", "javascript"]

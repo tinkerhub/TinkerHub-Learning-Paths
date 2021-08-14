@@ -2,7 +2,7 @@
 title: React Native
 date: 2021-08-05T05:16:58+05:30
 draft: false
-image: images/react-native/react-native.jpg
+image: images_old/react-native/react-native.jpg
 sub: false
 category: "framework"
 tags: ["mobile", "javascript"]

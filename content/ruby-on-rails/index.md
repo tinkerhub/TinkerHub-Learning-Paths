@@ -2,7 +2,7 @@
 title: Ruby on Rails
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: images/ruby-on-rails/ruby-on-rails.jpg
+image: images_old/ruby-on-rails/ruby-on-rails.jpg
 sub: false
 category: "language"
 tags: ["python", "ruby"]

@@ -2,7 +2,7 @@
 title: Kubernetes
 date: 2021-08-06T05:16:58+05:30
 draft: false
-image: images/kubernetes/kubernetes.jpg
+image: images_old/kubernetes/kubernetes.jpg
 sub: false
 category: "devops"
 tags: ["devops", "kubernetes"]

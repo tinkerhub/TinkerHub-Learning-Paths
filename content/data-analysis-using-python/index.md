@@ -2,7 +2,7 @@
 title: Data Analysis 📈 using Python 🐍
 date: 2021-04-12T13:35:55+05:30
 draft: false
-image: images/data-analysis/python.jpeg
+image: images_old/data-analysis/python.jpeg
 sub: false
 category: "other"
 tags: ["python", "data", "analysis"]
@@ -124,7 +124,7 @@ Let's check out what you're gonna learn throughout this path 🧘‍♀️🧘�
 
 # 1. Let's start with numpy #️⃣
 
-<img alt="numpy" src="https://numpy.org/images/logos/numpy.svg" width=100>
+<img alt="numpy" src="https://numpy.org/images_old/logos/numpy.svg" width=100>
 
 So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
 

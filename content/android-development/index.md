@@ -2,7 +2,7 @@
 title: Android Development(Kotlin)
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: images/android_development/androiddevelopment.png
+image: images_old/android_development/androiddevelopment.png
 sub: false
 category: "framework"
 tags: ["frontend", "backend"]

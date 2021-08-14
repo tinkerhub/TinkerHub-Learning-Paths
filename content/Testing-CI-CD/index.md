@@ -2,7 +2,7 @@
 title: Testing, CI/CD
 date: 2021-08-05T05:16:58+05:30
 draft: false
-image: images/Testing-CI-CD/testing-ci-cd.jpg
+image: images_old/Testing-CI-CD/testing-ci-cd.jpg
 sub: false
 category: "devops"
 tags: ["devops", "version-control"]

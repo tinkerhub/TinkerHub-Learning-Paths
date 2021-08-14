@@ -2,7 +2,7 @@
 title: Deep Learning
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: images/deep-learning/deep-learning.jpg
+image: images_old/deep-learning/deep-learning.jpg
 sub: false
 category: "ai-ml"
 tags: ["deep", "learning", "machine-learning", "ai"]

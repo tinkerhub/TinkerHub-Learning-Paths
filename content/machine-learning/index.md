@@ -3,7 +3,7 @@ title: Machine Learning
 date: 2021-04-12T05:26:57+05:30
 draft: false
 featured: false
-image: images/machine-learning/ml.jpg
+image: images_old/machine-learning/ml.jpg
 category: "intermediate"
 category: "ai-ml"
 tags: ["machine-learning", "ai"]

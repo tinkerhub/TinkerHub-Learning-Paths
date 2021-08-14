@@ -2,7 +2,7 @@
 title: Flask
 date: 2021-08-05T05:16:58+05:30
 draft: false
-image: images/flask/flask.jpg
+image: images_old/flask/flask.jpg
 sub: false
 category: "framework"
 tags: ["python", "web", "flask", "backend"]

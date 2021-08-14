@@ -2,7 +2,7 @@
 title: Typescript
 date: 2021-08-05T05:16:58+05:30
 draft: false
-image: images/typescript/typescript.jpg
+image: images_old/typescript/typescript.jpg
 sub: false
 category: "language"
 tags: ["frontend", "javascript", "typescript"]

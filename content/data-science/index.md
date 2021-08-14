@@ -2,7 +2,7 @@
 title: Data Science
 date: 2021-08-06T13:35:55+05:30
 draft: false
-image: images/data-science/DATASCIENCE.jpg
+image: images_old/data-science/DATASCIENCE.jpg
 sub: false
 category: "other"
 tags: ["data", "science", "datascience"]

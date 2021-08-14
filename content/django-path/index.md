@@ -2,7 +2,7 @@
 title: Django
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: images/django/Django-logo.png
+image: images_old/django/Django-logo.png
 sub: false
 category: "framework"
 tags: ["python", "backend"]

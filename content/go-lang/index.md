@@ -2,7 +2,7 @@
 title: Go Lang
 date: 2021-08-04T05:12:58+05:30
 draft: false
-image: images/go-lang/golang.jpg
+image: images_old/go-lang/golang.jpg
 sub: false
 category: "language"
 tags: ["go"]

@@ -2,7 +2,7 @@
 title: Express.js
 date: 2021-08-04T05:16:58+05:30
 draft: false
-image: images/express/ExpressJS.jpg.png
+image: images_old/express/ExpressJS.jpg.png
 sub: false
 category: "framework"
 tags: ["backend", "javascript","node js"]

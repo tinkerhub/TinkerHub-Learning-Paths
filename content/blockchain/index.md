@@ -2,7 +2,7 @@
 title: Blockchain
 date: 2021-08-06T13:35:55+05:30
 draft: false
-image: images/blockchain/blockchain.svg
+image: images_old/blockchain/blockchain.svg
 sub: false
 category: "other"
 tags: ["block", "chain", "blockchain"]

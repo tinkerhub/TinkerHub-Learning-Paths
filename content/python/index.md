@@ -2,7 +2,7 @@
 title: Python
 date: 2021-08-05T05:12:58+05:30
 draft: false
-image: images/python/python.png
+image: images_old/python/python.png
 sub: false
 category: "language"
 tags: ["programming", "python"]

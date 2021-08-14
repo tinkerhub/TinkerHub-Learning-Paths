@@ -2,7 +2,7 @@
 title: Game Development
 date: 2021-04-12T05:12:04+05:30
 draft: false
-image: images/game-development/unity-tumbnail.jpg
+image: images_old/game-development/unity-tumbnail.jpg
 sub: false
 category: "framework"
 tags: ["game", "unity"]

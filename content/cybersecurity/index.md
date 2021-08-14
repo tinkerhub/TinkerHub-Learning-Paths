@@ -2,7 +2,7 @@
 title: CyberSecurity
 date: 2021-08-06T13:35:55+05:30
 draft: false
-image: images/cyber/CyberSecurity.jpg
+image: images_old/cyber/CyberSecurity.jpg
 sub: false
 category: "other"
 tags: ["cyber", "security", "cybersecurity"]
