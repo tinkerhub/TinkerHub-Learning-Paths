@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: gautamkrishnar/TinkerHub-Learning-Paths
+  branch: main
   open_authoring: true
 publish_mode: editorial_workflow
 media_folder: static/images
