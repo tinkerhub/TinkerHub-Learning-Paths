@@ -9,7 +9,7 @@ public_folder: /images
 collections:
   - name: 'learningpath'
     label: 'Learning Path'
-    folder: 'content/paths'
+    folder: 'content'
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
