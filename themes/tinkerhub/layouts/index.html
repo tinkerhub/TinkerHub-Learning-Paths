@@ -15,7 +15,7 @@
         <div class="section">
           <h2>Languages</h2>
           <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.type "language")}}
+            {{ range .Pages }} {{ if and (eq .Params.category "language")}}
             <a href="{{ .Permalink }}">
               <div
                 class="image"
@@ -32,7 +32,7 @@
         <div class="section">
           <h2>Frameworks and Libraries</h2>
           <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.type "framework")}}
+            {{ range .Pages }} {{ if and (eq .Params.category "framework")}}
             <a href="{{ .Permalink }}">
               <div
                 class="image"
@@ -49,7 +49,7 @@
         <div class="section">
           <h2>AI ML</h2>
           <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.type "ai-ml")}}
+            {{ range .Pages }} {{ if and (eq .Params.category "ai-ml")}}
             <a href="{{ .Permalink }}">
               <div
                 class="image"
@@ -66,7 +66,7 @@
         <div class="section">
           <h2>DevOps</h2>
           <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.type "devops")}}
+            {{ range .Pages }} {{ if and (eq .Params.category "devops")}}
             <a href="{{ .Permalink }}">
               <div
                 class="image"
@@ -83,7 +83,7 @@
         <div class="section">
           <h2>Others</h2>
           <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.type "other")}}
+            {{ range .Pages }} {{ if and (eq .Params.category "other")}}
             <a href="{{ .Permalink }}">
               <div
                 class="image"

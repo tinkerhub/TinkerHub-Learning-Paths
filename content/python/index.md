@@ -4,8 +4,7 @@ date: 2021-04-12T05:33:38+05:30
 draft: false
 featured: true
 image: images/learning-path-name/image.png
-type: ""
-keywords: ["python"]
+category: "language"
 tags: ["python"]
 authors: ["donamath"]
 ---

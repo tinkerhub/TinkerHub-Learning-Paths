@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/django/Django-logo.png
 sub: false
-type: "framework"
-keywords: ["python", "backend"]
+category: "framework"
 tags: ["python", "backend"]
 authors: ["gladson-lalu"]
 ---

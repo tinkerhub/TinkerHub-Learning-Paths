@@ -10,7 +10,6 @@ featured: true
 image: images/learning-path-name/image.png
 # Specifies weather the path is a sub path
 sub: false
-keywords: ["keyword1", "keyword2"]
 tags: ["tag1", "tag2"]
 authors: ["author1","author2"]
 ---

@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/android_development/androiddevelopment.png
 sub: false
-type: "framework"
-keywords: ["frontend","kotlin","mobile apps","app development"]
+category: "framework"
 tags: ["frontend", "backend"]
 authors: ["aleena-james"]
 ---

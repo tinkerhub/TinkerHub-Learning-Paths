@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/deep-learning/deep-learning.jpg
 sub: false
-type: "ai-ml"
-keywords: ["deep", "learning", "machine", "learning"]
+category: "ai-ml"
 tags: ["deep", "learning", "machine-learning", "ai"]
 authors: ["abhinavk001"]
 ---

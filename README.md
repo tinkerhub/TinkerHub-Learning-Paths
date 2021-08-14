@@ -80,11 +80,9 @@ hugo new path-name/subpath2.md
 | ---------- | ------- | --------------------------------------------------------------------------------------------------- | --------------------------- |
 | `title`    | String  | Title of the path/subpath                                                                           | `How to learn java`         |
 | `date`     | Date    | Date which the path is created                                                                      | `2021-04-12T13:35:55+05:30` |
-| `type`     | String | Set the type of path to <ul><li>`language`</li><li>`framework`</li><li>`devops`</li><li>`ai-ml`</li><li>`other`</li></ul> | `language` |
-| `image`    | String  | Image path, 1024\*512px resolution preferred. Images should be uploaded to static/images/path-name | `images/java/image.png`     |
-| `sub`      | Boolean | Specifies if a learning path is path or subpath                                                     | `false`                     |
-| `keywords` | Array   | Search terms for the learning path, used by the search bar to do fuzzy search                       | `["python", "backend"]`     |
-| `tags`     | Array   | Used to generate tag pages                                                                          | `["python", "backend"]`     |
+| `category` | String  | Set the category of the path to <ul><li>`language`</li><li>`framework`</li><li>`devops`</li><li>`ai-ml`</li><li>`other`</li></ul> | `language` |
+| `image`    | String  | Image path, 1024\*512px resolution preferred. Images should be uploaded to static/images/path-name  | `images/java/image.png`     |
+| `tags`     | Array   | Search terms for the learning path, used by the search bar to do fuzzy search                       | `["python", "backend"]`     |
 | `authors`  | Array   | github usernames of authors                                                                         | `["author1", "author2"]`    |
 
 ### License

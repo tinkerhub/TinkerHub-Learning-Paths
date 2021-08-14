@@ -4,8 +4,7 @@ date: 2021-08-04T05:26:58+05:30
 draft: false
 image: images/iot/TLF_IoT_Cover.png
 sub: false
-type: "other"
-keywords: ["iot", "arduino", "electronics"]
+category: "other"
 tags: ["iot", "arduino", "electronics"]
 authors: ["JobinBiju"]
 ---

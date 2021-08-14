@@ -4,8 +4,7 @@ date: 2021-04-12T02:32:34+05:30
 draft: false
 image: images/flutter/flutter.jpg
 sub: true
-type: "language"
-keywords: ["dart", "android", "ios", "flutter", "mobile"]
+category: "language"
 tags: ["dart", "android", "ios", "flutter", "mobile"]
 authors: ["evolvingkid"]
 ---

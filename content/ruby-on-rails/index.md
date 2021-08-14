@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/ruby-on-rails/ruby-on-rails.jpg
 sub: false
-type: "language"
-keywords: ["python", "ruby"]
+category: "language"
 tags: ["python", "ruby"]
 authors: ["joepaul13"]
 ---

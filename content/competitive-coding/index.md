@@ -4,8 +4,7 @@ date: 2021-08-06T13:35:55+05:30
 draft: false
 image: images/competitive-coding/competitive-coding.jpg
 sub: false
-type: "other"
-keywords: ["coding", "competitive"]
+category: "other"
 tags: ["coding", "competitive"]
 ---
 

@@ -4,8 +4,7 @@ date: 2021-04-12T05:12:04+05:30
 draft: false
 image: images/game-development/unity-tumbnail.jpg
 sub: false
-type: "framework"
-keywords: ["game", "unity"]
+category: "framework"
 tags: ["game", "unity"]
 authors: ["kamaljohnson"]
 ---

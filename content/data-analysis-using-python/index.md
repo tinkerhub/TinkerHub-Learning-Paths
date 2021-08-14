@@ -4,8 +4,7 @@ date: 2021-04-12T13:35:55+05:30
 draft: false
 image: images/data-analysis/python.jpeg
 sub: false
-type: "other"
-keywords: ["python", "data", "analysis"]
+category: "other"
 tags: ["python", "data", "analysis"]
 authors: ["shaji-stark"]
 ----

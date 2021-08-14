@@ -4,9 +4,8 @@ date: 2021-04-12T05:26:57+05:30
 draft: false
 featured: false
 image: images/machine-learning/ml.jpg
-type: "intermediate"
-type: "ai-ml"
-keywords: ["machine", "learning"]
+category: "intermediate"
+category: "ai-ml"
 tags: ["machine-learning", "ai"]
 authors: ["GopikrishnanSasikumar"]
 ---

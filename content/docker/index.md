@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/docker/Docker.jpg
 sub: false
-type: "devops"
-keywords: ["devops", "docker"]
+category: "devops"
 tags: ["devops", "docker"]
 authors: ["abhinav-TB"]
 ---

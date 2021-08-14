@@ -4,8 +4,7 @@ date: 2021-05-09T02:28:28+05:30
 draft: false
 image: images/data-engineering/data-engineering.jpg
 sub: false
-type: "other"
-keywords: ["data", "engineering"]
+category: "other"
 tags: ["data", "engineering"]
 authors: ["Anoop-Viswan"]
 ---

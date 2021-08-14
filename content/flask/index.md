@@ -4,8 +4,7 @@ date: 2021-04-12T02:16:57+05:30
 draft: false
 image: images/flask/flask.jpg
 sub: false
-type: ""
-keywords: ["python", "web", "flask", "backend"]
+category: "framework"
 tags: ["python", "web", "flask", "backend"]
 authors: ["GopikrishnanSasikumar"]
 ---

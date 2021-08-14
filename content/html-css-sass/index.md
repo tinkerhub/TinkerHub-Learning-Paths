@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/html-css-sass/html-css-sass.jpg
 sub: false
-type: "language"
-keywords: ["web", "frontend", "html", "css", "javascript"]
+category: "language"
 tags: ["web", "frontend", "html", "css", "javascript"]
 authors: ["Haripriya17"]
 ---

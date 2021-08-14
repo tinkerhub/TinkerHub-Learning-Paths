@@ -4,8 +4,7 @@ date: 2021-04-12T05:16:58+05:30
 draft: false
 image: images/hacking/hacker.jpg
 sub: false
-type: "other"
-keywords: ["hacking", "bounty"]
+category: "other"
 tags: ["hacking", "bounty"]
 authors: ["fasalmbt"]
 ---

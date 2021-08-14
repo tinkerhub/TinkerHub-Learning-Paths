@@ -4,8 +4,7 @@ title: Java
 draft: false
 image: images/java/java.jpg
 sub: false
-type: "language"
-keywords: ["python", "java", "backend"]
+category: "language"
 tags: ["python", "java", "backend"]
 authors: ["jeethu28"]
 ---

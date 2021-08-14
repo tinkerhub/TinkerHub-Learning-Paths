@@ -4,8 +4,7 @@ date: 2021-08-06T05:17:58+05:30
 draft: false
 image: images/actions/ACTIONS.jpg
 sub: false
-type: "devops"
-keywords: ["github", "actions", "automate"]
+category: "devops"
 tags: ["github", "actions", "automate"]
 authors: [""]
 ---

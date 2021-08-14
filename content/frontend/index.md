@@ -4,8 +4,7 @@ date: 2021-04-12T05:01:37+05:30
 draft: false
 image: images/frontend/fe.png
 sub: false
-type: "framework"
-keywords: ["web", "frontend", "html", "css", "javascipt"]
+category: "framework"
 tags: ["web", "frontend", "html", "css", "javascipt"]
 authors: ["akhilmhdh"]
 ---

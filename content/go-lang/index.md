@@ -4,8 +4,7 @@ date: 2021-08-04T05:12:58+05:30
 draft: false
 image: images/go-lang/golang.jpg
 sub: false
-type: "language"
-keywords: ["go"]
+category: "language"
 tags: ["go"]
 authors: ["AkshayPradeep6152"]
 ---

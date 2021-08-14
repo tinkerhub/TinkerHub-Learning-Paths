@@ -4,8 +4,7 @@ date: 2021-08-05T05:16:58+05:30
 draft: false
 image: images/flask-new/flask.jpg
 sub: false
-type: "framework"
-keywords: ["python", "web", "flask", "backend"]
+category: "framework"
 tags: ["python", "web", "flask", "backend"]
 authors: ["Christima-Mary-S"]
 ---

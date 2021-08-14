@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/express/ExpressJS.jpg.png
 sub: false
-type: "framework"
-keywords: ["backend", "javascript","express.js"]
+category: "framework"
 tags: ["backend", "javascript","node js"]
 authors: ["JeffinGBenny"]
 ---

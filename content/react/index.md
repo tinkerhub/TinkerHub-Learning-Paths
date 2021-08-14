@@ -4,8 +4,7 @@ date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/react/react.jpg
 sub: false
-type: "framework"
-keywords: ["frontend", "javascript"]
+category: "framework"
 tags: ["frontend", "javascript"]
 authors: ["Dexters-Hub"]
 ---

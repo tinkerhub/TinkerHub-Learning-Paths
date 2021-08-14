@@ -4,8 +4,7 @@ date: 2021-08-05T05:16:58+05:30
 draft: false
 image: images/javascript/javascript.jpg
 sub: false
-type: "language"
-keywords: ["frontend", "backend", "javascript"]
+category: "language"
 tags: ["frontend", "backend", "javascript"]
 authors: ["nikiljos"]
 ---

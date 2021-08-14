@@ -4,8 +4,7 @@ date: 2021-08-05T05:16:58+05:30
 draft: false
 image: images/typescript/typescript.jpg
 sub: false
-type: "language"
-keywords: ["frontend", "javascript", "typescript"]
+category: "language"
 tags: ["frontend", "javascript", "typescript"]
 authors: ["anusham14"]
 ---

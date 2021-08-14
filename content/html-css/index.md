@@ -3,9 +3,8 @@ title: How to learn HTML & CSS 🔮
 date: 2021-04-12T05:21:42+05:30
 draft: false
 # image: images/learning-path-name/image.png
-type: ""
+category: ""
 sub: false
-keywords: ["web", "frontend", "html", "css"]
 tags: ["web", "frontend", "html", "css"]
 authors: ["aka8921"]
 ---

@@ -4,8 +4,7 @@ date: 2021-08-06T13:35:55+05:30
 draft: false
 image: images/cyber/CyberSecurity.jpg
 sub: false
-type: "other"
-keywords: ["cyber", "security", "cybersecurity"]
+category: "other"
 tags: ["cyber", "security", "cybersecurity"]
 ---
 

@@ -2,7 +2,8 @@ baseURL = "https://tinkerhub.org/learn/"
 title = "TinkerHub Learning Paths"
 theme = "tinkerhub"
 [taxonomies]
-  type = "types"
+  category = "category"
+disableKinds = ["tags"]
 enableEmoji = true
 pygmentsUseClasses = true
 #googleAnalytics = ""
