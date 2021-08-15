@@ -7,11 +7,11 @@ tags:
   - data
   - science
   - datascience
+authors:
+  - itsniranjan
 mainpage: false
 draft: false
 ---
-# Data Science
-
 In a nutshell, it is ‘data-driven’ science which includes analyzing the data and drawing insights out of it in order to make a process of decision making simpler. A data scientist will have to examine data from all angles, reshape it according to the need, remove unwanted data from the mixed pool that we get, just like a sculptor carves out a beautiful idol from a piece of wood. Moreover, adding machine learning models into it empowers it to another level. So, using ML models become a crucial part of driving useful insights out of raw data.
 
 ## What a data scientist does
@@ -88,5 +88,3 @@ Youtube - [Statquest](https://www.youtube.com/user/joshstarmer) is an amazing ch
 <https://towardsdatascience.com/>
 <https://medium.com/kaggle-blog>
 <https://ryanswanstrom.com/datascience101/>
-
-## Curated by [Niranjan Neelakantan](https://github.com/itsniranjan) , TLF Python facilitator
