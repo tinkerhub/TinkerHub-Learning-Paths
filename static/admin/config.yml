@@ -2,6 +2,7 @@ backend:
   name: github
   repo: tinkerhub/TinkerHub-Learning-Paths
   branch: main
+  squash_merges: true
   open_authoring: true
 publish_mode: editorial_workflow
 media_folder: static/images
