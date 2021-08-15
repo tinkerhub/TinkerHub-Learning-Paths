@@ -15,7 +15,7 @@ collections:
     label_singular: 'Learning Path'
     description: 'Create or update TinkerHub Learning Paths'
     folder: 'content'
-    filter: { field: "sub", value: false }
+    filter: { field: "mainpage", value: false }
     create: true
     delete: false
     fields:
