@@ -3,7 +3,7 @@ title: Frontend Web Development 🔮
 date: 2021-04-12T05:01:37+05:30
 draft: false
 image: images/fe.png
-sub: false
+mainpage: false
 category: "framework"
 tags: ["web", "frontend", "html", "css", "javascipt"]
 authors: ["akhilmhdh"]

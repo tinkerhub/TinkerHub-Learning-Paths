@@ -3,7 +3,7 @@ title: Django
 date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/Django-logo.png
-sub: false
+mainpage: false
 category: "framework"
 tags: ["python", "backend"]
 authors: ["gladson-lalu"]

@@ -3,7 +3,7 @@ title: Android Development(Kotlin)
 date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/androiddevelopment.png
-sub: false
+mainpage: false
 category: "framework"
 tags: ["frontend", "backend"]
 authors: ["aleena-james"]

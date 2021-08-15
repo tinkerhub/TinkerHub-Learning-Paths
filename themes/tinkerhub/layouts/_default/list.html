@@ -12,20 +12,7 @@
                 <div>
                     {{ if .Data.Term }}
                     {{ range .Pages }}
-                    {{ if eq .Params.sub false }}
-                    <div class="item">
-                        <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
-                        <span class="tags">
-                            {{ range .Params.tags }}
-                            <a href="{{ $baseUrl }}tags/{{ . }}">{{ . }}</a>
-                            {{ end }}
-                        </span>
-                    </div>
-                    {{ end }}
-                    {{ end }}
-                    {{ else }}
-                    {{ range .Pages }}
-                    {{ if eq .Params.sub true }}
+                    {{ if eq .Params.mainpage false }}
                     <div class="item">
                         <a href="{{ .Permalink }}" class="name">{{ .Title }}</a>
                         <span class="tags">

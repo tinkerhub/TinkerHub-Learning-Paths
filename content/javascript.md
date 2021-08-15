@@ -3,7 +3,7 @@ title: JavaScript
 date: 2021-08-05T05:16:58+05:30
 draft: false
 image: images/javascript.jpg
-sub: false
+mainpage: false
 category: "language"
 tags: ["frontend", "backend", "javascript"]
 authors: ["nikiljos"]

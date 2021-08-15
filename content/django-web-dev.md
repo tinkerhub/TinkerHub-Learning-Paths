@@ -3,7 +3,7 @@ title: Django for Web Development🐍
 date: 2021-04-12T02:09:49+05:30
 draft: false
 image: images/Django-logo.png
-sub: false
+mainpage: false
 category: "framework"
 tags: ["python", "django", "backend"]
 authors: ["irenekurien"]

@@ -3,7 +3,7 @@ title: Kubernetes
 date: 2021-08-06T05:16:58+05:30
 draft: false
 image: images/kubernetes.jpg
-sub: false
+mainpage: false
 category: "devops"
 tags: ["devops", "kubernetes"]
 authors: ["anandukch"]

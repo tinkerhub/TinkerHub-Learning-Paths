@@ -3,7 +3,7 @@ title: Ruby on Rails
 date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/ruby-on-rails.jpg
-sub: false
+mainpage: false
 category: "language"
 tags: ["python", "ruby"]
 authors: ["joepaul13"]

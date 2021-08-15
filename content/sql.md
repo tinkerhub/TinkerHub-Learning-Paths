@@ -3,7 +3,7 @@ title: SQL
 date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/SQL.jpg
-sub: false
+mainpage: false
 category: "language"
 tags: ["sql"]
 authors: ["Anju-Gopan"]

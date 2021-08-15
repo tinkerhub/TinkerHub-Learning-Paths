@@ -3,7 +3,7 @@ title: Docker
 date: 2021-08-04T05:16:58+05:30
 draft: false
 image: images/Docker.jpg
-sub: false
+mainpage: false
 category: "devops"
 tags: ["devops", "docker"]
 authors: ["abhinav-TB"]

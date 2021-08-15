@@ -3,7 +3,7 @@ title: Hacking and Bug Bounty
 date: 2021-04-12T05:16:58+05:30
 draft: false
 image: images/hacker.jpg
-sub: false
+mainpage: false
 category: "other"
 tags: ["hacking", "bounty"]
 authors: ["fasalmbt"]

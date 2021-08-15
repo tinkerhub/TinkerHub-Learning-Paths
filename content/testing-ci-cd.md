@@ -3,7 +3,7 @@ title: Testing, CI/CD
 date: 2021-08-05T05:16:58+05:30
 draft: false
 image: images/testing-ci-cd.jpg
-sub: false
+mainpage: false
 category: "devops"
 tags: ["devops", "version-control"]
 authors: ["donamath"]

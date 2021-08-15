@@ -3,7 +3,7 @@ title: Git and GitHub
 date: 2021-08-04T05:20:58+05:30
 draft: false
 image: images/gitandgithub.png
-sub: false
+mainpage: false
 category: "other"
 tags: ["git", "github", "open source"]
 authors: ["joyalfrancis23"]

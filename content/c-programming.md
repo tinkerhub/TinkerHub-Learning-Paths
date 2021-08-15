@@ -3,7 +3,7 @@ title: C programming
 date: 2021-08-06T13:35:55+05:30
 draft: false
 image: images/C.jpg
-sub: false
+mainpage: false
 category: "language"
 tags: ["c", "programming"]
 ---

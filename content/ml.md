@@ -6,6 +6,7 @@ featured: false
 image: images/ml.jpg
 category: "intermediate"
 category: "ai-ml"
+mainpage: false
 tags: ["machine-learning", "ai"]
 authors: ["GopikrishnanSasikumar"]
 ---

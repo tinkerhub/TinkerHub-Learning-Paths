@@ -43,48 +43,17 @@ You can see that hugo generated a new file named path-name/index.md under the [c
 - Run `hugo server` to preview your changes on the browser
 - If you are good with your changes, open a pull request to this repository
 
-#### Creating a new sub learning path
-
-Some paths may contain subpaths, you can visit [tinkerhub.org/learn/flutter](https://tinkerhub.org/learn/flutter) for an example. Follow the steps below to create it.
-
-- Run the command below to create a path
-
-```bash
- hugo new path-name/_index.md
-```
-
-- Remove the entire contents of the file after the following lines:
-
-```yaml
----
-...metadata
----
-```
-
-- Modify the metadata for your path
-- Create subpaths using the following commands
-
-```shell
-hugo new path-name/subpath1.md
-hugo new path-name/subpath2.md
-```
-
-- Modify metadata of path-name/subpath1.md and path-name/subpath2.md and change `sub` key to true
-- Update the generated files with instructions
-- Run `hugo server` to preview your changes on the browser
-- If you are good with your changes, open a pull request to this repository
-
-#### About path/subpath metadata
+#### About path metadata
 
 | Name       | Type    | Description                                                                                         | Example                     |
 | ---------- | ------- | --------------------------------------------------------------------------------------------------- | --------------------------- |
-| `title`    | String  | Title of the path/subpath                                                                           | `How to learn java`         |
+| `title`    | String  | Title of the path                                                                           | `How to learn java`         |
 | `date`     | Date    | Date which the path is created                                                                      | `2021-04-12T13:35:55+05:30` |
 | `category` | String  | Set the category of the path to <ul><li>`language`</li><li>`framework`</li><li>`devops`</li><li>`ai-ml`</li><li>`other`</li></ul> | `language` |
-| `image`    | String  | Image path, 1024\*512px resolution preferred. Images should be uploaded to static/images/path-name  | `images/java/image.png`     |
+| `image`    | String  | Image path. Images should be uploaded to static/images/path-name  | `images/java/image.png`     |
 | `tags`     | Array   | Search terms for the learning path, used by the search bar to do fuzzy search                       | `["python", "backend"]`     |
-| `authors`  | Array   | github usernames of authors                                                                         | `["author1", "author2"]`    |
-
+| `authors`  | Array   | GitHub usernames of authors                                                                         | `["author1", "author2"]`    |
+| `mainpage` | boolean | Marks a page as main page eg:index                                                            | `false` |
 ### License
 
 This project is licensed under [MIT License](LICENSE)

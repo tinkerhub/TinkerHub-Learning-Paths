@@ -3,7 +3,7 @@ title: Python
 date: 2021-08-05T05:12:58+05:30
 draft: false
 image: images/python.png
-sub: false
+mainpage: false
 category: "language"
 tags: ["programming", "python"]
 authors: ["swethashaja", "donamath"]

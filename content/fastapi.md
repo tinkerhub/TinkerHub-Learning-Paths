@@ -3,7 +3,7 @@ title: FastAPI
 date: 2021-08-04T05:16:59+05:30
 draft: false
 image: images/fastapi.png
-sub: false
+mainpage: false
 category: "framework"
 tags: ["web","python","api"]
 authors: ["thomasajai001"]

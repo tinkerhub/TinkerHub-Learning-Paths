@@ -1,15 +1,15 @@
 ---
 title: How to learn 
 date: {{ .Date }}
-draft: true
-featured: true
+draft: false
+# Chose a category from any of the following
+category: language/framework/devops/ai-ml/other
 # Remove the comments after reading
-# add image to /static folder eg: static/images/learning-pathname/image.png
-# 1024*512px resolution preferred
+# add image to /static folder eg: static/images/learning-pathname.png
 # note: Don't prefix with /static/
-image: images/learning-path-name/image.png
-# Specifies weather the path is a sub path
-sub: false
+image: images/learning-path-name.png
+# Specifies weather the file is a page (false for learning paths)
+mainpage: false
 tags: ["tag1", "tag2"]
 authors: ["author1","author2"]
 ---
