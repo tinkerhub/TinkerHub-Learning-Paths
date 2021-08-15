@@ -1,12 +1,15 @@
 ---
 title: Hacking and Bug Bounty
 date: 2021-04-12T05:16:58+05:30
-draft: false
+category: other
 image: images/hacker.jpg
+tags:
+  - hacking
+  - bounty
+authors:
+  - fasalmbt
 mainpage: false
-category: "other"
-tags: ["hacking", "bounty"]
-authors: ["fasalmbt"]
+draft: false
 ---
 Hacking is the activity of identifying weaknesses in a computer system or a network to exploit the security to gain access to personal data or business data. An example of computer hacking can be: using a password cracking algorithm to gain access to a computer system.
 
@@ -47,50 +50,50 @@ You will learn a lot in this process about security related concepts.
 
 ## Read Books. 📖
 
-- [Web application hackers handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
-- [Web hacking 101](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
-- [Mastering modern web pen testing](https://www.amazon.in/Mastering-Modern-Web-Penetration-Testing/dp/1785284584)
-- [Bug Bounty Playbook](https://payhip.com/b/wAoh)
-- [Real World Bug Hunting](https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
-- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+* [Web application hackers handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+* [Web hacking 101](https://www.hackerone.com/blog/Hack-Learn-Earn-with-a-Free-E-Book)
+* [Mastering modern web pen testing](https://www.amazon.in/Mastering-Modern-Web-Penetration-Testing/dp/1785284584)
+* [Bug Bounty Playbook](https://payhip.com/b/wAoh)
+* [Real World Bug Hunting](https://www.amazon.in/Real-World-Bug-Hunting-Field-Hacking-ebook/dp/B072SQZ2LG)
+* [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 
 ## Watch youtube channels related to this field.
 
-- [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos)
-- [Bug Crowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
-- [Open Security Training](https://www.youtube.com/user/OpenSecurityTraining)
-- [Hackerone](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
-- [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
-- [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
-- [Cybermentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+* [Live Overflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/videos)
+* [Bug Crowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
+* [Open Security Training](https://www.youtube.com/user/OpenSecurityTraining)
+* [Hackerone](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
+* [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+* [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+* [Cybermentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+* [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
 ## CTF platforms.
 
-- [Hackthebox](https://www.hackthebox.eu/)
-- [Tryhackme](https://tryhackme.com/)
-- [Portswigger academy](https://portswigger.net/web-security)
-- [Vulnhub](https://www.vulnhub.com/)
+* [Hackthebox](https://www.hackthebox.eu/)
+* [Tryhackme](https://tryhackme.com/)
+* [Portswigger academy](https://portswigger.net/web-security)
+* [Vulnhub](https://www.vulnhub.com/)
 
 ## Tools needed 🛠️
 
-- [Burpsuite](https://portswigger.net/burp)
-- [nmap](https://nmap.org/)
-- dirbuster/gobuster
-- [sublist3r](https://github.com/aboul3la/Sublist3r)
-- Netcat
-- [OWASP ZAP](https://owasp.org/www-project-zap/)
-- [Sqlmap](https://github.com/sqlmapproject/sqlmap)
+* [Burpsuite](https://portswigger.net/burp)
+* [nmap](https://nmap.org/)
+* dirbuster/gobuster
+* [sublist3r](https://github.com/aboul3la/Sublist3r)
+* Netcat
+* [OWASP ZAP](https://owasp.org/www-project-zap/)
+* [Sqlmap](https://github.com/sqlmapproject/sqlmap)
 
 ## Bug bounty platforms
 
-- [Hackerone](https://www.hackerone.com/)
-- [Bugcrowd](https://www.bugcrowd.com/)
-- [hackenproof](https://hackenproof.com/)
-- [Bugbountyjp](https://bugbounty.jp/)
-- [Intigriti](https://www.intigriti.com/)
-- [Yogosha](https://yogosha.com/)
+* [Hackerone](https://www.hackerone.com/)
+* [Bugcrowd](https://www.bugcrowd.com/)
+* [hackenproof](https://hackenproof.com/)
+* [Bugbountyjp](https://bugbounty.jp/)
+* [Intigriti](https://www.intigriti.com/)
+* [Yogosha](https://yogosha.com/)
 
 ## Final notes 📝
 
