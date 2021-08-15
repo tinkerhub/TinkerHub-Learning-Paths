@@ -1,12 +1,16 @@
 ---
 title: JavaScript
-date: 2021-08-05T05:16:58+05:30
-draft: false
+date: 2021-08-15T22:03:30.856Z
+category: language
 image: images/javascript.jpg
+tags:
+  - frontend
+  - backend
+  - javascript
+authors:
+  - nikiljos
 mainpage: false
-category: "language"
-tags: ["frontend", "backend", "javascript"]
-authors: ["nikiljos"]
+draft: false
 ---
 
 - JavaScript is the world's 🌎 most popular programming language
