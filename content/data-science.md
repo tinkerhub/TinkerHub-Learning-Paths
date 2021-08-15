@@ -1,13 +1,15 @@
 ---
 title: Data Science
 date: 2021-08-06T13:35:55+05:30
-draft: false
+category: other
 image: images/DATASCIENCE.jpg
+tags:
+  - data
+  - science
+  - datascience
 mainpage: false
-category: "other"
-tags: ["data", "science", "datascience"]
+draft: false
 ---
-
 # Data Science
 
 In a nutshell, it is ‘data-driven’ science which includes analyzing the data and drawing insights out of it in order to make a process of decision making simpler. A data scientist will have to examine data from all angles, reshape it according to the need, remove unwanted data from the mixed pool that we get, just like a sculptor carves out a beautiful idol from a piece of wood. Moreover, adding machine learning models into it empowers it to another level. So, using ML models become a crucial part of driving useful insights out of raw data.
@@ -18,19 +20,19 @@ A data scientist collects, analyzes, and interprets large volumes of data, in ma
 
 ## PREREQUISITES
 
-- Basic programming knowledge(preferrable python)
-- Basic mathematical knowledge, knowledge in statistics preferred.
-- Notebook environment - Google Colab/ Notebook. In later stages you will need an IDE - VS Code/ PyCharm , Anaconda distribution preferred
-- A thrift to come up with as well as solve real life problems will aid you a lot in this field.
+* Basic programming knowledge(preferrable python)
+* Basic mathematical knowledge, knowledge in statistics preferred.
+* Notebook environment - Google Colab/ Notebook. In later stages you will need an IDE - VS Code/ PyCharm , Anaconda distribution preferred
+* A thrift to come up with as well as solve real life problems will aid you a lot in this field.
 
 ## KEY RESOURCES
 
 [Kaggle](https://www.kaggle.com/) is the best resource . It is the one stop shop for data science aspirants.
 
-- Tutorials
-- Solved problems and proper documentations
-- Free datasets
-- Competitions
+* Tutorials
+* Solved problems and proper documentations
+* Free datasets
+* Competitions
   [Dataquest.io](https://www.dataquest.io/) , [KDnuggets](https://www.kdnuggets.com/) are also awesome places to explore.
 
 Youtubers - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg) (If you can start 66 days of data, its one of the best ways to learn), [Krish Naik](https://www.youtube.com/user/krishnaik06), [Code basics](https://www.youtube.com/c/codebasics/playlists), [ritvikmath](https://www.youtube.com/c/ritvikmath/featured)
@@ -45,9 +47,10 @@ Project 3: [Deep Learning Number Recognition](https://www.youtube.com/redirect?e
 
 ## Main Topics
 
-- Data Cleaning, Data Visualization
-  - Libraries like Numpy, Pandas, Matplotlib, Seaborn, Scipy
-  - Softwares like Plotly, tableau
+* Data Cleaning, Data Visualization
+
+  * Libraries like Numpy, Pandas, Matplotlib, Seaborn, Scipy
+  * Softwares like Plotly, tableau
 
 ## Courses
 
@@ -56,7 +59,7 @@ Project 3: [Deep Learning Number Recognition](https://www.youtube.com/redirect?e
 ## Youtube
 
 [Youtube-Data Analysis with Python - Full Course for Beginners](https://www.youtube.com/watch?v=r-uOLxNrNk8)
-[https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB\_](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+<https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS>, <https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_>
 
 ## Machine Learning
 
@@ -75,15 +78,15 @@ Youtube - [Statquest](https://www.youtube.com/user/joshstarmer) is an amazing ch
 
 ## Model Deplyment
 
-- [Django](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Python backend framework to deploy (mostly largescale compared to flask, and it has wider options) and create web APIs
-- [Flask](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Also backend python framework, but can be quickly grasped than django..
-- [Streamlit](https://youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE) - is a comparatively easier framework to learn.
-- Heroku is a general hosting platform as a service
+* [Django](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Python backend framework to deploy (mostly largescale compared to flask, and it has wider options) and create web APIs
+* [Flask](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Also backend python framework, but can be quickly grasped than django..
+* [Streamlit](https://youtube.com/playlist?list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE) - is a comparatively easier framework to learn.
+* Heroku is a general hosting platform as a service
 
 ## Blogs
 
-[https://towardsdatascience.com/](https://towardsdatascience.com/)
-[https://medium.com/kaggle-blog](https://medium.com/kaggle-blog)
-[https://ryanswanstrom.com/datascience101/](https://ryanswanstrom.com/datascience101/)
+<https://towardsdatascience.com/>
+<https://medium.com/kaggle-blog>
+<https://ryanswanstrom.com/datascience101/>
 
 ## Curated by [Niranjan Neelakantan](https://github.com/itsniranjan) , TLF Python facilitator
