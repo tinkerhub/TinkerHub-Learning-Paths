@@ -6,11 +6,11 @@ image: images/C.jpg
 tags:
   - c
   - programming
+authors:
+  - Arjunsathyan
 mainpage: false
 draft: false
 ---
-# Programming in C
-
 C is a very powerful and widely used language.A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix.C is a general -purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.It is used in many scientific programming situations. It forms (or is the basis for) the core of the modern languages Java and C++.
 
 ## Prerequisite
@@ -151,5 +151,3 @@ Programs that are created with C run very quickly.
 * [C Programming-Learn Code,Theory and Discuss](https://play.google.com/store/apps/details?id=com.spdroid.c&hl=en_IN&gl=US)
 * [Learn C Programming](https://play.google.com/store/apps/details?id=c.programming&hl=en_IN&gl=US)
 * [C Programming-Quiz App](https://play.google.com/store/apps/details?id=amaresh.firstquizapp&hl=en_IN&gl=US)
-
-## Curated by [Arjun S](https://github.com/Arjunsathyan) , TLF Python Facilitator
