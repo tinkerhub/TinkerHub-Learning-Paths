@@ -27,7 +27,7 @@ collections:
       - { label: "Tags List (Comma separated)", name: "tags", widget: "list", allow_add: true, required: true }
       - { label: "Authors (Comma separated Github username list)", name: "authors", widget: "list", allow_add: true, required: true }
       - { label: "mainpage", name: "mainpage", widget: "hidden", default: false }
-      - { label: "draft", name: "draft", widget: "hidden", default: false }
+      - { label: "draft", name: "draft", widget: "hidden", default: false, required: true }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
