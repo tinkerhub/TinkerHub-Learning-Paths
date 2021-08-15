@@ -7,11 +7,11 @@ tags:
   - cyber
   - security
   - cybersecurity
+authors:
+  - gauthamkrishna1312
 mainpage: false
 draft: false
 ---
-# Cybersecurity
-
 Cybersecurity is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the misdirection of the services they provide.This field is becoming increasingly significant due to the increased reliance on computer systems, the internet and wireless networks standards such as Bluetooth and Wi-Fi, and due to the growth of ”smart” devices, including smartphones, television, and the various devices that constitute the "internet of things". Owing to its complexity, both in terms of politics and technology, cybersecurity is also one of the major challenges in the contemporary world.
 
 ## Prerequisites
@@ -88,5 +88,3 @@ You can learn cybersecurity as a complete beginner. You should familiarise to us
   * <https://play.google.com/store/apps/details?id=net.davdayanandvihar.cybersecurityapp&hl=en_IN&gl=US>
   * <https://play.google.com/store/apps/details?id=com.udemy.android&hl=en_IN&gl=US>
   * <https://play.google.com/store/apps/details?id=com.briox.riversip.rnd.cybersecurity&hl=en_IN&gl=US>
-
-## Curated by [Gautham krishna P](https://github.com/gauthamkrishna1312) , TLF Python Facilitator
