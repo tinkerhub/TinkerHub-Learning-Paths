@@ -1,11 +1,11 @@
 ---
-title: "Home"
+title: Home
 date: 2021-04-12T01:01:00+05:30
 mainpage: true
 draft: false
-joinURL: "https://join.tinkerhub.org/"
-joinText: "Join Us"
-introTitle: "TinkerHub Learning Path"
+joinURL: https://join.tinkerhub.org/
+joinText: Join Us
+introTitle: TinkerHub Learning Paths
 ---
 TinkerHub Foundation, the non-profit founded in 2014, is an organization working in alignment with the sustainable development goals of quality education, decent work, and economic growth.
 
