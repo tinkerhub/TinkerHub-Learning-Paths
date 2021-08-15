@@ -1,12 +1,15 @@
 ---
 title: Game Development
 date: 2021-04-12T05:12:04+05:30
-draft: false
+category: framework
 image: images/unity-tumbnail.jpg
+tags:
+  - game
+  - unity
+authors:
+  - kamaljohnson
 mainpage: false
-category: "framework"
-tags: ["game", "unity"]
-authors: ["kamaljohnson"]
+draft: false
 ---
 Game development is the process of developing a video game. The effort is undertaken by a developer, ranging from a single person to an international team dispersed across the globe.
 
