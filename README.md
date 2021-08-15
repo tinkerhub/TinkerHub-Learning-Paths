@@ -15,17 +15,18 @@
 
 #### About writing in Learning Path Collection
 
-| Field                    | Description                                                                                                                       | Example              |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| `title`                  | Title of the path                                                                                                                 | `How to learn java`  |
-| `publish date`           | Date which the path is created                                                                                                    | `08/15/2021 3:50 PM` |
-| `category`               | Set the category of the path to <ul><li>`language`</li><li>`framework`</li><li>`devops`</li><li>`ai-ml`</li><li>`other`</li></ul> | `language`           |
-| `image`                  | upload an image or insert its url                                                                                                 |                      |
-| `tags` (comma seperated) | Search terms for the learning path, used by the search bar to do fuzzy search                                                     | `python, backend`    |
-| `authors`                | GitHub usernames of authors                                                                                                       | `author1, author2`   |
-|                          |
+| Field                       | Description                                                                                                                       | Example              |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| `title`                     | Title of the path                                                                                                                 | `How to learn java`  |
+| `publish date`              | Date which the path is created                                                                                                    | `08/15/2021 3:50 PM` |
+| `category`                  | Set the category of the path to <ul><li>`language`</li><li>`framework`</li><li>`devops`</li><li>`ai-ml`</li><li>`other`</li></ul> | `language`           |
+| `image`                     | Upload an image or insert its url                                                                                                 |     `images/java.png`         |
+| `tags` (comma seperated)    | Search terms for the learning path, used by the search bar to do fuzzy search                                                     | `python, backend`    |
+| `authors` (comma seperated) | GitHub usernames of authors                                                                                                       | `author1, author2`   |
+| `body` | Learning path content                                                                                                                                  |                      |
 
-Add the learning path in the body.
+### Some tech stuff
+- This project uses Hugo Paired with Netlify CMS
 
 ### License
 
