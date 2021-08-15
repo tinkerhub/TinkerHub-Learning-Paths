@@ -6,7 +6,7 @@ backend:
 publish_mode: editorial_workflow
 media_folder: static/images
 public_folder: images
-logo_url: https://raw.githubusercontent.com/tinkerhub/TinkerHub-Learning-Paths/main/themes/tinkerhub/static/logo.png
+logo_url: https://paths.tinkerhub.org/logo.png
 editor:
   preview: false
 collections:
