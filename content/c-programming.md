@@ -6,6 +6,8 @@ image: images/C.jpg
 tags:
   - c
   - programming
+authors:
+  - Arjunsathyan
 mainpage: false
 draft: false
 ---
@@ -151,5 +153,3 @@ Programs that are created with C run very quickly.
 * [C Programming-Learn Code,Theory and Discuss](https://play.google.com/store/apps/details?id=com.spdroid.c&hl=en_IN&gl=US)
 * [Learn C Programming](https://play.google.com/store/apps/details?id=c.programming&hl=en_IN&gl=US)
 * [C Programming-Quiz App](https://play.google.com/store/apps/details?id=amaresh.firstquizapp&hl=en_IN&gl=US)
-
-## Curated by [Arjun S](https://github.com/Arjunsathyan) , TLF Python Facilitator
