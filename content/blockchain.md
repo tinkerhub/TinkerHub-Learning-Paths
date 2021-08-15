@@ -7,11 +7,11 @@ tags:
   - block
   - chain
   - blockchain
+authors:
+  - farzanakhareem
 mainpage: false
 draft: false
 ---
-# Blockchain 🔗
-
 Blockchain can be defined as a chain of blocks that contains information. The technique is intended to timestamp digital documents so that it's not possible to backdate them or temper them. The purpose of blockchain is to solve the double records problem without the need of a central server.
 The blockchain is used for the secure transfer of items like money, property, contracts, etc. without requiring a third-party intermediary like bank or government. Once a data is recorded inside a blockchain, it is very difficult to change it.
 The blockchain is a software protocol (like SMTP is for email). However, Blockchains could not be run without the Internet. It is also called meta-technology as it affects other technologies. It is comprised of several pieces: a database, software application, some connected computers, etc.
