@@ -50,7 +50,7 @@ You can see that hugo generated a new file named path-name/index.md under the [c
 | `title`    | String  | Title of the path                                                                           | `How to learn java`         |
 | `date`     | Date    | Date which the path is created                                                                      | `2021-04-12T13:35:55+05:30` |
 | `category` | String  | Set the category of the path to <ul><li>`language`</li><li>`framework`</li><li>`devops`</li><li>`ai-ml`</li><li>`other`</li></ul> | `language` |
-| `image`    | String  | Image path. Images should be uploaded to static/images/path-name  | `images/java/image.png`     |
+| `image`    | String  | Image path. Images should be uploaded to static/images  | `images/image.png`     |
 | `tags`     | Array   | Search terms for the learning path, used by the search bar to do fuzzy search                       | `["python", "backend"]`     |
 | `authors`  | Array   | GitHub usernames of authors                                                                         | `["author1", "author2"]`    |
 | `mainpage` | boolean | Marks a page as main page eg:index                                                            | `false` |
