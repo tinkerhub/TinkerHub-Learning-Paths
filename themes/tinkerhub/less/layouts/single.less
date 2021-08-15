@@ -1,6 +1,3 @@
-
-
-
 @code-background: #F5F7F9;
 
 @h1-font-size: 24px;
@@ -17,318 +14,319 @@
 
 @img-border-style: solid;
 @img-border-width: 1px;
-@img-border-color:#E6ECF1;
+@img-border-color: #E6ECF1;
 @img-border-radius: 3px;
 @img-padding: 1px;
 
 @link: #1CA4E4;
 
 .single {
-    main {
-        padding-top: 48px;
-        max-width: 1200px;
-        box-sizing: border-box;
-        margin: 0px auto;
-        display: grid;
-        grid-template-columns: 250px 600px 250px;
-        grid-gap: 50px;
+  main {
+    padding-top: 48px;
+    max-width: 1200px;
+    box-sizing: border-box;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: 250px 600px 250px;
+    grid-gap: 50px;
+  }
+
+  aside {
+    .sticky {
+      position: sticky;
+      top: 32px;
+      background-color: #f5f7f9;
+      box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+      border-radius: 15px;
+      transition: box-shadow 0.2s linear;
     }
 
-    aside {
-        .sticky {
-            position: sticky;
-            top: 32px;
-            background-color: #f5f7f9;
-            box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
-            border-radius: 15px;
-            transition: box-shadow 0.2s linear;
-        }
-
-        h1 {
-            color: #939ba9;
-            display: block;
-            font-size: 12px;
-            font-weight: 700;
-            text-decoration: none;
-            text-transform: uppercase;
-            margin-bottom: 18px;
-            margin-top: 9px;
-            user-select: none;
-        }
-
-        a {
-            border-bottom: 1px solid #EFF0F2;
-            padding: 20px 20px;
-            padding-top: 0px;
-            display: block;
-            border-radius: 3px;
-            margin-bottom: 18px;
-            text-decoration: none;
-            line-height: 18px;
-            color: #2364d2;
-            user-select: none;
-        }
-
-        li:last-of-type a {
-            border-bottom: none;
-        }
-
-        .name {
-            display: inline-block;
-        }
+    h1 {
+      color: #939ba9;
+      display: block;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+      margin-top: 9px;
+      user-select: none;
     }
 
-    main nav {
-        .sticky {
-            position: sticky;
-            top: 32px;
-            background-color: #f5f7f9;
-            box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
-            border-radius: 15px;
-            transition: box-shadow 0.2s linear;
-            padding: 12px;
-        }
-
-        h1 {
-            color: #939ba9;
-            display: block;
-            font-size: 12px;
-            font-weight: 700;
-            text-decoration: none;
-            text-transform: uppercase;
-            margin-bottom: 18px;
-            margin-top: 9px;
-            user-select: none;
-        }
-
-        counter-reset: section;
-
-        a {
-            color: #54667e;
-            display: block;
-            font-size: 12px;
-            font-weight: 700;
-            text-decoration: none;
-            text-transform: uppercase;
-            line-height: 18px;
-            margin-bottom: 18px;
-            user-select: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        a:before {
-            counter-increment: section;
-            content: counter(section) ".";
-            min-width: 20px;
-            display: inline-block;
-        }
-
-        #TableOfContents {
-            ul ul {
-                display: none;
-            }
-        }
+    a {
+      border-bottom: 1px solid #EFF0F2;
+      padding: 20px 20px;
+      padding-top: 0px;
+      display: block;
+      border-radius: 3px;
+      margin-bottom: 18px;
+      text-decoration: none;
+      line-height: 18px;
+      color: #2364d2;
+      user-select: none;
     }
 
-    article {
-        background-color: #f5f7f9;
-        header {
-            margin-bottom: 1em;
-            margin-left: 1em;
-
-            h1 {
-                font-size: 32px;
-                font-weight: 500;
-                line-height: 36px;
-            }
-
-            small {
-                display: block;
-                font-weight: 500;
-                font-size: 18px;
-                margin-top: 5px;
-            }
-        }
-
-        .image {
-            width: 100%;
-            height: 300px;
-            background-repeat: no-repeat;
-            background-position-x: center;
-            background-position-y: center;
-            border-radius: 3px;
-            overflow: hidden;
-            background-size: cover;
-            margin-bottom: 32px;
-        }
+    li:last-of-type a {
+      border-bottom: none;
     }
+
+    .name {
+      display: inline-block;
+    }
+  }
+
+  main nav {
+    .sticky {
+      position: sticky;
+      top: 32px;
+      background-color: #f5f7f9;
+      box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+      border-radius: 15px;
+      transition: box-shadow 0.2s linear;
+      padding: 12px;
+    }
+
+    h1 {
+      color: #939ba9;
+      display: block;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+      margin-top: 9px;
+      user-select: none;
+    }
+
+    counter-reset: section;
+
+    a {
+      color: #54667e;
+      display: block;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      text-transform: uppercase;
+      line-height: 18px;
+      margin-bottom: 18px;
+      user-select: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    a:before {
+      counter-increment: section;
+      content: counter(section) ".";
+      min-width: 20px;
+      display: inline-block;
+    }
+
+    #TableOfContents {
+      ul ul {
+        display: none;
+      }
+    }
+  }
+
+  article {
+    background-color: #f5f7f9;
+
+    header {
+      margin-bottom: 1em;
+      margin-left: 1em;
+
+      h1 {
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 36px;
+      }
+
+      small {
+        display: block;
+        font-weight: 500;
+        font-size: 18px;
+        margin-top: 5px;
+      }
+    }
+
+    .image {
+      width: 100%;
+      height: 300px;
+      background-repeat: no-repeat;
+      background-position-x: center;
+      background-position-y: center;
+      border-radius: 3px;
+      overflow: hidden;
+      background-size: cover;
+      margin-bottom: 32px;
+    }
+  }
 }
 
 
 // content is the parent element that contains the documenation
 // content generated from the markdown file.
 .content {
-    font-size: 16px;
-    line-height: 24px;
-    margin-bottom: 48px;
-    padding:16px;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 48px;
+  padding: 16px;
+  overflow: hidden;
+
+  p, h1, h2, h3, ol, ul, img {
+    margin-bottom: 24px;
+  }
+
+  h1 {
+    border-style: @h1-border-style;
+    border-width: @h1-border-width;
+    border-color: @h1-border-color;
+    font-size: @h1-font-size;
+    font-weight: @h1-font-weight;
+    padding-top: 40px;
+    margin-top: 30px;
+  }
+
+  h2 {
+    font-size: @h2-font-size;
+    font-weight: @h2-font-weight;
+    line-height: 1.5;
+    margin: 32px 0px 24px 0px;
+  }
+
+  h3 {
+    font-size: @h3-font-size;
+    font-weight: @h3-font-weight;
+    line-height: 1.5;
+    margin: 24px 0px;
+  }
+
+  a, a:visited {
+    color: @link;
+    text-decoration: none;
+    // outline: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  i, em {
+    font-style: italic;
+  }
+
+  strong {
+    font-weight: 700;
+  }
+
+  code {
+    background: @code-background;
+    margin: 0px;
+    display: inline-block;
+    padding: 0px 6px;
+    font-size: 85%;
+    border-radius: 3px;
+    font-family: @font-mono;
+  }
+
+  pre > code {
+    background: @code-background;
+    display: block;
+    font-family: @font-mono;
+    font-size: 80%;
+    line-height: 22px;
+    border-radius: 3px;
+    margin-bottom: 24px;
+    padding: 12px;
+
     overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: auto;
+  }
 
-    p, h1, h2, h3, ol, ul, img {
-        margin-bottom: 24px;
+  // chrome syntax highlighing.
+  .chroma {
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: auto;
+
+    .lntable {
+      width: 100%;
     }
 
-    h1 {
-        border-style: @h1-border-style;
-        border-width: @h1-border-width;
-        border-color: @h1-border-color;
-        font-size: @h1-font-size;
-        font-weight: @h1-font-weight;
-        padding-top: 40px;
-        margin-top: 30px;
-    }
+    td:last-of-type {
+      width: 100%;
 
-    h2 {
-        font-size: @h2-font-size;
-        font-weight: @h2-font-weight;
-        line-height: 1.5;
-        margin: 32px 0px 24px 0px;
-    }
-
-    h3 {
-        font-size: @h3-font-size;
-        font-weight: @h3-font-weight;
-        line-height: 1.5;
-        margin: 24px 0px;
-    }
-
-    a, a:visited {
-        color: @link;
-        text-decoration: none;
-        // outline: none;
-
-        &:hover {
-            text-decoration: underline;
-        }
-    }
-
-    i, em {
-        font-style: italic;
-    }
-
-    strong {
-        font-weight: 700;
-    }
-
-    code {
-        background: @code-background;
-        margin: 0px;
-        display: inline-block;
-        padding: 0px 6px;
-        font-size: 85%;
-        border-radius: 3px;
-        font-family: @font-mono;
-    }
-
-    pre > code {
-        background: @code-background;
+      .hl {
         display: block;
-        font-family: @font-mono;
-        font-size: 80%;
-        line-height: 22px;
-        border-radius: 3px;
-        margin-bottom: 24px;
-        padding: 12px;
-
-        overflow: hidden;
-        overflow-y: hidden;
-        overflow-x: auto;
+        // background: #e0eef0;
+        // color: #0CA4A5;
+        color: #2364d2;
+      }
     }
 
-    // chrome syntax highlighing.
-    .chroma {
-        overflow: hidden;
-        overflow-y: hidden;
-        overflow-x: auto;
+    // line numbers
+    .lnt {
+      color: #c1c7cd;
+    }
+  }
 
-        .lntable {
-            width: 100%;
-        }
+  ul, ol {
+    padding-left: 24px;
+  }
 
-        td:last-of-type {
-            width: 100%;
+  li {
+    list-style-type: disc;
+  }
 
-            .hl {
-                display: block;
-                // background: #e0eef0;
-                // color: #0CA4A5;
-                color: #2364d2;
-            }
-        }
+  img {
+    margin-bottom: 24px;
+    box-sizing: border-box;
+    border-width: @img-border-width;
+    border-style: @img-border-style;
+    border-color: @img-border-color;
+    border-radius: @img-border-radius;
+    padding: @img-padding;
+    max-width: 100%;
+  }
 
-        // line numbers
-        .lnt {
-            color: #c1c7cd;
-        }
+  li img {
+    margin-top: 10px;
+  }
+
+  & > table {
+    border: 1px solid #EFF0F2;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 24px;
+    border-radius: 3px;
+
+    th, td {
+      border: 1px solid #EFF0F2;
+      text-align: left;
+      padding: 7px;
     }
 
-    ul, ol {
-        padding-left: 24px;
+    th {
+      background: #f7f7f9;
     }
+  }
 
-    li {
-        list-style-type: disc;
-    }
+  dt {
+    font-weight: 600;
+  }
 
-    img {
-        margin-bottom: 24px;
-        box-sizing: border-box;
-        border-width: @img-border-width;
-        border-style: @img-border-style;
-        border-color: @img-border-color;
-        border-radius: @img-border-radius;
-        padding: @img-padding;
-        max-width: 100%;
-    }
-
-    li img {
-        margin-top: 10px;
-    }
-
-    &> table {
-        border: 1px solid #EFF0F2;
-        width: 100%;
-        box-sizing: border-box;
-        margin-bottom: 24px;
-        border-radius: 3px;
-
-        th, td {
-            border: 1px solid #EFF0F2;
-            text-align: left;
-            padding: 7px;
-        }
-
-        th {
-            background: #f7f7f9;
-        }
-    }
-
-    dt {
-        font-weight: 600;
-    }
-
-    dd {
-        margin-bottom: 24px;
-    }
+  dd {
+    margin-bottom: 24px;
+  }
 }
-.avatar
-{
-    border-radius: 50%;
-    padding: 1em;
-    width: 48px;
+
+.avatar {
+  border-radius: 50%;
+  padding: 1em;
+  width: 48px;
 }
 
 //
@@ -337,25 +335,27 @@
 
 .language-diff,
 .language-patch {
-    .gd {
-        color: #ff4164;
-        background: #f9d6df;
-    }
-    .gi {
-        color: #0d724a;
-        background: #ddf3eb;
-    }
+  .gd {
+    color: #ff4164;
+    background: #f9d6df;
+  }
+
+  .gi {
+    color: #0d724a;
+    background: #ddf3eb;
+  }
 }
 
 // for prometheus. since there is no metrics highligher,
 // we hijack the tcl highlighter.
 .language-tcl {
-    .nv, .mi {
-        color: rgb(30, 55, 90);
-    }
-    .c {
-        color: rgb(193, 199, 205);
-    }
+  .nv, .mi {
+    color: rgb(30, 55, 90);
+  }
+
+  .c {
+    color: rgb(193, 199, 205);
+  }
 }
 
 //
@@ -369,49 +369,51 @@
 @blockquote-padding: 0px 0px 0px 12px;
 
 .content blockquote {
-    color: @blockquote-color;
-    margin: @blockquote-margin;
-    padding: @blockquote-padding;
-    border-color: @blockquote-border-color;
-    border-width: @blockquote-border-width;
-    border-style: solid;
+  color: @blockquote-color;
+  margin: @blockquote-margin;
+  padding: @blockquote-padding;
+  border-color: @blockquote-border-color;
+  border-width: @blockquote-border-width;
+  border-style: solid;
 }
 
 // if the device size or window size is tablet or below the
 // reference path is hidden.
 @media screen and
-    (max-width: 600px),
-    (max-device-width: 600px) {
+(max-width: 600px),
+(max-device-width: 600px) {
 
-    .content .reference .path {
-        display: none;
-    }
+  .content .reference .path {
+    display: none;
+  }
 }
 
 
 @media screen and
-    (max-width: 1200px),
-    (max-device-width: 1200px) {
+(max-width: 1200px),
+(max-device-width: 1200px) {
 
 
-    .single main {
+  .single main {
 
-        display: block;
-        max-width: 650px;
-        margin: 0px auto;
-        nav {
-            display: none;
-        }
-        aside {
-            display: none;
-        }
+    display: block;
+    max-width: 650px;
+    margin: 0px auto;
+
+    nav {
+      display: none;
     }
+
+    aside {
+      display: none;
+    }
+  }
 }
 
 @media screen and
-    (max-width: 675px),
-    (max-device-width: 675px) {
-        .single main {
-            padding: 20px;
-        }
+(max-width: 675px),
+(max-device-width: 675px) {
+  .single main {
+    padding: 20px;
+  }
 }

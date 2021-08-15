@@ -16,46 +16,46 @@
 // alert provides additional contextual information for the
 // reader pertaining to the current content.
 .alert {
-    box-sizing: border-box;
-    display: block;
-    margin: 32px 0px;
-    padding: 24px 24px 24px 72px;
-    position: relative;
-    width: 100%;
+  box-sizing: border-box;
+  display: block;
+  margin: 32px 0px;
+  padding: 24px 24px 24px 72px;
+  position: relative;
+  width: 100%;
 
-    background-color: @alert-background-color;
-    background-position-x: 20px;
-    background-position-y: 20px;
-    background-size: 32px;
+  background-color: @alert-background-color;
+  background-position-x: 20px;
+  background-position-y: 20px;
+  background-size: 32px;
 
-    // default alert level is info
-    background-image: data-uri(@alert-image-info);
-    background-repeat: no-repeat;
-    border: none;
-    border-color: @alert-color-info;
-    border-radius: @alert-border-radius;
-    border-width: @alert-border-width;
-    border-style: solid;
+  // default alert level is info
+  background-image: data-uri(@alert-image-info);
+  background-repeat: no-repeat;
+  border: none;
+  border-color: @alert-color-info;
+  border-radius: @alert-border-radius;
+  border-width: @alert-border-width;
+  border-style: solid;
 
-    &.danger,
-    &.error {
-        border-color: @alert-color-danger;
-        background-image: data-uri(@alert-image-danger);
-    }
-    
-    &.security {
-        border-color: @alert-color-warning;
-        background-image: data-uri(@alert-image-security);
-    }
-    
-    &.warning,
-    &.warn {
-        border-color: @alert-color-warning;
-        background-image: data-uri(@alert-image-warning);
-    }
-    
-    &.success {
-        border-color: @alert-color-success;
-        background-image: data-uri(@alert-image-success);
-    }
+  &.danger,
+  &.error {
+    border-color: @alert-color-danger;
+    background-image: data-uri(@alert-image-danger);
+  }
+
+  &.security {
+    border-color: @alert-color-warning;
+    background-image: data-uri(@alert-image-security);
+  }
+
+  &.warning,
+  &.warn {
+    border-color: @alert-color-warning;
+    background-image: data-uri(@alert-image-warning);
+  }
+
+  &.success {
+    border-color: @alert-color-success;
+    background-image: data-uri(@alert-image-success);
+  }
 }

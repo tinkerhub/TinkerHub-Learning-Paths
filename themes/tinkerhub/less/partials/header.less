@@ -9,62 +9,62 @@
 
 // the header is the main header component for the page.
 .header {
-    height: @header-height;
-    box-shadow: @header-box-shadow;
-    border-bottom: @header-border;
-    background-color: @header-background;
+  height: @header-height;
+  box-shadow: @header-box-shadow;
+  border-bottom: @header-border;
+  background-color: @header-background;
 
+  align-items: center;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr 98fr 1fr;
+  z-index: 1;
+
+  .branding {
+    display: flex;
+    padding: @header-padding;
+  }
+
+  #search-input {
+    display: none;
+  }
+
+  .logo {
+    width: @logo-width;
+    height: @logo-height;
+
+    // See https://bit.ly/2Yc95wR
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+
+    img {
+      width: @logo-width;
+      height: @logo-height;
+    }
+  }
+
+  nav {
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 1em;
+  }
+
+  .button {
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 20px;
+    border-radius: 3px;
+    display: flex;
     align-items: center;
-    box-sizing: border-box;
-    display: grid;
-    grid-template-columns: 1fr 98fr 1fr;
-    z-index: 1;
+    font-size: 15px;
+    user-select: none;
 
-    .branding {
-        display: flex;
-        padding: @header-padding;
+    svg {
+      width: 32px;
+      height: 32px;
     }
-
-    #search-input {
-        display: none;
-    }
-
-    .logo {
-        width: @logo-width;
-        height: @logo-height;
-
-        // See https://bit.ly/2Yc95wR
-        user-select: none;
-        -webkit-tap-highlight-color: transparent;
-        -webkit-touch-callout: none;
-
-        img {
-            width: @logo-width;
-            height: @logo-height;
-        }
-    }
-
-    nav {
-        text-align: right;
-        display: flex;
-        justify-content: flex-end;
-        margin-left: 1em;
-    }
-
-    .button {
-        color: #FFF;
-        text-decoration: none;
-        margin-right: 20px;
-        border-radius: 3px;
-        display: flex;
-        align-items: center;
-        font-size: 15px;
-        user-select: none;
-
-        svg {
-            width: 32px;
-            height: 32px;
-        }
-    }
+  }
 }
 

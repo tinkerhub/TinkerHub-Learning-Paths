@@ -27,8 +27,8 @@ collections:
       - { label: "Tags List (Comma separated)", name: "tags", widget: "list", allow_add: true, required: true }
       - { label: "Authors (Comma separated Github username list)", name: "authors", widget: "list", allow_add: true, required: true }
       - { label: "mainpage", name: "mainpage", widget: "hidden", default: false }
-      - { label: "draft", name: "draft", widget: "hidden", default: false, required: true }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "draft", name: "draft", widget: "hidden", default: false }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
   - name: "pages"
     label: "Pages"
     files:
@@ -40,3 +40,7 @@ collections:
           - { label: "Date", name: "date", widget: "datetime" }
           - { label: "mainpage", name: "mainpage", widget: "hidden", default: true }
           - { label: "draft", name: "draft", widget: "hidden", default: false }
+          - { label: "Intro", name: "body", widget: "markdown", required: true }
+          - { label: "Join Us URL", name: "joinURL", widget: "text", required: true }
+          - { label: "Join Button Text", name: "joinText", widget: "text", required: true }
+          - { label: "Intro Title", name: "introTitle", widget: "text", required: true }
