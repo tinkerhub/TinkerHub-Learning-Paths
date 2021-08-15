@@ -1,4 +1,4 @@
-# TinkerHub Learning Paths :sparkles: [![Deploy to production](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/actions/workflows/deploy-prod.yml/badge.svg?branch=main)](https://github.com/tinkerhub-org/TinkerHub-Learning-Paths/actions/workflows/deploy-prod.yml)
+# TinkerHub Learning Paths :sparkles: [![Netlify Status](https://api.netlify.com/api/v1/badges/562e1c1a-0f23-4d27-92cf-4be923e8ef91/deploy-status)](https://app.netlify.com/sites/th-learn/deploys)
 
 ![happy learning](https://user-images.githubusercontent.com/8397274/114326193-3774f480-9b51-11eb-88d3-e899e5673e98.jpg)
 
