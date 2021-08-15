@@ -1,0 +1,40 @@
+backend:
+  name: github
+  repo: tinkerhub/TinkerHub-Learning-Paths
+  branch: main
+  open_authoring: true
+publish_mode: editorial_workflow
+media_folder: static/images
+public_folder: images
+logo_url: https://raw.githubusercontent.com/tinkerhub/TinkerHub-Learning-Paths/main/themes/tinkerhub/static/logo.png
+editor:
+  preview: false
+collections:
+  - name: 'learningpath'
+    label: 'Learning Paths'
+    label_singular: 'Learning Path'
+    description: 'Create or update TinkerHub Learning Paths'
+    folder: 'content'
+    filter: { field: "sub", value: false }
+    create: true
+    delete: false
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Publish Date", name: "date", widget: "datetime", required: true }
+      - { label: "Category", name: "category", widget: "select", required: true, options: [
+          "language","framework", "devops", "ai-ml", "other" ] }
+      - { label: "Image", name: "image", widget: "image", required: true }
+      - { label: "Tags", name: "tags", widget: "list", allow_add: true, required: true }
+      - { label: "Authors", name: "authors", widget: "list", allow_add: true, required: true }
+      - { label: "sub", name: "sub", widget: "hidden", default: false }
+      - { label: "draft", name: "draft", widget: "hidden", default: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: "Date", name: "date", widget: "datetime" }
