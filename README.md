@@ -4,7 +4,7 @@
 
 ## Hola, this repository contains curated learning paths for various technologies
 
-:bulb: Visit [tinkerhub.org/learn/python](https://tinkerhub.org/learn/python) for the python path.
+:bulb: Visit [paths.tinkerhub.org/python](https://paths.tinkerhub.org/python) for the python path.
 
 ### How to add a new learning path
 
@@ -34,10 +34,10 @@ git checkout -b learning-path-name
 - Run the following command
 
 ```bash
- hugo new path-name/index.md
+ hugo new path-name.md
 ```
 
-You can see that hugo generated a new file named path-name/index.md under the [content](./content) directory
+You can see that hugo generated a new file named `path-name.md` under the [content](./content) directory
 
 - Modify the file contents and metadata
 - Run `hugo server` to preview your changes on the browser
