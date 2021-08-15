@@ -11,8 +11,6 @@ authors:
 mainpage: false
 draft: false
 ---
-# Programming in C
-
 C is a very powerful and widely used language.A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix.C is a general -purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions.It is used in many scientific programming situations. It forms (or is the basis for) the core of the modern languages Java and C++.
 
 ## Prerequisite
