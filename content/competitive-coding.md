@@ -1,13 +1,14 @@
 ---
 title: Competitive Coding
 date: 2021-08-06T13:35:55+05:30
-draft: false
+category: other
 image: images/competitive-coding.jpg
+tags:
+  - coding
+  - competitive
 mainpage: false
-category: "other"
-tags: ["coding", "competitive"]
+draft: false
 ---
-
 # COMPETITIVE CODING
 
 Competitive Programming is a mental sport which enables you to code a
@@ -27,19 +28,23 @@ The prerequisite for jumping into competitive programming is a good working know
 
 # RESOURCES
 
-- ONLINE COURSES
+* ONLINE COURSES
+
   1. [Competitive Programmer's Core Skills | Coursera](https://www.coursera.org/learn/competitive-programming-core-skills)
   2. [The Bible of Coding Interviews & Competitive Programming | Udemy](https://www.udemy.com/course/the-bible-of-algorithms-and-interview-questions/)
   3. [Mastering Data Structures and Algorithms with C and C++ Training](https://www.udemy.com/course/datastructurescncpp/)
-- BLOGS
+* BLOGS
+
   1. [Ravi Ojha, Author at HackerEarth Blog](https://www.hackerearth.com/blog/author/ravi/)
-  2. [https://en.wikipedia.org/wiki/Competitive_programming](https://en.wikipedia.org/wiki/Competitive_programming)
-  3. [https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming](https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming)
-- TUTORIALS
+  2. <https://en.wikipedia.org/wiki/Competitive_programming>
+  3. <https://www.topcoder.com/thrive/tracks?track=Competitive%20Programming>
+* TUTORIALS
+
   1. [How to start Competitive Programming? For beginners! - YouTube](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
   2. [Competitive Programming - A Complete Guide - GeeksforGeeks](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/)
   3. [Learn how to start Competitive Programming | CodeChef](https://www.codechef.com/getting-started)
-- APPS
+* APPS
+
   1. [Prebytes](http://prebytes)
   2. [Coder's Calendar](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll?hl=en)
   3. [Competitive Programmer's Core Skills | Coursera](https://www.coursera.org/learn/competitive-programming-core-skills)
