@@ -1,14 +1,18 @@
 ---
 title: Data Analysis 📈 using Python 🐍
 date: 2021-04-12T13:35:55+05:30
-draft: false
+category: other
 image: images/python.jpeg
+tags:
+  - python
+  - data
+  - analysis
+authors:
+  - shaji-stark
 mainpage: false
-category: "other"
-tags: ["python", "data", "analysis"]
-authors: ["shaji-stark"]
-----
-Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
+draft: false
+---
+* Data analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.
 
 ## Why is python an excellent option for data analysis ❓ 🤔
 
@@ -50,8 +54,8 @@ In order to keep the size of the download small, we actually use a minimum set o
 
 ### Miniconda installer packages:
 
-- ### [Windows 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
-- ### [Mac OSX 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh)
+* ### [Windows 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+* ### [Mac OSX 64-bit with python 3.8](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh)
 
 Not on the system with that variant or needed another version? Check out the conda documantation [at this link](https://docs.conda.io/en/latest/miniconda.html).
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
@@ -76,7 +80,7 @@ OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the ter
 
 `conda env create -f <PATH_TO_ENVIRONMENT.YML>`
 
-- You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded.
+* You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded.
 
 For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. <br />
 For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. <br />
@@ -99,7 +103,7 @@ Type the following command:
 A browser window will open, showing the Jupyer environment. By default, you will be in a file browser view.
 In the file browser, find where you have a Jupyter notebook. **Check out the materials we've attached by the end of each curriculum documantation**, if you wanna see it run!
 
-### Click on one of the notebook (\*.ipynb) files to get started!
+### Click on one of the notebook (*.ipynb) files to get started!
 
 <br />
 
@@ -111,8 +115,8 @@ Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make 
 
 ## Leave the tutorial environment 🚶‍♀️
 
-- Windows: `deactivate tutorial`
-- osx: `source deactivate tutorial`
+* Windows: `deactivate tutorial`
+* osx: `source deactivate tutorial`
 
 <br /><br />
 
@@ -179,8 +183,8 @@ Finally we'll be going through some types of data analysis. Here you'll be learn
 
 ## Handling errors & finding solutions 🕵️‍♀️
 
-- Finding bugs 🐛 may be considered as comparatively easier since execution stops right when an error is encountered.
-- As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!
+* Finding bugs 🐛 may be considered as comparatively easier since execution stops right when an error is encountered.
+* As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!
 
 <br /><br />
 
