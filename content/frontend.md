@@ -1,12 +1,18 @@
 ---
 title: Frontend Web Development 🔮
 date: 2021-04-12T05:01:37+05:30
-draft: false
+category: framework
 image: images/fe.png
+tags:
+  - web
+  - frontend
+  - html
+  - css
+  - javascipt
+authors:
+  - akhilmhdh
 mainpage: false
-category: "framework"
-tags: ["web", "frontend", "html", "css", "javascipt"]
-authors: ["akhilmhdh"]
+draft: false
 ---
 Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.
 
@@ -29,9 +35,9 @@ Things you need and need not.
 
 Fundamental building blocks of web development is
 
-- HTML - HyperText Markup Language
-- CSS - Cascade Style Sheet
-- JS - JavaScript
+* HTML - HyperText Markup Language
+* CSS - Cascade Style Sheet
+* JS - JavaScript
 
 1. Have a really good grasp of HTML and CSS first.
 2. Build some layouts using Flexbox, Grid, etc.
@@ -50,8 +56,8 @@ An important thing to consider is unless you have a good grasp on CSS and JS don
 2. You don't need to learn every framework out there. Just be good at one framework.
 3. Now learn [SASS](https://sass-lang.com/)
 
-- It's a preprocessor that converts written SASS code to CSS.
-- It provides additional features like nesting etc.
+* It's a preprocessor that converts written SASS code to CSS.
+* It provides additional features like nesting etc.
 
 4. Learn JS API handling
 
@@ -80,8 +86,8 @@ Learn ES6.
 
 Package managers are used to managing libraries in a project. It helps us to organize them and also shares between teams.
 
-- [NPM](https://www.npmjs.com/)
-- [YARN](https://yarnpkg.com/)
+* [NPM](https://www.npmjs.com/)
+* [YARN](https://yarnpkg.com/)
 
 ## Bundlers
 
