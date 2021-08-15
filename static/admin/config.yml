@@ -36,11 +36,11 @@ collections:
         label: "Home Page"
         name: "home"
         fields:
-          - { label: Title, name: title, widget: string }
+          - { label: "Title", name: "title", widget: "string" }
           - { label: "Date", name: "date", widget: "datetime" }
           - { label: "mainpage", name: "mainpage", widget: "hidden", default: true }
           - { label: "draft", name: "draft", widget: "hidden", default: false }
           - { label: "Intro", name: "body", widget: "markdown", required: true }
-          - { label: "Join Us URL", name: "joinURL", widget: "text", required: true }
-          - { label: "Join Button Text", name: "joinText", widget: "text", required: true }
-          - { label: "Intro Title", name: "introTitle", widget: "text", required: true }
+          - { label: "Join Us URL", name: "joinURL", widget: "string", required: true }
+          - { label: "Join Button Text", name: "joinText", widget: "string", required: true }
+          - { label: "Intro Title", name: "introTitle", widget: "string", required: true }
