@@ -6,11 +6,11 @@ image: images/competitive-coding.jpg
 tags:
   - coding
   - competitive
+authors:
+  - SonaPhilip0012
 mainpage: false
 draft: false
 ---
-# COMPETITIVE CODING
-
 Competitive Programming is a mental sport which enables you to code a
 given problem under provided constraints. Programming is an exercise for your brain, programming is a mental sport and when this sport is held over the internet involving a sport programmer as a contestant then it is called Competitive Programming.
 
