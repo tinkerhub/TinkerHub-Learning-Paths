@@ -5,7 +5,7 @@ backend:
   open_authoring: true
 publish_mode: editorial_workflow
 media_folder: static/images
-public_folder: /images
+public_folder: images
 logo_url: https://raw.githubusercontent.com/tinkerhub/TinkerHub-Learning-Paths/main/themes/tinkerhub/static/logo.png
 editor:
   preview: false
