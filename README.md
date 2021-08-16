@@ -24,6 +24,11 @@
 | `tags` (comma seperated)    | Search terms for the learning path, used by the search bar to do fuzzy search                                                     | `python, backend`    |
 | `authors` (comma seperated) | GitHub usernames of authors                                                                                                       | `author1, author2`   |
 | `body` | Learning path content                                                                                                                                  |                      |
+### Thanks
+- Netlify for sponsoring the [pro plan](https://www.netlify.com/pricing/)
+<a href="https://www.netlify.com">
+  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
+</a>
 
 ### Some tech stuff
 - This project uses Hugo Paired with Netlify CMS
