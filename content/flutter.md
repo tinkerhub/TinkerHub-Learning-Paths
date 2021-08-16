@@ -1,12 +1,18 @@
 ---
-title: Learning Dart OOPS
+title: Flutter
 date: 2021-04-12T02:32:34+05:30
-draft: false
+category: language
 image: images/flutter.jpg
+tags:
+  - dart
+  - android
+  - ios
+  - flutter
+  - mobile
+authors:
+  - evolvingkid
 mainpage: true
-category: "language"
-tags: ["dart", "android", "ios", "flutter", "mobile"]
-authors: ["evolvingkid"]
+draft: false
 ---
 
 
