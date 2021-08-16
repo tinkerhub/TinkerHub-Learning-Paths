@@ -28,7 +28,7 @@ body:
     id: already-exists
     attributes:
       label: Already existing path
-      description: Please search and check if the learning path already exists [https://tinkerhub.org/learn/](https://tinkerhub.org/learn/)
+      description: Please search and check if the learning path already exists [https://paths.tinkerhub.org/](https://paths.tinkerhub.org/)
       options:
-        - label: I searched on [https://tinkerhub.org/learn](https://tinkerhub.org/learn/) and found that the learning path doesnt exist.
+        - label: I searched on [https://paths.tinkerhub.org/](https://tinkerhub.org/learn/) and found that the learning path doesnt exist.
           required: true
