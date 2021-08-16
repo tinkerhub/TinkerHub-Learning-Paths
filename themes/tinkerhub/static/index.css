@@ -636,6 +636,7 @@ body {
 .featured .cards .image {
   padding-top: 200px;
   background-size: cover;
+  background-position: center;
 }
 .featured .cards .body {
   padding: 30px;
@@ -792,6 +793,20 @@ body {
   .listing .item .name {
     line-height: 24px;
   }
+}
+.footer {
+  background-color: #253d5f;
+  padding: 24px 16px;
+  text-align: center;
+  font-size: 1rem;
+  color: #fff;
+}
+.footer a {
+  text-decoration: none;
+  color: #fff;
+}
+.footer a:hover {
+  text-decoration: underline;
 }
 /* Background */
 .chroma {
