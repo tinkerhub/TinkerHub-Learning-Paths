@@ -13,7 +13,7 @@
         <h2></h2>
 
         <div class="section">
-          <h2>Languages</h2>
+          <a href="/category/language/"><h2>Languages</h2></a>
           <div class="cards">
             {{ range .Pages }} {{ if and (eq .Params.category "language")}}
             <a href="{{ .Permalink }}">
@@ -30,7 +30,7 @@
         </div>
 
         <div class="section">
-          <h2>Frameworks and Libraries</h2>
+          <a href="/category/framework/"><h2>Frameworks and Libraries</h2></a>
           <div class="cards">
             {{ range .Pages }} {{ if and (eq .Params.category "framework")}}
             <a href="{{ .Permalink }}">
@@ -47,7 +47,7 @@
         </div>
 
         <div class="section">
-          <h2>AI ML</h2>
+          <a href="/category/ai-ml/"><h2>AI ML</h2></a>
           <div class="cards">
             {{ range .Pages }} {{ if and (eq .Params.category "ai-ml")}}
             <a href="{{ .Permalink }}">
@@ -64,7 +64,7 @@
         </div>
 
         <div class="section">
-          <h2>DevOps</h2>
+          <a href="/category/devops/"><h2>DevOps</h2></a>
           <div class="cards">
             {{ range .Pages }} {{ if and (eq .Params.category "devops")}}
             <a href="{{ .Permalink }}">
@@ -81,7 +81,7 @@
         </div>
 
         <div class="section">
-          <h2>Others</h2>
+          <a href="/category/other/"><h2>Others</h2></a>        
           <div class="cards">
             {{ range .Pages }} {{ if and (eq .Params.category "other")}}
             <a href="{{ .Permalink }}">
