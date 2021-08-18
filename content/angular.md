@@ -8,6 +8,7 @@ tags:
   - javascript
 authors:
   - weberstills
+  - riginoommen
 mainpage: false
 draft: false
 ---
@@ -25,8 +26,9 @@ Angular is an open-source web development framework that is used to create dynam
 * Build Tools
 
   * npm
+  * pnpm
   * Yarn 
-  * Angular cli
+  * Angular CLI
   * Bazel
   * Rollup
   * npm scripts
@@ -34,9 +36,9 @@ Angular is an open-source web development framework that is used to create dynam
 * Styling
 
   * Sass/Scss
-  * Post Css
+  * Post CSS
   * Less
-  * Css frameworks
+  * CSS frameworks
   * Design systems
 * Architecture
 
@@ -68,7 +70,7 @@ Angular is an open-source web development framework that is used to create dynam
 **Tutorials** 💡
 
 * [W3Schools Angular Tutorial](https://www.w3schools.com/angular/)
-* [better way to learn Angular](https://thinkster.io/tutorials/learn-angular-2) 
+* [Better way to learn Angular](https://thinkster.io/tutorials/learn-angular-2) 
 * [Angular Docs](https://angular.io/docs)
 
 **Blogs** 📝 
