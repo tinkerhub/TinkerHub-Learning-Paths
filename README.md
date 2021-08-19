@@ -51,7 +51,7 @@ You can see that hugo generated a new file named `path-name.md` under the [conte
 - If you are good with your changes, commit, push and open a pull request to this repository
 
 ### Code of conduct
-Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contributing and engaging in the discussions. **When contributing.
+Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contributing and engaging in the discussions.
 
 ### Thanks
 - Netlify for sponsoring the [pro plan](https://www.netlify.com/pricing/)
