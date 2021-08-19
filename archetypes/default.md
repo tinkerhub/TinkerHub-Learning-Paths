@@ -1,17 +1,23 @@
 ---
-title: How to learn 
+title: Learning path name
 date: {{ .Date }}
 draft: false
+# Todo: Pleaseemove all the comments before opening the pull request
 # Chose a category from any of the following
-category: language/framework/devops/ai-ml/other
+# language/framework/devops/ai-ml/other
+category: language
 # Remove the comments after reading
 # add image to /static folder eg: static/images/learning-pathname.png
 # note: Don't prefix with /static/
 image: images/learning-path-name.png
 # Specifies weather the file is a page (false for learning paths)
 mainpage: false
-tags: ["tag1", "tag2"]
-authors: ["author1","author2"]
+tags:
+- tag1 
+- tag2
+authors:
+- author1
+- author2
 ---
 Write a Small intro on tropic here
 
