@@ -10,7 +10,7 @@
 You can create a learning path via one of the following methods.
 
 #### 1. Using Netlify CMS
-This is the easiest way of adding a new learning path. If you are familiar with GitHub and you consider youself as a CLI person, skip to the [Using Hugo CLI](#Using-Hugo-CLI) section.
+This is the easiest way of adding a new learning path. If you are familiar with GitHub and you consider youself as a CLI person, skip to the [Using Hugo CLI](#2-using-hugo-cli) section.
 
 - Log in to the site's CMS at [paths.tinkerhub.org/admin](https://paths.tinkerhub.org/admin) using your github account
 - To add a new learning path click on the **New Learning Path** button
@@ -50,13 +50,14 @@ You can see that hugo generated a new file named `path-name.md` under the [conte
 - Run `hugo server` to preview your changes on the browser
 - If you are good with your changes, commit, push and open a pull request to this repository
 
+### Code of conduct
+Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contributing and engaging in the discussions. **When contributing.
+
 ### Thanks
 - Netlify for sponsoring the [pro plan](https://www.netlify.com/pricing/)
 <a href="https://www.netlify.com">
   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
 </a>
-
-#### Adding a new Learning Path via Hugo CLI 
 
 ### Some tech stuff
 - This project uses Hugo Paired with Netlify CMS
