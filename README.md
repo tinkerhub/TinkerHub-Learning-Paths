@@ -7,8 +7,10 @@
 :bulb: Visit [paths.tinkerhub.org/python](https://paths.tinkerhub.org/python) for the python path.
 
 ### How to add a new learning path
+You can create a learning path via one of the following methods.
 
-#### Adding a new Learning Path via Netlify CMS
+#### 1. Using Netlify CMS
+This is the easiest way of adding a new learning path. If you are familiar with GitHub and you consider youself as a CLI person, skip to the [Using Hugo CLI](#Using-Hugo-CLI) section.
 
 - Log in to the site's CMS at [paths.tinkerhub.org/admin](https://paths.tinkerhub.org/admin) using your github account
 - To add a new learning path click on the **New Learning Path** button
@@ -24,11 +26,37 @@
 | `tags` (comma seperated)    | Search terms for the learning path, used by the search bar to do fuzzy search                                                     | `python, backend`    |
 | `authors` (comma seperated) | GitHub usernames of authors                                                                                                       | `author1, author2`   |
 | `body` | Learning path content                                                                                                                                  |                      |
+
+#### 2. Using Hugo CLI
+We will be using hugo, git and your favourite text editor to add the learning new path.
+
+- Download and install [Hugo](https://gohugo.io/) and [Git](https://git-scm.com/)
+- Fork the repository to your profile
+- Clone the repository by running the following command:
+```bash
+git clone git clone https://github.com/{your-username}/TinkerHub-Learning-Paths.git
+```
+- Create a new branch by running the following command:
+```bash
+git checkout -b "learning-path-name"
+```
+- Run the following command to create a new learning path
+```bash
+ hugo new path-name.md
+```
+You can see that hugo generated a new file named `path-name.md` under the [content](./content) directory.
+
+- Modify the file contents and metadata using your favourite text editor
+- Run `hugo server` to preview your changes on the browser
+- If you are good with your changes, commit, push and open a pull request to this repository
+
 ### Thanks
 - Netlify for sponsoring the [pro plan](https://www.netlify.com/pricing/)
 <a href="https://www.netlify.com">
   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
 </a>
+
+#### Adding a new Learning Path via Hugo CLI 
 
 ### Some tech stuff
 - This project uses Hugo Paired with Netlify CMS
