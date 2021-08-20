@@ -34,7 +34,7 @@ We will be using hugo, git and your favourite text editor to add the learning ne
 - Fork the repository to your profile
 - Clone the repository by running the following command:
 ```bash
-git clone git clone https://github.com/{your-username}/TinkerHub-Learning-Paths.git
+git clone https://github.com/{your-username}/TinkerHub-Learning-Paths.git
 ```
 - Create a new branch by running the following command:
 ```bash
