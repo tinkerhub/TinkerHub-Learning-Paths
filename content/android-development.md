@@ -29,13 +29,11 @@ Android software development is the process by which applications are created fo
   * View
   * ViewGroup
 * Dynamic User Interface
-
   * RecyclerView
   * ViewPager
   * Spinner
 * CustomView – Canvas, Bitmap, Paint
 * UI Resources
-
   * Drawables
   * String
   * Styles
@@ -47,13 +45,11 @@ Android software development is the process by which applications are created fo
 * ProgressBar
 * Dialogs
 * Toast & Snackbar
-* Storage 
-
+* Storage
   * Shared Preferences
   * File Systems
   * Database
 * Build
-
   * Gradle
   * Debug / Release Configuration
 * Threading – Threads, Handler Looper
