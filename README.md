@@ -28,7 +28,7 @@ This is the easiest way of adding a new learning path. If you are familiar with 
 | `body` | Learning path content                                                                                                                                  |                      |
 
 #### 2. Using Hugo CLI
-We will be using hugo, git and your favourite text editor to add the learning new path.
+We will be using hugo, git and your favourite text editor to add the new learning path.
 
 - Download and install [Hugo](https://gohugo.io/) and [Git](https://git-scm.com/)
 - Fork the repository to your profile
@@ -51,16 +51,17 @@ You can see that hugo generated a new file named `path-name.md` under the [conte
 - If you are good with your changes, commit, push and open a pull request to this repository
 
 ### Code of conduct
-Make sure that you follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) while contributing and engaging in the discussions.
+Make sure that you follow [code of conduct](CODE_OF_CONDUCT.md) while contributing and engaging in the discussions.
 
 ### Thanks
-- Netlify for sponsoring the [pro plan](https://www.netlify.com/pricing/)
+- Netlify for sponsoring the [Pro Plan](https://www.netlify.com/pricing/)
+
 <a href="https://www.netlify.com">
-  <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
+<img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
 </a>
 
 ### Some tech stuff
-- This project uses Hugo Paired with Netlify CMS
+- This project uses Hugo paired with Netlify CMS
 
 ### License
 

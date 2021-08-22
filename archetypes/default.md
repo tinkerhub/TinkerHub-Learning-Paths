@@ -2,7 +2,7 @@
 title: Learning path name
 date: {{ .Date }}
 draft: false
-# Todo: Pleaseemove all the comments before opening the pull request
+# Todo: Please remove all the comments below before opening the pull request
 # Chose a category from any of the following
 # language/framework/devops/ai-ml/other
 category: language
