@@ -51,7 +51,7 @@ Students can still choose PYTHON as their first 🥇 language, even without any 
 
 * [python Udemy free course for absolute beginners](https://www.udemy.com/course/free-python/)
 * [Python Essentials](https://edube.org/study/pe1)
-* [Python paid course with certificate\[LinkedIn Learning]](https://www.linkedin.com/learning/python-essential-training-2018)
+* [Python paid course with certificate(LinkedIn Learning)](https://www.linkedin.com/learning/python-essential-training-2018)
 
 **Tutorials**
 
@@ -64,7 +64,7 @@ Students can still choose PYTHON as their first 🥇 language, even without any 
 * [Python for beginners-EDUREKA!](https://youtu.be/WGJJIrtnfpk)
 * [Beginners to Advanced -Clever programmer](https://youtu.be/4F2m91eKmts)
 * [Crossroads -python tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks)
-* [Python Tutorial - Python for Beginners \[Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
+* [Python Tutorial - Python for Beginners (Full Course)](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
 
 **GitHub Resources 🔮**
 
