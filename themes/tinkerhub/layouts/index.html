@@ -15,7 +15,7 @@
         {{range .Site.Taxonomies.category}}
 
         <div class="section">
-          <a href="/category/{{.Page.Title}}/"><h2>{{humanize .Page.Title}}</h2></a>
+          <a href="/category/{{.Page.Title}}/"><h2>{{.Page.Params.CategoryTitle}}</h2></a>
           <div class="cards">
             {{ range where .Pages ".Params.category" .Page.Title }}
             <a href="{{ .Permalink }}">
