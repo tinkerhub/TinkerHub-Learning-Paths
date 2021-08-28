@@ -12,27 +12,12 @@
         <h1>Curated Learning Paths</h1>
         <h2></h2>
 
-        <div class="section">
-          <a href="/category/language/"><h2>Languages</h2></a>
-          <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.category "language")}}
-            <a href="{{ .Permalink }}">
-              <div
-                class="image"
-                style="background-image: url({{ .Params.Image | absURL }})"
-              ></div>
-              <div class="body">
-                <span class="name">{{ .Title }}</span>
-              </div>
-            </a>
-            {{ end }} {{ end }}
-          </div>
-        </div>
+        {{range .Site.Taxonomies.category}}
 
         <div class="section">
-          <a href="/category/framework/"><h2>Frameworks and Libraries</h2></a>
+          <a href="/category/{{.Page.Title}}/"><h2>{{.Page.Params.CategoryTitle}}</h2></a>
           <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.category "framework")}}
+            {{ range where .Pages ".Params.category" .Page.Title }}
             <a href="{{ .Permalink }}">
               <div
                 class="image"
@@ -42,61 +27,10 @@
                 <span class="name">{{ .Title }}</span>
               </div>
             </a>
-            {{ end }} {{ end }}
+            {{ end }}
           </div>
         </div>
-
-        <div class="section">
-          <a href="/category/ai-ml/"><h2>AI ML</h2></a>
-          <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.category "ai-ml")}}
-            <a href="{{ .Permalink }}">
-              <div
-                class="image"
-                style="background-image: url({{ .Params.Image | absURL }})"
-              ></div>
-              <div class="body">
-                <span class="name">{{ .Title }}</span>
-              </div>
-            </a>
-            {{ end }} {{ end }}
-          </div>
-        </div>
-
-        <div class="section">
-          <a href="/category/devops/"><h2>DevOps</h2></a>
-          <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.category "devops")}}
-            <a href="{{ .Permalink }}">
-              <div
-                class="image"
-                style="background-image: url({{ .Params.Image | absURL }})"
-              ></div>
-              <div class="body">
-                <span class="name">{{ .Title }}</span>
-              </div>
-            </a>
-            {{ end }} {{ end }}
-          </div>
-        </div>
-
-        <div class="section">
-          <a href="/category/other/"><h2>Others</h2></a>        
-          <div class="cards">
-            {{ range .Pages }} {{ if and (eq .Params.category "other")}}
-            <a href="{{ .Permalink }}">
-              <div
-                class="image"
-                style="background-image: url({{ .Params.Image | absURL }})"
-              ></div>
-              <div class="body">
-                <span class="name">{{ .Title }}</span>
-              </div>
-            </a>
-            {{ end }} {{ end }}
-          </div>
-        </div>
-      </div>
+        {{end}}
     </section>
 
     {{ partial "footer.html" . }}
