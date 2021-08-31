@@ -1,4 +1,8 @@
 ---
+draft: false
+authors:
+  - weberstills
+  - riginoommen
 title: Angular
 date: 2021-08-04T05:16:58+05:30
 category: framework
@@ -6,11 +10,12 @@ image: images/angular.png
 tags:
   - frontend
   - javascript
-authors:
-  - weberstills
-  - riginoommen
+testimonials:
+  - quote: Everything is awesome!
+    author: gautam
+    authors:
+      - gautam
 mainpage: false
-draft: false
 ---
 Angular is an open-source web development framework that is used to create dynamic SPAs or Single Page Applications. It can be used for client-side(front-end) as well as server-side(back-end) rendering. Angular applications are primarily created using TypeScript which is a superset of JavaScript. Applications like Google Maps, Gmail, Google Drive, Netflix, GitHub, etc. are examples of 
 
