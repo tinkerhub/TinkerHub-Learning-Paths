@@ -1,5 +1,5 @@
 ---
-title: Android Development(Kotlin)
+title: Android Development(Kotlin)e
 date: 2021-08-04T05:16:58+05:30
 category: framework
 image: images/androiddevelopment.png
