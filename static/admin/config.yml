@@ -27,6 +27,43 @@ collections:
       - { label: "Image", name: "image", widget: "image", required: true }
       - { label: "Tags List (Comma separated)", name: "tags", widget: "list", allow_add: true, required: true }
       - { label: "Authors (Comma separated Github username list)", name: "authors", widget: "list", allow_add: true, required: true }
+      - label: "Path Type"
+        name: "pathType"
+        widget: "select"
+        required: false
+        multiple: true
+        options:
+          - frontend
+          - backend
+          - fullstack
+          - nativeApps
+          - crossPlatform
+          - gcp
+          - azure
+          - aws
+          - linux
+          - python
+          - go
+          - dbAndNetworking
+          - docker
+          - kubernetes
+          - architect
+          - engineer
+          - developer
+          - security
+          - networking
+          - ai
+          - arAndVr
+          - blockchain
+          - iot
+          - roboticsAndAutonmation
+          - unity
+          - unreal
+          - blender
+          - autodeskMaya
+          - csharp
+          - cpp
+          - javascript
       - { label: "mainpage", name: "mainpage", widget: "hidden", default: false }
       - { label: "draft", name: "draft", widget: "hidden", default: false }
       - { label: "Body", name: "body", widget: "markdown", required: true }
