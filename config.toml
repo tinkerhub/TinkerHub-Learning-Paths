@@ -6,6 +6,7 @@ theme = "tinkerhub"
 [taxonomies]
   category = "category"
   tag = "tags"
+  pathType = "pathTypes"
 enableEmoji = true
 pygmentsUseClasses = true
 #googleAnalytics = ""
