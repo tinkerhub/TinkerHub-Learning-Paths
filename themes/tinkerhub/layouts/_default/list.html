@@ -9,7 +9,11 @@
             <div class="center">
                 <h1>
                     {{ if .Data.Term }}
-                        Learning path for category "{{.Params.CategoryTitle}}"
+                        {{ if .Params.CategoryTitle }}
+                            Learning path for category "{{.Params.CategoryTitle}}"
+                        {{else}}
+                            Learning path for tag "{{.Data.Term}}"
+                        {{end}}
                     {{ else }}
                         All learning paths for {{.Title}}
                     {{ end }}
