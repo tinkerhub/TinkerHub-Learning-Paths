@@ -122,13 +122,6 @@ Programs that are created with C run very quickly.
 
 # Resources
 
-## Online Courses
-
-* [Introduction to C](http://./Check%20if%20there%20is%20a%20typo%20in%20x-special.DNS_PROBE_FINISHED_NXDOMAIN)
-* [C programming Online Class](http://./Check%20if%20there%20is%20a%20typo%20in%20x-special.DNS_PROBE_FINISHED_NXDOMAIN)
-* [Online C Certification Course](http://./Check%20if%20there%20is%20a%20typo%20in%20x-special.DNS_PROBE_FINISHED_NXDOMAIN)
-* [Advanced C programming](http://./Check%20if%20there%20is%20a%20typo%20in%20x-special.DNS_PROBE_FINISHED_NXDOMAIN)
-
 ## Blogs
 
 * [C Blog-C programming](https://www.c-lang.thiyagaraaj.com/archive/c-blog)
