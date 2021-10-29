@@ -3,7 +3,7 @@ title: Home
 date: 2021-04-12T01:01:00+05:30
 mainpage: true
 draft: false
-joinURL: https://join.tinkerhub.org/
+joinURL: https://www.redhat.com/en
 joinText: Join Us
 introTitle: TinkerHub Learning Paths
 ---
