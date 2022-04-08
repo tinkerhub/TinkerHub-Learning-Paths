@@ -7,8 +7,10 @@ tags:
   - c++
   - java
   - python
+  - JavaScript
 authors:
   - Cerin-Sara
+  - jose-jimmy
 mainpage: false
 draft: false
 ---
