@@ -87,6 +87,13 @@ Proficiency in any programming language is a must as it will ease most of your p
 * Data Structures and Algorithms. Aho, Ullman & Hopcroft
 * Classic Data Structure by Debasis Samanta
 
+## GitHub Repos
+* [The Algorithms](https://github.com/TheAlgorithms)
+* [Python](https://the-algorithms.com/language/python)
+* [Java](https://the-algorithms.com/language/java)
+* [JavaScript](https://the-algorithms.com/language/javascript)
+* [C++](https://the-algorithms.com/language/c-plus-plus)
+
 ## Youtube Channels
 
 * [Programming with Mosh](https://www.youtube.com/watch?v=BBpAmxU_NQo)
