@@ -1,6 +1,8 @@
 ---
 title: Android Development(Kotlin)
 date: 2021-08-04T05:16:58+05:30
+shortDescription: Android software development is the process by which
+  applications are created for devices running on Android OS.
 category: framework
 image: images/androiddevelopment.png
 tags:
