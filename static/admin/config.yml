@@ -22,6 +22,11 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string", required: true }
       - { label: "Publish Date", name: "date", widget: "datetime", required: true }
+      - { label: "Short Description",
+          name: "shortDescription",
+          pattern: ['.{0,100}', "Short description should be less than 100 characters"],
+          widget: "string",
+          required: false }
       - { label: "Category", name: "category", widget: "select", required: true, options: [
           "language","framework", "devops", "ai-ml", "other" ] }
       - { label: "Image", name: "image", widget: "image", required: true }
