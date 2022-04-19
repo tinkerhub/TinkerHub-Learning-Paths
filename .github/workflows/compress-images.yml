@@ -27,3 +27,5 @@ jobs:
           branch-suffix: timestamp
           commit-message: Compressed Images
           body: ${{ steps.calibre.outputs.markdown }}
+      - name: Keepalive workflow
+        uses: gautamkrishnar/keepalive-workflow@master
