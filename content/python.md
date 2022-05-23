@@ -58,6 +58,7 @@ Students can still choose PYTHON as their first 🥇 language, even without any 
 * [Python for beginners W3schools](https://www.w3schools.com/python/)
 * [Python beginners- Freecode camp](https://www.freecodecamp.org/news/the-python-guide-for-beginners/)
 * [Python programiz](https://www.programiz.com/python-programming)
+* [Python Scaler Topics](https://www.scaler.com/topics/python/)
 
 **Youtube videos**
 
