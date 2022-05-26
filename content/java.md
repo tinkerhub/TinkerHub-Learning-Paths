@@ -86,6 +86,8 @@ xvii. and swings
 * [Java Tutorial](https://www.w3schools.com/java/) - w3schools
 * [Java Tutorial](https://www.javatpoint.com/java-tutorial) - Javatpoint
 * [Java tutorial](https://www.udemy.com/course/java-tutorial/) - Java fundamentals
+* [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
+
 
 ## APPS 🚀
 
