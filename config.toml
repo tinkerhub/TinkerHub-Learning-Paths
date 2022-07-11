@@ -11,4 +11,4 @@ enableEmoji = true
 pygmentsUseClasses = true
 #googleAnalytics = ""
 [outputs]
-  home =["HTML", "JSON"]
+  home =["HTML", "JSON", "RSS"]
