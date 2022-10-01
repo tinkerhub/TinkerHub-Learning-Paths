@@ -2,7 +2,7 @@
 title: Data Structures and Algorithm
 date: 2021-08-04T05:16:58+05:30
 category: other
-image: images/dsa.jpg
+image: https://imgs.search.brave.com/jv3E_1nTC5ZIbDobyZzepfPf6uQdhkCc4KclcqJa5fw/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5K/MzhuWVpVN2d6dS00/bFFtdGpsU1V3SGFF/SyZwaWQ9QXBp
 tags:
   - c++
   - java
@@ -60,6 +60,11 @@ Proficiency in any programming language is a must as it will ease most of your p
   * Merge sort
   * Quick sort
   * Bubble sort
+*﻿Complexity of an Algorithm
+
+ ﻿ *Best case complexity-Omega notation
+ ﻿ *Average case complexity-Theta notation
+ ﻿ *Worst case complexity-Big O notation
 
 ## Online Courses 💻
 
