@@ -9,7 +9,7 @@ category: language
 # Remove the comments after reading
 # add image to /static folder eg: static/images/learning-pathname.png
 # note: Don't prefix with /static/
-image: images/learning-path-name.png
+image: images/swift-programming-language.png
 # Specifies weather the file is a page (false for learning paths)
 mainpage: false
 tags:
