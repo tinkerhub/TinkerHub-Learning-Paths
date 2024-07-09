@@ -21,6 +21,7 @@ tags:
 authors:
 - shaheem-pp
 ---
+![](https://developer.apple.com/swift/images/swift-og.png)
 Swift, a programming language created by Apple, has revolutionized the development of apps for Apple devices like iPhones, iPads, and Macs. Introduced in 2014, Swift replaced the older Objective-C language, offering a more modern, faster, and safer coding experience. Today, Swift is widely USED by the Apple developer community for its ease of use and efficiency in app development.
 
 ## Why learn Swift ❓
@@ -101,7 +102,7 @@ Here are more valuable resources to aid your learning journey:
 
 For those following Swiftful Thinking, here’s a useful milestone roadmap to guide your progress:
 
-!https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/2147634725/themes/2152605297/downloads/3e81b41-1246-3d34-50b8-7c4e438782_SwiftfulThinkingRoadmap.png
+![](https://s3.amazonaws.com/kajabi-storefronts-production/file-uploads/sites/2147634725/themes/2152605297/downloads/3e81b41-1246-3d34-50b8-7c4e438782_SwiftfulThinkingRoadmap.png)
 
 *Credits: Image created by the author of Swiftful Thinking.*
 
