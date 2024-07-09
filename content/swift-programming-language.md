@@ -23,7 +23,7 @@ authors:
 ---
 Swift, a programming language created by Apple, has revolutionized the development of apps for Apple devices like iPhones, iPads, and Macs. Introduced in 2014, Swift replaced the older Objective-C language, offering a more modern, faster, and safer coding experience. Today, Swift is widely embraced by the Apple developer community for its ease of use and efficiency in app development.
 
-## Why learn X ❓
+## Why learn Swift ❓
 Swift is a powerful and intuitive programming language created by Apple. It’s used for developing applications across all Apple platforms, including iOS, macOS, watchOS, and tvOS. Learning Swift opens up a vast range of opportunities in the world of Apple development.
 
 Swift is primarily used for:
@@ -82,7 +82,7 @@ Depending on your choice, here are some resources to help you dive deeper into e
 - [100-days-of-swiftui](https://www.hackingwithswift.com/100/swiftui): A continuation of the 100 Days of Swift challenge, focusing on SwiftUI.
 - [Free SwiftUI Courses by Swiftful-Thinking](https://www.swiftful-thinking.com/store): Free courses to get you started with SwiftUI.
 
-## ## Additional Learning Resources
+## Additional Learning Resources
 
 Here are more valuable resources to aid your learning journey:
 
