@@ -21,17 +21,17 @@ tags:
 authors:
 - shaheem-pp
 ---
-Swift, a programming language created by Apple, has revolutionized the development of apps for Apple devices like iPhones, iPads, and Macs. Introduced in 2014, Swift replaced the older Objective-C language, offering a more modern, faster, and safer coding experience. Today, Swift is widely embraced by the Apple developer community for its ease of use and efficiency in app development.
+Swift, a programming language created by Apple, has revolutionized the development of apps for Apple devices like iPhones, iPads, and Macs. Introduced in 2014, Swift replaced the older Objective-C language, offering a more modern, faster, and safer coding experience. Today, Swift is widely USED by the Apple developer community for its ease of use and efficiency in app development.
 
 ## Why learn Swift ❓
-Swift is a powerful and intuitive programming language created by Apple. It’s used for developing applications across all Apple platforms, including iOS, macOS, watchOS, and tvOS. Learning Swift opens up a vast range of opportunities in the world of Apple development.
+Swift is a powerful and intuitive programming language created by Apple. It’s used for developing applications across all Apple platforms, including iOS, macOS, watchOS, tvOS and visionOS. Learning Swift opens up a vast range of opportunities in the world of Apple development.
 
 Swift is primarily used for:
-- Developing mobile apps for iOS and iPadOS.
+- Developing apps for iOS, iPadOS, watchOS, tvOS and visionOS.
 - Creating desktop applications for macOS.
-- Building software for watchOS and tvOS.
 - Backend development using server-side Swift.
-- Future Scope and Emerging Technologies with Swift
+
+Future Scope and Emerging Technologies with Swift
 - Swift continues to evolve, with Apple regularly introducing updates and new features. 
 
 The language is increasingly being used in:
@@ -43,7 +43,6 @@ The language is increasingly being used in:
 
 
 ## Install and setup stuffs 🚧
-Install and Setup Stuffs 🚧
 For learning Swift, you need to first set up the following things:
 
 ✔️ Tools and Devices Must Have
@@ -56,7 +55,7 @@ For learning Swift, you need to first set up the following things:
 - You don't need a physical iPhone or iPad initially; the Xcode simulator is sufficient for early development.
 
 
-## First, Start from Seift Basics 📑
+## First, Start from Swift Basics 📑
 Embarking on your journey to become an Apple developer starts with learning Swift. Fortunately, there are numerous resources available to help you master this language. Here are some recommended starting points:
 
 - [Swiftful Thinking YouTube Playlist](https://youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB&si=ZSevg7A1BN-PzF3Q): A curated playlist offering comprehensive video tutorials.
@@ -98,6 +97,7 @@ Here are more valuable resources to aid your learning journey:
 - [Learn Swift - Learn X in Y minutes](https://learnxinyminutes.com/docs/swift/)
 - [Sean Allen | YouTube](https://www.youtube.com/c/SeanAllen)
 - [Learn Code Online - Free SwiftUI Crash Course](https://courses.learncodeonline.in/learn/iOS-13-Swift-UI-Crash-Course)
+- [Apple developer documentation](https://developer.apple.com/documentation/)
 
 For those following Swiftful Thinking, here’s a useful milestone roadmap to guide your progress:
 
