@@ -1,25 +1,23 @@
 ---
 title: Swift Programming Language
 date: 2024-07-09T11:29:51-04:00
-draft: false
-# Todo: Please remove all the comments below before opening the pull request
-# Chose a category from any of the following
-# language/framework/devops/ai-ml/other
+shortDescription: Swift is a high-level general-purpose, multi-paradigm,
+  compiled programming language created by Chris Lattner in 2010 for Apple Inc.
+  and maintained by the open-source community.
 category: language
-# Remove the comments after reading
-# add image to /static folder eg: static/images/learning-pathname.png
-# note: Don't prefix with /static/
 image: images/swift-programming-language.png
-# Specifies weather the file is a page (false for learning paths)
-mainpage: false
 tags:
-- swift
-- swiftui
-- uikit
-- ios
-- macos
+  - swift
+  - swiftui
+  - uikit
+  - ios
+  - macos
 authors:
-- shaheem-pp
+  - shaheem-pp
+pathType:
+  - nativeApps
+mainpage: false
+draft: false
 ---
 ![](https://developer.apple.com/swift/images/swift-og.png)
 Swift, a programming language created by Apple, has revolutionized the development of apps for Apple devices like iPhones, iPads, and Macs. Introduced in 2014, Swift replaced the older Objective-C language, offering a more modern, faster, and safer coding experience. Today, Swift is widely USED by the Apple developer community for its ease of use and efficiency in app development.
