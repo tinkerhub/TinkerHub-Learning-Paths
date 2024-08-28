@@ -12,7 +12,7 @@ authors:
 mainpage: false
 draft: false
 ---
-Git and GitHub are not the same things. Git is an open-source, version control tool 🧰 created in 2005 by developers working on the Linux operating system 🖥️; GitHub is a company 🏛️ founded in 2008 that makes tools that integrate with git. You do not need GitHub to use git, but you cannot use GitHub without using Git. GitHub has many other alternatives, such as GitLab, BitBucket, and “host-your-own” solutions such as gogs and gittea. All of these are referred to in git-speak as “remotes”, and all are completely optional. You do not need to use a remote to use git, but it will make sharing your code with others easier.
+Git and GitHub are not the same things. Git is an open-source, version control tool 🧰 created in 2005 by developers working on the Linux kernel 🖥️; GitHub is a company 🏛️ founded in 2008 that makes tools that integrate with git. You do not need GitHub to use git, but you cannot use GitHub without using Git. GitHub has many other alternatives, such as GitLab, BitBucket, and “host-your-own” solutions such as gogs and gittea. All of these are referred to in git-speak as “remotes”, and all are completely optional. You do not need to use a remote to use git, but it will make sharing your code with others easier.
 
 ## PREREQUISITES 🔍
 
