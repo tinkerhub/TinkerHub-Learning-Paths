@@ -1,72 +1,167 @@
 ---
 title: CyberSecurity
-date: 2021-08-06T13:35:55+05:30
+date: 2025-03-15T15:22:37.477Z
 category: other
-image: images/CyberSecurity.jpg
+image: https://marvel-b1-cdn.bc0a.com/f00000000100045/www.elmhurst.edu/wp-content/uploads/2020/03/cybersecurity-vs-information-security-illustration.jpg
 tags:
-  - cyber
-  - security
   - cybersecurity
+  - Ethical-Hacking
+  - Blue-Teaming
+  - Penetration-testing
 authors:
   - gauthamkrishna1312
+  - potato-pzy
+pathType:
+  - security
 mainpage: false
 draft: false
 ---
-Cybersecurity is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the misdirection of the services they provide.This field is becoming increasingly significant due to the increased reliance on computer systems, the internet and wireless networks standards such as Bluetooth and Wi-Fi, and due to the growth of ”smart” devices, including smartphones, television, and the various devices that constitute the "internet of things". Owing to its complexity, both in terms of politics and technology, cybersecurity is also one of the major challenges in the contemporary world.
+## What is Cybersecurity ?
+
+Cybersecurity is the practice of protecting computers, networks and data from attacks damages or unauthorized access from malicious intent users. Cybersecurity is rather a package of strategies, technologies and best practices that would help in safeguarding information and infrastructure of an organization. Its an every evolving field in which attackers and defenders are getting better day by day 
 
 ## Prerequisites
 
-You can learn cybersecurity as a complete beginner. You should familiarise to use computers and it is good to have knowledge in Networking,IT,Web technologies and should need a mindset to self learn new things. Always connect with cyber security experts and up to date with news related to cyber security
+Cybersecurity is one of those field which has the lowest entry barrier no matter you background you can easily grasp these contents if you have a passion for learning new things, To be stated some of those are 
+
+1. Basic computer know-how
+2. Networking Fundamentals such as TCP/IP protocol, OSI Model etc.
+3. B﻿asic programming/scripting knowledge 
+4. A﻿ mind to learn continuously, as cybersecurity is evolving day by day if you wont catch up with new things you would be left back 
 
 ## Topics To Learn
 
-1. Introduction
+I﻿f you wanna dive into cybersecurity these are the topics that you should look for .
 
-   * Why do we need cybersecurity
-   * The CIA triad
-   * Vulnerability,Threat and Risk
-2. Cybersecurity Components
+1. #### Operating system security 
 
-   * Packet structure
-   * Network architecture
-   * Addressing
-   * Firewalls
-3. Cybersecurity Framework
+   * W﻿indows hardening 
 
-   * NIST Cybersecurity Framework
-4. Networking
+     * G﻿roup policy, Windows defender ATP, Patch management
+   * L﻿inux Security 
 
-   * Network architecture
-   * Net working tools
-5. NMAP
+     * S﻿ecure configuration
+     * F﻿ile permissions
+     * a﻿cess control
+2. #### Network Security 
 
-   * About NMap
-   * Installation
-   * Types of Scans using NMaps
-6. Ethical Hacking
+   * F﻿irewall configurations
 
-   * About ethical hacking
-   * Ethical hacking using kali linux
-7. Cryptography
+     * P﻿acket vs stateful inspection
+     * N﻿ext gen Firewall
+     * F﻿irewall Configurations
+   * Intrusion Detection and prevention system 
 
-   * What is cryptography
-   * Classification of cryptography
-   * Working of cryptographic algorithms
-   * RSA (Rivest Shamir Adleman)
-8. Steganography
+     * S﻿ignature vs anomaly based
+     * I﻿nstallation & Configuration
+   * V﻿PN 
 
-   * What is steganography
-   * Basic steganographic model
-   * LSB Steganography
-   * Steganography tools
-9. DDOS
+     * T﻿ypes of VPN
+     * R﻿emote acess configurations
+   * W﻿ireless Security 
 
-   * What is DOS and DDOS attack
-   * How does it work
-   * Types of DDOS attack
+     * W﻿ireless security hardening
+     * W﻿ireless intrusion detection
+3. #### W﻿eb Application Security 
+
+   * O﻿WASP TOP 10 
+
+     * T﻿op 10 vulnerabilities 
+     * S﻿ecure coding practises
+   * A﻿PI Security 
+
+     * T﻿oken based authentication
+     * R﻿ate limiting and logging
+   * W﻿eb server security 
+
+     * S﻿SL/TLS Configuration and certificate management
+     * S﻿erver configuration for best security posture
+4. #### C﻿ryptography 
+
+   * Encryption Algorithms 
+
+     * S﻿ymmetric encription
+     * A﻿ssymetric encyption 
+   * H﻿ashing 
+
+     * S﻿HA 2, SHA 3 
+     * D﻿igital Signature 
+5. #### P﻿enetration testing & Ethical Hacking
+
+   * R﻿econnaissance
+
+     * IF﻿ootprinting, OSINTncide
+     * N﻿etwork Mapping 
+   * E﻿numaration
+
+     * N﻿etwork scanning 
+     * V﻿ulnerability scanning
+   * E﻿xploitation
+
+     * M﻿etasploit framework
+     * O﻿WASP ZAP
+   * P﻿ost Exploitation
+
+     * P﻿rivilage escalations
+     * B﻿ackdoor creation
+   * C﻿overing Tracks
+
+     * L﻿og clearing
+     * T﻿Imestamp tampering
+6. #### I﻿ncident response & Digital Forensics
+
+   * I﻿ncident response framework 
+
+     * N﻿ist Framework 
+     * Incident response plans 
+   * F﻿orensics 
+
+     * D﻿isk Imaging and memmory forensics 
+     * L﻿og analysis and timeline reconstruction
+7. #### S﻿ecurity operation & Monitoring 
+
+   * S﻿ecurity Incident and event management
+
+     * L﻿og aggregation, correlation and alerting
+     * i﻿ncident detectionn and response integration
+   * Threat Hunting 
+
+     * P﻿rocative hunting & behaviour analysis
+     * T﻿hreat monitoring and visualization using ELK, Splunk etc.
+   * E﻿ndpoint monitoring & Response ( EDR )
+
+     * M﻿onitoring for anomalies in endpoints 
+     * A﻿utomated contamination and remediation
+8. #### C﻿loud Security
+
+   * C﻿loud Infrastructure Hardening:
+
+     * S﻿ecuring AWS< Azure and GCP enviornments.
+     * I﻿dentity acess management ( IAM )
+   * Container security :
+
+     * S﻿ecuring Kubernetes and docker deployments
+     * C﻿ontainer scanning and runtime monitoring
+   * S﻿erverless Security 
+
+     * R﻿isk and mitigation strategies for serverless computing architecture 
+     * S﻿ecurity functions and API gateways 
+
+
 
 ## Resources
 
+* R﻿eferences
+
+  * <https://docs.paloaltonetworks.com>
+  * <https://www.snort.org/>
+  * [https://www.wi-fi.org/](\https://www.wi-fi.org/)
+  * <https://owasp.org/Top10/>
+  * <https://nginx.org/en/docs/>
+  * <https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines>
+  * <https://owasp.org/www-project-web-security-testing-guide/>
+  * <https://docs.rapid7.com/metasploit/>
+  * <https://www.google.com/search?q=https://owasp.org/www-project-zap/&authuser=2>
 * Online Courses
 
   * <https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/>
