@@ -2,7 +2,7 @@
 title: CyberSecurity
 date: 2025-03-15T15:22:37.477Z
 category: other
-image: https://marvel-b1-cdn.bc0a.com/f00000000100045/www.elmhurst.edu/wp-content/uploads/2020/03/cybersecurity-vs-information-security-illustration.jpg
+image: images/cybersecurity-vs-information-security-illustration.webp
 tags:
   - cybersecurity
   - Ethical-Hacking
