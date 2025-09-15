@@ -28,21 +28,26 @@ React is a free and open-source front-end JavaScript library for building user i
 ## Topics to learn 🚀
 
 * Basic Concepts
-* Create React App
+* VITE
+* SPA vs MPA
+* CSR vs SSR
 * JSX
 * Rendering Elements
 * Components
 * Props vs State
 * Component Life Cycle
+* Class based components vs Function based components
 * Conditional Rendering
 * Lists and Keys
 * Forms
 * Composition vs Inheritance
-* Basic Hooks
-* Advanced Topics
-* Code Splitting
+* Basic Hooks ( useState, useEffect, useRef )
 * Context
+* Advanced Hooks ( useReducer , useContext )
+* Code Splitting
+* useMemo, useCallback
 * Error Boundaries
+* React Reconciliation
 * Fiber Architecture
 * Fragments
 * High Order Components
@@ -50,18 +55,24 @@ React is a free and open-source front-end JavaScript library for building user i
 * Portals
 * Refs
 * Render Props
+* React Router
+* Dynamic Routes
+* Outlet
+* State Management Library
 
 ## Documentation ✔️
 
 * [Getting Started with React](https://reactjs.org/docs/getting-started.html)
 * [React.js cheatsheet](https://devhints.io/react)
+* [React Router](https://reactrouter.com/home)
 
 ## Courses 📝
 
 * Egghead - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 * Scrimba - [Learn React](https://scrimba.com/learn/learnreact)
 * freeCodeCamp - [Introduction to the React](https://www.freecodecamp.org/learn/front-end-libraries/react/)
-
+* Odin project - [Full Stack JS - React Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
+  
 ## Books 📖
 
 * [Build your own React](https://pomb.us/build-your-own-react/)
