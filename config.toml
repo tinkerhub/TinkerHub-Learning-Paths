@@ -1,14 +1,19 @@
 baseURL = "/"
 title = "TinkerHub Learning Paths"
 theme = "tinkerhub"
-[Params]
-  commentsRepo="tinkerhub/TinkerHub-Learning-Paths-Comments"
+enableEmoji = true
+
+[params]
+  commentsRepo = "tinkerhub/TinkerHub-Learning-Paths-Comments"
+
 [taxonomies]
   category = "category"
   tag = "tags"
   pathType = "pathTypes"
-enableEmoji = true
-pygmentsUseClasses = true
-#googleAnalytics = ""
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
 [outputs]
-  home =["HTML", "JSON", "RSS"]
+  home = ["HTML", "JSON", "RSS"]
