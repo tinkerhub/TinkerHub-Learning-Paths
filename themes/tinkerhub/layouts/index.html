@@ -5,12 +5,12 @@
   </head>
   <body class="index">
     {{ partial "header.html" . }}
+    <main>
     <section class="featured">
       <div class="center">
         {{ partial "intro.html" . }}
 
         <h1>Curated Learning Paths</h1>
-        <h2></h2>
 
         {{range .Site.Taxonomies.category}}
 
@@ -32,6 +32,7 @@
         </div>
         {{end}}
     </section>
+    </main>
 
     {{ partial "footer.html" . }}
   </body>

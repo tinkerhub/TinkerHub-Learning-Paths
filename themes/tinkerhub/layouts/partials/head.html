@@ -1,14 +1,19 @@
 <title>{{ .Title }} | {{ .Site.Title }}</title>
 
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-<meta name="copyright" content="{{ .Site.Copyright }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#1e375a">
+{{ with .Site.Copyright }}<meta name="copyright" content="{{ . }}">{{ end }}
 
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "logo.png" | absURL }}">
-<link rel="stylesheet" href="{{ "index.css" | absURL }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="{{ "index.css" | absURL }}">
 
 <!-- SEO Tags -->
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
 {{ if .Title }}
 <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}">
 <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
@@ -19,6 +24,8 @@
 <meta itemprop="description" content="{{ .Params.shortDescription }}">
 <meta property="og:description" content="{{ .Params.shortDescription }}">
 <meta name="twitter:description" content="{{ .Params.shortDescription }}">
+{{ else }}
+<meta name="description" content="Curated learning paths for various technologies by TinkerHub">
 {{ end }}
 {{ if .Params.image }}
 <meta name="twitter:image" content="{{ .Params.Image | absURL }}">
