@@ -2,7 +2,7 @@
 title: Game Development
 date: 2021-04-12T05:12:04+05:30
 category: framework
-image: images/unity-tumbnail.jpg
+image: images/unity-tumbnail.webp
 tags:
   - game
   - unity

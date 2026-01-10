@@ -2,7 +2,7 @@
 title: Python
 date: 2021-08-05T05:12:58+05:30
 category: language
-image: images/python.png
+image: images/python.webp
 tags:
   - programming
   - python

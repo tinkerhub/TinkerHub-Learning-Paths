@@ -2,7 +2,7 @@
 title: C programming
 date: 2021-08-06T13:35:55+05:30
 category: language
-image: images/C.jpg
+image: images/C.webp
 tags:
   - c
   - programming

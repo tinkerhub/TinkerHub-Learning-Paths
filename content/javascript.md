@@ -2,7 +2,7 @@
 title: JavaScript
 date: 2021-08-15T22:03:30.856Z
 category: language
-image: images/javascript.jpg
+image: images/javascript.webp
 tags:
   - frontend
   - backend

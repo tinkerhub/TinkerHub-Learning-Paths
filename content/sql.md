@@ -2,7 +2,7 @@
 title: SQL
 date: 2021-08-04T05:16:58+05:30
 category: language
-image: images/SQL.jpg
+image: images/SQL.webp
 tags:
   - sql
 authors:

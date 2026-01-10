@@ -2,7 +2,7 @@
 title: Frontend Web Development 🔮
 date: 2021-04-12T05:01:37+05:30
 category: framework
-image: images/fe.png
+image: images/fe.webp
 tags:
   - web
   - frontend

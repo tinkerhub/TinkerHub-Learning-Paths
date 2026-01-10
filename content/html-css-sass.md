@@ -2,7 +2,7 @@
 title: HTML, CSS, SASS
 date: 2021-08-04T05:16:58+05:30
 category: language
-image: images/html-css-sass.jpg
+image: images/html-css-sass.webp
 tags:
   - web
   - frontend

@@ -2,7 +2,7 @@
 title: Django for Web Development🐍
 date: 2021-04-12T02:09:49+05:30
 category: framework
-image: images/Django-logo.png
+image: images/Django-logo.webp
 tags:
   - python
   - django

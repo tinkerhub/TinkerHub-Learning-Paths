@@ -2,7 +2,7 @@
 title: Internet of Things (IoT)
 date: 2021-08-04T05:26:58+05:30
 category: other
-image: images/TLF_IoT_Cover.png
+image: images/TLF_IoT_Cover.webp
 tags:
   - iot
   - arduino

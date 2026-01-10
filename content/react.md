@@ -2,7 +2,7 @@
 title: React
 date: 2021-08-04T05:16:58+05:30
 category: framework
-image: images/react.jpg
+image: images/react.webp
 tags:
   - frontend
   - javascript

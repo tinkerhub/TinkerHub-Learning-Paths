@@ -2,7 +2,7 @@
 title: Git and GitHub
 date: 2021-08-04T05:20:58+05:30
 category: other
-image: images/gitandgithub.png
+image: images/gitandgithub.webp
 tags:
   - git
   - github

@@ -2,7 +2,7 @@
 title: Testing, CI/CD
 date: 2021-08-05T05:16:58+05:30
 category: devops
-image: images/testing-ci-cd.jpg
+image: images/testing-ci-cd.webp
 tags:
   - devops
   - version-control

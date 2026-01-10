@@ -2,7 +2,7 @@
 title: Data Analysis 📈 using Python 🐍
 date: 2021-04-12T13:35:55+05:30
 category: other
-image: images/python.jpeg
+image: images/python.webp
 tags:
   - python
   - data

@@ -5,7 +5,7 @@ shortDescription: Swift is a high-level general-purpose, multi-paradigm,
   compiled programming language created by Chris Lattner in 2010 for Apple Inc.
   and maintained by the open-source community.
 category: language
-image: images/swift-og.png
+image: images/swift-og.webp
 tags:
   - swift
   - swiftui

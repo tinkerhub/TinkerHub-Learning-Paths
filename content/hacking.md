@@ -2,7 +2,7 @@
 title: Hacking and Bug Bounty
 date: 2021-04-12T05:16:58+05:30
 category: other
-image: images/hacker.jpg
+image: images/hacker.webp
 tags:
   - hacking
   - bounty

@@ -2,7 +2,7 @@
 title: Data Structures and Algorithm
 date: 2021-08-04T05:16:58+05:30
 category: other
-image: images/dsa.jpg
+image: images/dsa.webp
 tags:
   - c++
   - java

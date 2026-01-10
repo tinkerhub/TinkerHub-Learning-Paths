@@ -2,7 +2,7 @@
 title: Angular
 date: 2021-08-04T05:16:58+05:30
 category: framework
-image: images/angular.png
+image: images/angular.webp
 tags:
   - frontend
   - javascript

@@ -2,7 +2,7 @@
 title: React Native
 date: 2021-08-05T05:16:58+05:30
 category: framework
-image: images/react-native.jpg
+image: images/react-native.webp
 tags:
   - mobile
   - javascript

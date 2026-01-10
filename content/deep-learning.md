@@ -2,7 +2,7 @@
 title: Deep Learning
 date: 2021-08-04T05:16:58+05:30
 category: ai-ml
-image: images/deep-learning.jpg
+image: images/deep-learning.webp
 tags:
   - deep
   - learning

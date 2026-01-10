@@ -2,7 +2,7 @@
 title: Data Engineering
 date: 2021-05-09T02:28:28+05:30
 category: other
-image: images/data-engineering.jpg
+image: images/data-engineering.webp
 tags:
   - data
   - engineering

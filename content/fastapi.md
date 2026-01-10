@@ -2,7 +2,7 @@
 title: FastAPI
 date: 2021-08-04T05:16:59+05:30
 category: framework
-image: images/fastapi.png
+image: images/fastapi.webp
 tags:
   - web
   - python

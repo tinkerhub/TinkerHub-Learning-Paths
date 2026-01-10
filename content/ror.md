@@ -2,7 +2,7 @@
 title: Ruby on Rails
 date: 2021-08-04T05:16:58+05:30
 category: language
-image: images/ruby-on-rails.jpg
+image: images/ruby-on-rails.webp
 tags:
   - python
   - ruby

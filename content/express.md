@@ -2,7 +2,7 @@
 title: Express.js
 date: 2021-08-04T05:16:58+05:30
 category: framework
-image: images/ExpressJS.jpg.png
+image: images/ExpressJS.jpg.webp
 tags:
   - backend
   - javascript

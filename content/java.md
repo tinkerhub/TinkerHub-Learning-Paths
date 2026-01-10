@@ -2,7 +2,7 @@
 title: Java
 date: 2021-08-15T13:52:35.621Z
 category: language
-image: images/java.jpg
+image: images/java.webp
 tags:
   - python
   - java

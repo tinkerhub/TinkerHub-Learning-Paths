@@ -2,7 +2,7 @@
 title: Flask
 date: 2021-08-05T05:16:58+05:30
 category: framework
-image: images/flask.jpg
+image: images/flask.webp
 tags:
   - python
   - web

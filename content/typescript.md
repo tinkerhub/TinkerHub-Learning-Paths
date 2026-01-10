@@ -2,7 +2,7 @@
 title: Typescript
 date: 2021-08-05T05:16:58+05:30
 category: language
-image: images/typescript.jpg
+image: images/typescript.webp
 tags:
   - frontend
   - javascript

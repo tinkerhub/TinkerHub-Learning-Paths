@@ -2,7 +2,7 @@
 title: Flutter
 date: 2021-04-12T02:32:34+05:30
 category: language
-image: images/flutter.jpg
+image: images/flutter.webp
 tags:
   - dart
   - android

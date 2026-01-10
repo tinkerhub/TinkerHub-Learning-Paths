@@ -2,7 +2,7 @@
 title: Machine Learning
 date: 2021-04-12T05:26:57+05:30
 draft: false
-image: images/ml.jpg
+image: images/ml.webp
 category: ai-ml
 mainpage: false
 tags: ["machine-learning", "ai"]

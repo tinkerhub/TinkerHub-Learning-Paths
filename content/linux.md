@@ -2,7 +2,7 @@
 title: Linux
 date: 2021-08-15T09:42:28.767Z
 category: other
-image: images/linux.jpg
+image: images/linux.webp
 tags:
   - linux
 authors:

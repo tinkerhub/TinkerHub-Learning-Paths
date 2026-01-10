@@ -2,7 +2,7 @@
 title: Go Lang
 date: 2021-08-04T05:12:58+05:30
 category: language
-image: images/golang.jpg
+image: images/golang.webp
 tags:
   - go
 authors:

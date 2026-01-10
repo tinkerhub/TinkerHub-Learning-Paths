@@ -2,7 +2,7 @@
 title: Kubernetes
 date: 2021-08-06T05:16:58+05:30
 category: devops
-image: images/kubernetes.jpg
+image: images/kubernetes.webp
 tags:
   - devops
   - kubernetes
