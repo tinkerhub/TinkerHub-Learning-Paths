@@ -31,12 +31,12 @@ You can make the data more accessible and easier-to-use by means of creating var
 ### 4. **Extended packs of analytics tools available** 🔧🔨
 
 Straight after you gather data, you’re to handle it. Python suits this purpose supremely well. So, seeking for the perfect tool for complex data processing or self-service analytics, we can’t but mention Python’s built-in data analytics tools.
-<br /> <br />
+
 
 # Future and scope of the field 🔮
 
 As companies are becoming more tech-driven and fast-paced now, data analysis professional are already playing an increasingly crucial role in businesses. Both startups and tech giants in India are adding data analysts to their workforce who are able of recording, analyzing and dissecting data to drive efficient decision-making.
-<br /><br />
+
 
 # Install and setup (Optional) 🚧
 
@@ -45,7 +45,7 @@ For running the tools for data analysis you have two options:
 1. **Anaconda and Jupyter Notebooks**
 2. **Google Collaboratory**
    We've given the instructions for 1️⃣ below, because there's no setting up to do for 2️⃣!!
-   <br />
+
 
 ## Install Anaconda 🐍
 
@@ -59,7 +59,7 @@ In order to keep the size of the download small, we actually use a minimum set o
 
 Not on the system with that variant or needed another version? Check out the conda documantation [at this link](https://docs.conda.io/en/latest/miniconda.html).
 Note: It's easiest just to use Anaconda's defaults in the installer. You don't have to change anything unless you're sure you want something different.
-<br />
+
 
 ## Set up your environment 🌆
 
@@ -68,23 +68,21 @@ Check out the environment files for windows and osx that we've given in this sub
 #### Once that's done, open the command line by doing the following:
 
 Windows - Hit "Start" and then type "Command Prompt" and use that terminal.
-<br />
+
 
 OSX - Type `Cmd+Space` and then enter Terminal in the search box to open the terminal.
 
-<br />
 
 #### Run the following commands, which will install the package and put you in the tutorial environment.
 
-<br />
 
 `conda env create -f <PATH_TO_ENVIRONMENT.YML>`
 
-* You'll need to replace <PATH_TO_ENVIRONMENT.YML> with the actual path where the file was downloaded.
+* You'll need to replace `<PATH_TO_ENVIRONMENT.YML>` with the actual path where the file was downloaded.
 
-For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. <br />
-For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. <br />
-You'll have to replace <USERNAME> with your username on your machine.
+For OSX, that's often `(/Users/<USERNAME>/Downloads/environment.yml)`. 
+For Windows, it is usually `C:/Users/<USERNAME>/Downloads/environment.yml`. 
+You'll have to replace `<USERNAME>` with your username on your machine.
 
 That will download all the set of packages that are commonly used for data science in Python. When it finishes, you can activate the environment with the following command:
 
@@ -92,7 +90,7 @@ Windows - `activate tutorial`
 
 OSX - `source activate tutorial`
 
-<br />
+
 
 ## Run the jupyter notebook! 📓
 
@@ -105,30 +103,26 @@ In the file browser, find where you have a Jupyter notebook. **Check out the mat
 
 ### Click on one of the notebook (*.ipynb) files to get started!
 
-<br />
 
 ## Stop the notebook 🛑
 
 Hit `Ctrl+c` to stop the Jupyter notebook server running on your machine. (Make sure to use `Ctrl+s` in the notebook to save it first!)
 
-<br />
 
 ## Leave the tutorial environment 🚶‍♀️
 
 * Windows: `deactivate tutorial`
 * osx: `source deactivate tutorial`
 
-<br /><br />
 
 # Now let's see the curriculum!
 
 Let's check out what you're gonna learn throughout this path 🧘‍♀️🧘‍♂️
 
-<br />
 
 # 1. Let's start with numpy #️⃣
 
-<img alt="numpy" src="https://numpy.org/images/logos/numpy.svg" width=100>
+![numpy](https://numpy.org/images/logos/numpy.svg)
 
 So we'll start off with numpy, a highly useful python module for numerical analysis of data and arrays
 
@@ -137,11 +131,10 @@ So we'll start off with numpy, a highly useful python module for numerical analy
 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numpy-array-operations.ipynb)
 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/numerical-computing-with-numpy.ipynb)
 
-<br />
 
 # 2. Pandas 🐼
 
-<img alt="pandas" src="https://pandas.pydata.org/static/img/pandas_white.svg" width=100>
+![pandas](https://pandas.pydata.org/static/img/pandas_white.svg)
 
 Pandas is another useful python module in reading and handling data 💻
 
@@ -158,7 +151,7 @@ Things you'll learn here are:
 
 💡 [Resource](https://github.com/shaji-stark/TinkerHub-Learning-Paths/blob/main/learning/Data%20Analysis%20using%20Python/reference/pandas-data-analysis.ipynb)
 
-<br />
+
 
 ## Matplotlib 🗺 and Seaborn 🌊
 
@@ -170,7 +163,6 @@ Things you'll learn here are:
 2. **Creating Scatter plot, Box plot, Histogram & Pie chart with Matplotlib module**
 3. **Distribution plots and Categorical Plots with Seaborn Module**
 
-<br />
 
 ## More on data analysis 👨‍🔬
 
@@ -179,13 +171,11 @@ Finally we'll be going through some types of data analysis. Here you'll be learn
 1. **Univariate,Bivariate and MultiVariate Analysis**
 2. **Exploratory Data Analysis ( EDA ) on a Dataset covering all the previously taught topics**
 
-<br /><br />
 
 ## Handling errors & finding solutions 🕵️‍♀️
 
 * Finding bugs 🐛 may be considered as comparatively easier since execution stops right when an error is encountered.
 * As they say, "help with always be found for those who ask for it", you'll find a large and vast community online to clear your doubts and help you with bugs and fixes. You'll find solutions in stackoveflow or you can always clarify doubts in our discord server!
 
-<br /><br />
 
 ### Happy learning ;)

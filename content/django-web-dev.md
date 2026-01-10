@@ -17,8 +17,8 @@ Django is a Python-based free and open-source web framework that follows the mod
 
 ## Why learn Django ❓
 
-Django is a popular web framework built on top of python. It helps programmers rapidly create maintainable and flexiable web applications powered by an SQL Database. <br>
-<br>
+Django is a popular web framework built on top of python. It helps programmers rapidly create maintainable and flexiable web applications powered by an SQL Database. 
+
 Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support.
 
 ## Install and setup stuffs 🚧
@@ -45,9 +45,9 @@ Thus, it is better to run apps within independent Python virtual environments wh
 ### Install Python 🌟
 
 Being a Python Web framework, Django requires Python.
-<br>
+
 What version of Python should be used? 😯
-<br>
+
 The python version supported by the your target [django release](https://docs.djangoproject.com/en/3.1/faq/install/#faq-python-version-support) can be used.
 
 ### Install Django 🌟

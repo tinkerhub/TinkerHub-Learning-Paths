@@ -26,7 +26,3 @@
 <meta itemprop="image" content="{{ .Params.Image | absURL }}">
 {{ end }}
 <!-- END: SEO Tags -->
-
-{{ if eq .Site.IsServer true }}
-{{ template "_internal/google_analytics_async.html" . }}
-{{ end }}

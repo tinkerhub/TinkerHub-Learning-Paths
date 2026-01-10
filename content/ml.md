@@ -2,10 +2,8 @@
 title: Machine Learning
 date: 2021-04-12T05:26:57+05:30
 draft: false
-featured: false
 image: images/ml.jpg
-category: "intermediate"
-category: "ai-ml"
+category: ai-ml
 mainpage: false
 tags: ["machine-learning", "ai"]
 authors: ["GopikrishnanSasikumar"]

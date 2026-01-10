@@ -1,2 +1,6 @@
 NOTES*
-public/*
+
+# Hugo
+public/
+.hugo_build.lock
+resources/_gen/
