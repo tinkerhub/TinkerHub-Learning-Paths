@@ -13,7 +13,7 @@
               {{ .TableOfContents }}
           </div>
         </nav>
-        <article>
+        <article data-page-slug="{{ .File.ContentBaseName }}">
             {{ if .Params.image }}
                 <div class="image" style="background-image: url({{ .Params.Image | absURL }});"></div>
             {{ end }}
