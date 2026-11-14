@@ -89,3 +89,7 @@ Nil. It is easier for a complete beginner to start working on it. Before startin
 * [CSS Editor](https://play.google.com/store/apps/details?id=air.CSSEditor)
 * [HTML, CSS-Editor](https://play.google.com/store/apps/details?id=com.fazil.htmleditor)
 * [Learn Sass](https://play.google.com/store/apps/details?id=com.devtd.Learn_SASS)
+
+**REFERENCE**
+
+* [HTML Special Characters and Symbols Reference](https://webcheatsheet.com/html/html-special-characters-symbols) - Reserved characters, named and numeric references, and accessible use of symbols.
